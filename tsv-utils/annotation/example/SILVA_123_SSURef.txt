@@ -1,0 +1,590 @@
+X92134.1.1483	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;bacterium 52N3
+EF442993.1.1422	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfobacterales;Desulfobulbaceae;Desulfobulbus;Desulfobulbus sp. DSM 2033
+JQ972882.1.1517	Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Thermomonosporaceae;Actinomadura;Actinomadura bangladeshensis
+FJ799133.1.1480	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;bacterium enrichment culture clone BA75
+AY554420.1.1452	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Proteiniphilum;Bacteroides sp. 22C
+AY741401.1.1512	Bacteria;Proteobacteria;Gammaproteobacteria;NKB5;Legionella-like amoebal pathogen HT99
+AB021408.1.1509	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Marinobacterium;Marinobacterium georgiense
+KF534707.1.1515	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Chitinophaga;Chitinophaga sp. MJM 38
+JQ337440.1.1432	Bacteria;Verrucomicrobia;Spartobacteria;Chthoniobacterales;Xiphinematobacteraceae;Candidatus Xiphinematobacter;uncultured bacterium
+JQ337421.1.1386	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;uncultured;uncultured bacterium
+EF645831.1.1451	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio metschnikovii
+JQ337769.1.1390	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae;Chryseolinea;uncultured bacterium
+AB080644.1.1400	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Sulfuricurvum;Sulfuricurvum kujiense
+GU136558.1.1482	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Proteiniclasticum;Clostridia bacterium S130(4)-2
+EU095328.1.1454	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;Sphingobium qiguonii
+EU109728.1.1482	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;uncultured;Propioniferax sp. P7
+GU199001.1.1467	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;Luteimonas lutimaris
+AB243814.1.1495	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;vadinBC27 wastewater-sludge group;uncultured bacterium
+JF745870.1.1343	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas sp. JB13
+EU194888.1.1417	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;Flavisolibacter sp. B32
+KC166707.1.1459	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured Pseudomonas sp.
+KC172214.1.1444	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales Incertae Sedis;Rhizomicrobium;uncultured alpha proteobacterium
+KC166840.1.1460	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured Thauera sp.
+JF806522.1.1467	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Dyella;Dyella sp. BS13
+JF806525.1.1447	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Crenotalea;Chitinophaga sp. BS27
+KF751762.1.1408	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas venusta
+GU367156.1.1511	Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Phytomonospora;Phytomonospora endophytica
+KF779477.1.1351	Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis sp. SB026
+JF937425.1.1350	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;Halomonas sp. N1(2011)
+AB232339.1.1373	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Ensifer;Bartonella sp. TFC2
+AJ007007.1.1373	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus;Azoarcus sp.
+AF050099.1.1525	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XII;Fusibacter;Fusibacter paucivorans
+AB244763.1.1481	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Rhodanobacter lindaniclasticus
+GU474898.26782.28206	Bacteria;Proteobacteria;Alphaproteobacteria;E6aD10;uncultured Rhizobiales bacterium HF4000_32B18
+JN107635.1.1474	Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;Deferribacteraceae;Denitrovibrio;Deferribacteraceae bacterium S4
+AF174290.1.1527	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium heckeshornense
+EU443749.1.1413	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Parapusillimonas;Alcaligenes sp. CHN5
+JN166984.1.1478	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Muricauda;Muricauda antarctica
+AB369165.1.1412	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Candidatus Riegeria;uncultured bacterium
+AB369174.1.1446	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alishewanella;uncultured bacterium
+JN896598.1.1431	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Winogradskyella;Winogradskyella pulchriflava
+AJ429045.1.1456	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium agri
+AB327252.1.1445	Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Amycolatopsis;Amycolatopsis sacchari
+KF934397.1.1461	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Parafilimonas;Filimonas sp. 5GHs7-2
+JQ033983.1.1380	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;uncultured;Mariniflexile sp. JJ020
+JX945764.1.1431	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. LARP66
+HQ000020.1.1382	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp. HME6148
+FJ936950.1.1442	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;uncultured;uncultured bacterium
+KC305862.1.1446	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured bacterium
+JX983191.1.1417	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae;Mangrovibacterium;Mangrovibacterium diazotrophicum
+KJ734942.1.1487	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae;Chryseolinea;uncultured bacterium
+KC111871.1.1245	Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Pseudonocardia;Pseudonocardia sp. 4218
+HQ257379.1.1428	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;Corynebacterium lubricantis
+KC111834.1.1250	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. 4349
+JQ304795.1.1369	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Ancylobacter;Ancylobacter dichloromethanicus
+CP000469.4480614.4482148	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella sp. ANA-3
+HQ316944.1.1413	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;Mesorhizobium sp. KYW13
+KC479802.1.1492	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Chitinophaga;Chitinophaga sp. CC-ALB-1
+DQ337587.1.1491	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;soil bacterium CHNTR54
+GQ850557.1.1478	Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;Hados.Sed.Eubac.3;uncultured Fusobacteria bacterium
+KC170359.1.1354	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;alpha proteobacterium 7-19
+DQ342274.1.1446	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;Mesorhizobium sp. B3
+HQ412605.1.1427	Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Actinocatenispora;Actinocatenispora sp. TS223
+EU709848.1.1475	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium sp. 1777
+KM585604.1.1415	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio furnissii
+HE587098.1.1346	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Rhodopila;uncultured bacterium
+AB491817.1.1456	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Marinovum;uncultured alpha proteobacterium
+KJ782898.1.1445	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;uncultured bacterium
+FJ750462.1.1407	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;Luteimonas sp. EM0590
+KJ783044.1.1430	Bacteria;Saccharibacteria;uncultured bacterium
+FJ764762.1.1445	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Nitrincola;Nitrincola sp. E-048
+DQ460470.1.1426	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces alni
+JQ639054.1.1466	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Rudaibacter;Rudaibacter terrae
+HQ639027.1.1425	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;Corynebacterium sp. NNC-3
+AB681043.1.1452	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Chitinophaga;Chitinophaga japonensis
+DQ490442.1.1487	Bacteria;Actinobacteria;Actinobacteria;Frankiales;Frankiaceae;Jatrophihabitans;Frankiaceae bacterium KVD-unk-16
+AB514664.1.1474	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XII;Fusibacter;uncultured bacterium
+KM978211.1.1447	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Ferrovibrio;Ferrovibrio sp. LM-6
+AB681831.1.1410	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium daejeonense
+AB682248.1.1468	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella fodinae
+KP017541.1.1308	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Chitinophaga;Chitinophaga arvensicola
+JQ426322.1.1443	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;WW2-159;uncultured bacterium
+JQ670780.1.1503	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Yonghaparkia;Microcella sp. pm4
+HE650064.1.1377	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Hyphomonas;uncultured bacterium
+FJ976052.1.1397	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. 14jan04
+JQ716218.1.1411	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;Sphingopyxis sp. BJGMM-B8
+KJ886939.1.1406	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Chelatococcus;bacterium MPA 1113
+AWNK01000005.140601.142099	Bacteria;Chrysiogenetes;Chrysiogenetes;Chrysiogenales;Chrysiogenaceae;Chrysiogenes;Chrysiogenes arsenatis DSM 11915
+FM209144.1.1379	Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Sciscionella;uncultured Pseudonocardiaceae bacterium
+FM209153.1.1356	Bacteria;Chloroflexi;Thermomicrobia;JG30-KF-CM45;uncultured Chloroflexi bacterium
+FM242452.1.1444	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;Parvibaculum;uncultured alpha proteobacterium
+KC333941.1.1492	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Petrimonas;uncultured bacterium
+FJ348469.1.1394	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Formosa;Formosa spongicola
+FM886842.1.1401	Bacteria;Actinobacteria;Actinobacteria;Kineosporiales;Kineosporiaceae;Kineosporia;Kineosporia aurantiaca
+FM253684.1.1423	Bacteria;Proteobacteria;Alphaproteobacteria;Parvularculales;Parvularculaceae;Parvularcula;uncultured alpha proteobacterium
+FN297835.1.1455	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;Lutibaculum;Lutibaculum baratangense AMV1
+KF112046.1.1433	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Solimonadaceae;Solimonas;Solimonas terrae
+HQ122965.1.1374	Bacteria;Synergistetes;Synergistia;Synergistales;Synergistaceae;Aminivibrio;bacterium enrichment culture clone GD-A-37
+FN600410.1.1518	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas jinjuensis
+KC408522.1.1493	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XII;Fusibacter;uncultured bacterium
+U28172.1.1471	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Desulfuromonas;Desulfuromonas palmitatis
+HQ183835.1.1446	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Hyphomicrobium;uncultured Hyphomicrobiaceae bacterium
+EF128173.1.1376	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;Sphingomonas sp. Mar-33
+HE804607.1.1423	Bacteria;Acidobacteria;Acidobacteria;Subgroup 3;Unknown Family;Bryobacter;uncultured bacterium
+KC442847.1.1475	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius;uncultured bacterium
+FR749901.1.1513	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Pelobacter;Pelobacter massiliensis
+FN598016.1.1390	Bacteria;Deinococcus-Thermus;Deinococci;Deinococcales;Trueperaceae;Truepera;uncultured bacterium
+GQ245918.1.1430	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella dokdonensis
+EF590061.1.1346	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;uncultured;uncultured bacterium
+KC554093.1.1518	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;uncultured bacterium
+EF516694.1.1413	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;DA111;uncultured bacterium
+KC554582.1.1538	Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured bacterium
+KC554851.1.1541	Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured bacterium
+EF516933.1.1401	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;uncultured;uncultured bacterium
+GQ178058.1.1291	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Acinetobacter sp. AD513A
+GQ222468.1.1448	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;actinobacterium CR163b
+GQ221767.1.1426	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Kaistia;Prosthecomicrobium sp. ATCC 27833
+AY211516.1.1388	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Ancylobacter;Ancylobacter polymorphus
+HQ218501.1.1480	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Arcobacter;uncultured bacterium
+GQ246632.1.1213	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. UDC343
+CP001629.3896599.3898140	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfomicrobiaceae;Desulfomicrobium;Desulfomicrobium baculatum DSM 4028
+HF912314.1.1467	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Pseudoxanthomonas;uncultured Pseudoxanthomonas sp.
+HQ232444.1.1375	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Cellulomonadaceae;Actinotalea;uncultured bacterium
+KC554412.1.1516	Bacteria;Actinobacteria;Actinobacteria;Frankiales;Frankiaceae;Jatrophihabitans;uncultured bacterium
+KC554570.1.1513	Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Luedemannella;uncultured bacterium
+KC541202.1.1518	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Demequinaceae;Demequina;uncultured bacterium
+AB696522.1.1438	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Nocardioides;uncultured bacterium
+KM200485.1.1449	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured Pseudolabrys sp.
+FN824880.1.1270	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;uncultured bacterium
+EU104338.1.1456	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Microbacter;uncultured bacterium
+HG975580.1.1376	Bacteria;Proteobacteria;Gammaproteobacteria;Acidithiobacillales;9M32;uncultured bacterium
+KM263557.1.1451	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales Incertae Sedis;Nordella;bacterium enrichment culture clone Anammox_34
+HM008292.1.1241	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;WCHB1-69;uncultured bacterium
+AB755783.1.1474	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Anaerovorax;uncultured Anaerovorax sp.
+EU134448.1.1297	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;BIrii41;uncultured bacterium
+AB824307.1.1521	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;uncultured bacterium
+JF697427.1.1487	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;uncultured bacterium
+HM066522.1.1457	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Aquamicrobium;uncultured bacterium
+JF703555.1.1440	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus;uncultured proteobacterium
+EU016445.1.1484	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Cellulomonadaceae;Actinotalea;uncultured Cellulomonadaceae bacterium
+HQ326362.1.1478	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Sufflavibacter;uncultured bacterium
+FR749783.1.1487	Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;uncultured;uncultured actinobacterium
+FQ659961.1.1308	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Altererythrobacter;uncultured soil bacterium
+FQ659378.1.1354	Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;PHOS-HE36;uncultured soil bacterium
+EU133991.1.1303	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;uncultured;uncultured bacterium
+EU133388.1.1272	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;MND8;uncultured bacterium
+EU133473.1.1320	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;CCU22;uncultured bacterium
+EU133522.1.1334	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Skermanella;uncultured bacterium
+EU276530.1.1487	Bacteria;Acidobacteria;Acidobacteria;Subgroup 6;uncultured Acidobacteriales bacterium
+HQ405608.1.1480	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Subsaxibacter;bacterium enrichment culture clone AOM-SR-B19
+EU134371.1.1371	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Haliangiaceae;Haliangium;uncultured bacterium
+CP002377.387300.388840	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio furnissii NCTC 11218
+FR675974.1.1438	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;uncultured;uncultured bacterium
+EU328062.1.1446	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;uncultured gamma proteobacterium
+CP002457.466286.467816	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanella putrefaciens 200
+JQ800746.1.1449	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;JG34-KF-361;uncultured bacterium
+FR775412.1.1388	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Family XIII UCG-002;uncultured bacterium
+KC852964.1.1439	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;uncultured bacterium
+HQ395191.1.1485	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;WCHB1-69;uncultured bacterium
+HM186155.1.1299	Bacteria;Chloroflexi;S085;uncultured bacterium
+HQ395168.1.1463	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured bacterium
+KM456073.1.1446	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;uncultured bacterium
+CP002584.3359512.3361021	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Olivibacter;Sphingobacterium sp. 21
+EU287138.1.1483	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured bacterium
+JN023671.1.1442	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;uncultured bacterium
+GQ016392.1.1366	Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured bacterium
+KC775701.1.1358	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Roseomonas;uncultured Roseomonas sp.
+GU179704.1.1385	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Arcobacter;uncultured epsilon proteobacterium
+GU179909.1.1374	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Anaerovorax;uncultured Firmicutes bacterium
+EU305586.1.1413	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Hyphomonas;uncultured Hyphomonas sp.
+KC791013.1.1410	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;uncultured Aeromonas sp.
+HM131965.1.1505	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Dokdonella;uncultured soil bacterium
+EU360289.1.1450	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;uncultured Novosphingobium sp.
+CEGC01000044.1.1416	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;microbial mat metagenome
+EU440684.1.1409	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Hyphomicrobium;uncultured Hyphomicrobium sp.
+HM186323.1.1354	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis;Steroidobacter;uncultured bacterium
+AF465654.1.1415	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acidisphaera;uncultured alpha proteobacterium
+JN038223.1.1451	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Aquabacter;uncultured Xanthobacter sp.
+GU120578.1.1440	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;uncultured Bacteroidetes bacterium
+EU491883.1.1428	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AT-s3-44;uncultured bacterium
+AF280866.1.1541	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Pseudoxanthomonas;uncultured bacterium mle1-45
+EU449699.1.1457	Bacteria;Acidobacteria;Acidobacteria;Subgroup 6;uncultured Acidobacteriales bacterium
+GU180172.1.1487	Bacteria;Firmicutes;Clostridia;Clostridiales;Eubacteriaceae;Anaerofustis;uncultured bacterium
+AJ318139.1.1500	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Pseudospirillum;uncultured gamma proteobacterium
+KF071264.1.1313	Bacteria;Saccharibacteria;uncultured bacterium
+BAGU01001158.3904.5405	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;uncultured;Promicromonosporaceae bacterium W15
+CEGC01000373.3585.5048	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Insolitispirillum;microbial mat metagenome
+EU542474.1.1489	Bacteria;Bacteroidetes;Bacteroidetes vadinHA17;uncultured bacterium
+KF037950.1.1489	Bacteria;Acidobacteria;Acidobacteria;Subgroup 4;11-24;uncultured bacterium
+CEGE01000774.171.1693	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Marinobacterium;microbial mat metagenome
+EU589319.1.1497	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Solimonadaceae;Solimonas;uncultured soil bacterium
+AJ853620.1.1436	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;uncultured;uncultured bacterium
+AJ009493.1.1515	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;uncultured;uncultured bacterium SJA-136
+JX080256.1.1412	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Pedomicrobium;uncultured bacterium
+GU356214.1.1352	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;uncultured Aeromonas sp.
+AJ318120.1.1451	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Altererythrobacter;uncultured alpha proteobacterium
+KF071029.1.1356	Bacteria;Proteobacteria;Gammaproteobacteria;B38;uncultured bacterium
+KF071103.1.1321	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;uncultured bacterium
+GQ054353.1.1357	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+EU538852.1.1402	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;uncultured bacterium
+HM269126.1.1308	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Altererythrobacter;uncultured bacterium
+EU721765.1.1389	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XII;Fusibacter;uncultured Fusibacter sp.
+KF080558.1.1339	Bacteria;Actinobacteria;Actinobacteria;Frankiales;Frankiaceae;Jatrophihabitans;uncultured bacterium
+GQ062356.1.1364	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium
+JX079082.1.1400	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;MSB-1E8;uncultured bacterium
+HM276081.1.1340	Bacteria;Actinobacteria;Actinobacteria;Frankiales;Geodermatophilaceae;Geodermatophilus;uncultured bacterium
+JX047099.1.1429	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;uncultured Brevundimonas sp.
+JX075112.1.1274	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;uncultured bacterium
+EU662595.1.1512	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;uncultured bacterium
+AJFJ01000100.174891.176424	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium phlei RIVM601174
+GU389545.1.1225	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;uncultured bacterium
+JX223882.1.1244	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;uncultured;uncultured bacterium
+GU451405.1.1215	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Arcobacter;uncultured bacterium
+JX133256.1.1455	Bacteria;Chloroflexi;Ktedonobacteria;JG30-KF-AS9;uncultured bacterium
+GQ093308.1.1360	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Sphingobacterium;uncultured bacterium
+EU735639.1.1433	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius;uncultured bacterium
+JX198651.1.1513	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-009;uncultured bacterium
+AM950255.1.1341	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma;uncultured bacterium
+JX222047.1.1443	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;uncultured;uncultured bacterium
+JX222282.1.1454	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;uncultured;uncultured bacterium
+HQ682014.1.1493	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;uncultured bacterium
+AM950257.1.1352	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XII;Fusibacter;uncultured bacterium
+KM873631.1.1367	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Altererythrobacter;uncultured Novosphingobium sp.
+KM882691.1.1311	Bacteria;Acidobacteria;Acidobacteria;Acidobacteriales;Acidobacteriaceae (Subgroup 1);Edaphobacter;uncultured bacterium
+JX224618.1.1412	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;uncultured;uncultured bacterium
+KM882790.1.1302	Bacteria;Saccharibacteria;uncultured bacterium
+CP004403.1418280.1419781	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;uncultured;endosymbiont of Acanthamoeba sp. UWC8
+JN217177.1.1510	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Proteiniphilum;uncultured bacterium
+AM934973.1.1361	Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;uncultured;uncultured Microbacteriaceae bacterium
+AM935108.1.1353	Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Pseudonocardia;uncultured Pseudonocardia sp.
+KF286037.1.1264	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AT-s3-44;uncultured alpha proteobacterium
+GQ113287.1.1360	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;uncultured bacterium
+EU881311.1.1458	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;uncultured;uncultured bacterium
+AM936572.1.1308	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;DUNssu044;uncultured Xanthobacteraceae bacterium
+HQ674864.1.1490	Bacteria;Actinobacteria;Actinobacteria;Frankiales;Frankiaceae;Jatrophihabitans;uncultured Frankineae bacterium
+JN256084.1.1494	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;uncultured;uncultured bacterium
+JOHY01000122.128.1606	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. NRRL F-5123
+LK392862.1.1445	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;uncultured bacterium
+AY340833.1.1414	Bacteria;Bacteroidetes;Bacteroidetes vadinHA17;uncultured bacterium
+GQ263105.1.1480	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;uncultured;uncultured bacterium
+GQ132253.1.1383	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Petrimonas;uncultured bacterium
+GQ264142.1.1411	Bacteria;Chloroflexi;S085;uncultured bacterium
+GQ264366.1.1447	Bacteria;Acidobacteria;Acidobacteria;Subgroup 3;Unknown Family;Candidatus Solibacter;uncultured bacterium
+JQHX01000062.345.1877	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;Vibrio fluvialis 539
+LN562844.1.1336	Bacteria;Chloroflexi;Thermomicrobia;JG30-KF-CM45;uncultured bacterium
+LN565610.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Hephaestia;uncultured bacterium
+JHOM01041610.752.2210	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Onthophagus taurus
+AY093457.1.1447	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alishewanella;uncultured bacterium
+HQ727621.1.1453	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;uncultured alpha proteobacterium
+HM315996.1.1376	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Polyangiaceae;Sorangium;uncultured bacterium
+LN567232.1.1316	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Hyphomicrobium;uncultured bacterium
+HM319117.1.1337	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Aeromicrobium;uncultured bacterium
+LN568212.1.1320	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;uncultured bacterium
+KF268883.1.1340	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;uncultured;uncultured bacterium
+KF268828.1.1334	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Defluviimonas;uncultured bacterium
+LN565616.1.1318	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;uncultured;uncultured bacterium
+LN570301.1.1338	Bacteria;Acidobacteria;Acidobacteria;Subgroup 3;Unknown Family;Bryobacter;uncultured bacterium
+AY102320.1.1308	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales Incertae Sedis;Bauldia;uncultured bacterium
+LN571000.1.1375	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Dokdonella;uncultured bacterium
+LN567498.1.1370	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;uncultured;uncultured bacterium
+LN567551.1.1368	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis;Acidibacter;uncultured bacterium
+LN567369.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillales Incertae Sedis;Reyranella;uncultured bacterium
+LN567719.1.1357	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Lysinimonas;uncultured bacterium
+LN567869.1.1360	Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatimonas;uncultured bacterium
+JX262580.1.1507	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;uncultured bacterium
+HM339179.1.1308	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;uncultured bacterium
+LN572209.1.1321	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;uncultured;uncultured bacterium
+LN569992.1.1317	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;uncultured;uncultured bacterium
+LN570398.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured bacterium
+EU881135.1.1449	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;uncultured;uncultured bacterium
+FJ152839.1.1442	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Pedomicrobium;uncultured bacterium
+EU881350.1.1503	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis;Acidibacter;uncultured bacterium
+EU887997.1.1380	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;PL-11B8 wastewater-sludge group;uncultured Bacteroidetes bacterium
+LN573811.1.1337	Bacteria;Acidobacteria;Acidobacteria;Subgroup 3;Unknown Family;Bryobacter;uncultured bacterium
+JOMG01000002.8815.10326	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Pelobacter;Pelobacter seleniigenes DSM 18267
+AGAQ01000316.157.1671	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium avium subsp. avium Env 77
+HM362441.1.1460	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis;Acidibacter;uncultured bacterium
+GQ182320.1.1399	Bacteria;Spirochaetae;Spirochaetes;Spirochaetales;Spirochaetaceae;uncultured;uncultured bacterium
+AGBF01000432.45.1576	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces zinciresistens K42
+GQ221073.1.1482	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Formosa;bacterium enrichment culture clone NCAAH 30A7
+CP006850.2812521.2814025	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Nocardia;Nocardia nova SH22a
+LN562334.1.1318	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;uncultured bacterium
+LN555010.1.1304	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;KCM-B-15;uncultured Rhodospirillaceae bacterium
+LN561652.1.1317	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Pedomicrobium;uncultured bacterium
+LN563320.1.1306	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Pedomicrobium;uncultured bacterium
+GQ263085.1.1430	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured bacterium
+LN562387.1.1320	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Rhodoplanes;uncultured bacterium
+GQ263435.1.1425	Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;480-2;uncultured bacterium
+LN561673.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Altererythrobacter;uncultured bacterium
+LN563899.1.1314	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured bacterium
+LN562518.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured bacterium
+GQ262853.1.1412	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;uncultured;uncultured bacterium
+GQ263488.1.1471	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Promicromonosporaceae;Promicromonospora;uncultured bacterium
+GQ263616.1.1474	Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Thermomonosporaceae;Actinomadura;uncultured bacterium
+LN562911.1.1354	Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Crossiella;uncultured bacterium
+LN563092.1.1387	Bacteria;Acidobacteria;Acidobacteria;Subgroup 6;uncultured bacterium
+GQ262963.1.1441	Bacteria;Chloroflexi;S085;uncultured bacterium
+GQ263465.1.1469	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;uncultured bacterium
+GQ263805.1.1476	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis;Acidibacter;uncultured bacterium
+GQ263562.1.1474	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;uncultured bacterium
+GQ264297.1.1431	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;uncultured;uncultured bacterium
+LN563104.1.1365	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Bordetella;uncultured bacterium
+LN563180.1.1352	Bacteria;Acidobacteria;Acidobacteria;Subgroup 4;Unknown Family;Blastocatella;uncultured bacterium
+LN568336.1.1321	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Roseomonas;uncultured bacterium
+LN565255.1.1379	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Rhodanobacter;uncultured bacterium
+LN565644.1.1368	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;JTB255 marine benthic group;uncultured bacterium
+LN570063.1.1341	Bacteria;Chloroflexi;Thermomicrobia;Sphaerobacterales;Sphaerobacteraceae;Nitrolancea;uncultured bacterium
+LN564789.1.1363	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Pigmentiphaga;uncultured bacterium
+LN570400.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;AKYG1088;uncultured bacterium
+LN570920.1.1355	Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Thermomonosporaceae;Actinomadura;uncultured bacterium
+LN567366.1.1333	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured bacterium
+LN567681.1.1367	Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Streptosporangiaceae;uncultured;uncultured bacterium
+LN565488.1.1319	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;uncultured bacterium
+LN571269.1.1317	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales Incertae Sedis;Rhizomicrobium;uncultured bacterium
+LN567823.1.1383	Bacteria;Proteobacteria;Betaproteobacteria;TRA3-20;uncultured bacterium
+LN565611.1.1320	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;uncultured bacterium
+LN567905.1.1354	Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;uncultured;uncultured bacterium
+LN568008.1.1371	Bacteria;Chlorobi;Ignavibacteria;Ignavibacteriales;Ignavibacteriaceae;Ignavibacterium;uncultured bacterium
+LN568562.1.1377	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;uncultured bacterium
+LN567263.1.1321	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;uncultured bacterium
+LN567546.1.1371	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis;Steroidobacter;uncultured bacterium
+LN567607.1.1377	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Crenotalea;uncultured bacterium
+LN567618.1.1371	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Parafilimonas;uncultured bacterium
+LN567722.1.1357	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Cryobacterium;uncultured bacterium
+LN572123.1.1318	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Pedomicrobium;uncultured bacterium
+LN572255.1.1325	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;uncultured;uncultured bacterium
+LN569976.1.1327	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured bacterium
+LN567260.1.1334	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured bacterium
+LN567332.1.1313	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales Incertae Sedis;Rhizomicrobium;uncultured bacterium
+LN569798.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured bacterium
+LN569991.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillales Incertae Sedis;Reyranella;uncultured bacterium
+LN570205.1.1354	Bacteria;Actinobacteria;Actinobacteria;Frankiales;Frankiaceae;Jatrophihabitans;uncultured bacterium
+LN570208.1.1342	Bacteria;Actinobacteria;Actinobacteria;Frankiales;Acidothermaceae;Acidothermus;uncultured bacterium
+LN567716.1.1348	Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;uncultured;uncultured bacterium
+LN568108.1.1318	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;uncultured bacterium
+LN570440.1.1296	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Woodsholea;uncultured bacterium
+LN570460.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;uncultured;uncultured bacterium
+LN570012.1.1368	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Crenotalea;uncultured bacterium
+LN571273.1.1324	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;JG37-AG-20;uncultured bacterium
+LN570451.1.1318	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;uncultured bacterium
+LN570553.1.1373	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis;Steroidobacter;uncultured bacterium
+JN409198.1.1410	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;uncultured alpha proteobacterium
+LN571326.1.1319	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured bacterium
+GQ389150.1.1476	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;uncultured bacterium
+LN570873.1.1390	Bacteria;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Opitutus;uncultured bacterium
+LN571406.1.1370	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Crenotalea;uncultured bacterium
+LN570448.1.1330	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;WW2-159;uncultured bacterium
+LN572476.1.1341	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured bacterium
+ASJA01000004.146378.147825	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Maricaulis sp. JL2009
+LN572477.1.1324	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillales Incertae Sedis;Reyranella;uncultured bacterium
+LN572516.1.1371	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;uncultured;uncultured bacterium
+LN571190.1.1318	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;uncultured bacterium
+LN571267.1.1318	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales Incertae Sedis;Rhizomicrobium;uncultured bacterium
+LN573217.1.1353	Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Actinophytocola;uncultured bacterium
+LN572131.1.1318	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;uncultured;uncultured bacterium
+LN572492.1.1321	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillales Incertae Sedis;Reyranella;uncultured bacterium
+LN573210.1.1349	Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Actinophytocola;uncultured bacterium
+LN573327.1.1348	Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Luedemannella;uncultured bacterium
+LN573067.1.1333	Bacteria;Chloroflexi;Gitt-GS-136;uncultured bacterium
+LN573329.1.1344	Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Luedemannella;uncultured bacterium
+FJ165544.1.1449	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;uncultured;uncultured bacterium
+FJ167451.1.1443	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;uncultured bacterium
+KF494676.1.1483	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Aeromicrobium;uncultured bacterium
+GU560159.1.1495	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus;uncultured Azoarcus sp.
+AY570612.1.1489	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured bacterium
+GQ487915.1.1450	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingosinicella;uncultured bacterium
+HM362504.1.1458	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis;Acidibacter;uncultured bacterium
+GU584632.1.1390	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Arenibacter;uncultured bacterium
+AY913236.1.1446	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;DA111;uncultured forest soil bacterium
+HM438251.1.1508	Bacteria;Acidobacteria;Acidobacteria;Subgroup 6;uncultured Acidobacteriaceae bacterium
+AGER01000030.481559.483074	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. HGB0020
+U81670.1.1450	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;uncultured bacterium
+AMSI01000044.396.1887	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;Nitratireductor indicus C115
+AY921749.1.1381	Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;uncultured;uncultured Gemmatimonadetes bacterium
+AY921897.1.1344	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;uncultured;uncultured alpha proteobacterium
+FJ205860.1.1307	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Petrimonas;uncultured bacterium
+AY922042.1.1340	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Altererythrobacter;uncultured alpha proteobacterium
+GQ354956.1.1504	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;uncultured Firmicutes bacterium
+AY921724.1.1370	Bacteria;Actinobacteria;Actinobacteria;Micromonosporales;Micromonosporaceae;Micromonospora;uncultured actinobacterium
+AY922010.1.1408	Bacteria;Acidobacteria;Acidobacteria;Subgroup 6;uncultured Acidobacteria bacterium
+GQ500730.1.1500	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;uncultured;uncultured bacterium
+X95233.1.1494	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;uncultured bacterium
+FJ230928.1.1451	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bosea;uncultured bacterium
+HM447748.1.1442	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;uncultured Rhizobiales bacterium
+GQ377131.1.1460	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;bacterium enrichment culture clone DPF35
+AY945873.1.1429	Bacteria;Proteobacteria;Alphaproteobacteria;Parvularculales;Parvularculaceae;Parvularcula;uncultured bacterium
+KF709026.1.1410	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Demequinaceae;Lysinimicrobium;uncultured bacterium
+KF712788.1.1453	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;uncultured;uncultured bacterium
+KF733613.1.1478	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Novispirillum;uncultured Marispirillum sp.
+GQ480156.1.1504	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;uncultured bacterium
+KF500892.1.1420	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Limnobacter;uncultured bacterium
+CU915013.1.1330	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Stappia;uncultured bacterium
+AY921685.1.1374	Bacteria;Actinobacteria;Actinobacteria;Pseudonocardiales;Pseudonocardiaceae;Actinophytocola;uncultured actinobacterium
+CU920881.1.1308	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured bacterium
+AY921674.1.1407	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Haliangiaceae;Haliangium;uncultured delta proteobacterium
+AY921770.1.1398	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Dokdonella;uncultured gamma proteobacterium
+AY921937.1.1346	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillales Incertae Sedis;Reyranella;uncultured alpha proteobacterium
+JX403059.1.1507	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Arcobacter;uncultured bacterium
+CU920660.1.1342	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium
+AY957948.1.1512	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;uncultured bacterium
+CU927590.1.1340	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured bacterium
+AY955095.1.1528	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+CU926021.1.1347	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Macellibacteroides;uncultured bacterium
+HQ912787.1.1492	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Altererythrobacter;uncultured Altererythrobacter sp.
+DQ080188.1.1486	Bacteria;Synergistetes;Synergistia;Synergistales;Synergistaceae;uncultured;uncultured bacterium
+HQ912773.1.1478	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Thermovum;uncultured bacterium
+HQ817350.1.1460	Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Carnobacterium;uncultured organism
+KF708912.1.1424	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+CP008786.98902.100419	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia thailandensis E264
+DQ125778.1.1480	Bacteria;Acidobacteria;Acidobacteria;Subgroup 6;uncultured bacterium
+KF708732.1.1424	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+HM591393.1.1430	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius;uncultured bacterium
+DQ129622.1.1427	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;JG34-KF-161;uncultured bacterium
+CR933023.1.1287	Bacteria;Lentisphaerae;Lentisphaeria;Victivallales;Victivallaceae;Victivallis;uncultured bacterium
+HQ860721.1.1421	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;uncultured bacterium
+CU921122.1.1360	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured bacterium
+HQ860733.1.1499	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Peptoclostridium;uncultured bacterium
+CU923664.1.1343	Bacteria;Acidobacteria;Acidobacteria;Subgroup 4;Unknown Family;Blastocatella;uncultured bacterium
+CU926767.1.1359	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Paludibacter;uncultured bacterium
+KF798449.1.1505	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;uncultured bacterium
+FJ380131.1.1485	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Mizugakiibacter;uncultured bacterium
+DQ018818.1.1350	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured anaerobic bacterium
+CU927523.1.1339	Bacteria;Synergistetes;Synergistia;Synergistales;Synergistaceae;uncultured;uncultured bacterium
+KF798549.1.1509	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;uncultured bacterium
+KF963813.1.1359	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Paludibacter;uncultured bacterium
+CU927030.1.1359	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured bacterium
+DQ001680.1.1275	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;uncultured bacterium
+HM558565.1.1361	Bacteria;Chloroflexi;Ktedonobacteria;JG30-KF-AS9;uncultured bacterium
+DQ256321.1.1500	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured bacterium
+HM559217.1.1417	Bacteria;Nitrospirae;Nitrospira;Nitrospirales;0319-6A21;uncultured bacterium
+FJ347718.1.1217	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Proteiniclasticum;uncultured bacterium
+KF827421.1.1400	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Vasilyevaea;uncultured alpha proteobacterium
+JX489968.1.1499	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis;Steroidobacter;uncultured soil bacterium
+JX489981.1.1484	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;uncultured;uncultured soil bacterium
+DQ116002.1.1486	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;uncultured bacterium
+JX505342.1.1411	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;uncultured Bradyrhizobium sp.
+FJ469311.1.1217	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;uncultured bacterium
+DQ137966.1.1229	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Pedomicrobium;uncultured bacterium
+KF851141.1.1500	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured Pseudomonas sp.
+DQ125912.1.1474	Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;uncultured;uncultured bacterium
+DQ128248.1.1433	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alishewanella;uncultured bacterium
+KJ192072.1.1505	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;uncultured;uncultured Chitinophagaceae bacterium
+JF103728.1.1353	Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Patulibacteraceae;Patulibacter;uncultured bacterium
+DQ337057.1.1500	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;uncultured;uncultured bacterium
+DQ159184.1.1508	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;uncultured bacterium
+KJ191979.1.1466	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;ML80;uncultured Rhodospirillaceae bacterium
+GU724740.1.1477	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Macellibacteroides;uncultured bacterium
+KF911265.1.1451	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;uncultured bacterium
+CP009495.3823698.3825228	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium smegmatis
+DQ396349.1.1527	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;uncultured organism
+KF927717.1.1530	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;uncultured bacterium
+FJ535052.1.1478	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured bacterium
+JX534180.1.1478	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Pseudochrobactrum;uncultured bacterium
+DQ264415.1.1506	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;uncultured bacterium
+FJ536888.1.1451	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;uncultured;uncultured Sphingobacteriales bacterium
+DQ295634.1.1201	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Sulfuricurvum;uncultured epsilon proteobacterium
+JX575872.1.1399	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Proteiniphilum;uncultured Porphyromonadaceae bacterium
+JF120257.1.1345	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Kribbella;uncultured bacterium
+KJ128032.1.1448	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured Rhizobium sp.
+FJ444737.1.1448	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;uncultured Sphingomonas sp.
+JN541166.1.1506	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Castellaniella;uncultured Alcaligenes sp.
+ABCL01000012.1.1910	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius;Roseovarius sp. TM1035
+D84530.1.1411	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;Sphingopyxis macrogoltabida
+JF124601.1.1321	Bacteria;Chloroflexi;KD4-96;uncultured bacterium
+DQ336973.1.1498	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+FJ478854.1.1498	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis;Acidibacter;uncultured bacterium
+KJ206702.1.1488	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Petrimonas;uncultured bacterium
+AXVQ01000004.692032.693538	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Arthrobacter;Arthrobacter sp. 35W
+FJ479237.1.1447	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Pedomicrobium;uncultured bacterium
+KJ191970.1.1450	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Rhodoplanes;uncultured Hyphomicrobiaceae bacterium
+DQ337012.1.1441	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodovulum;uncultured bacterium
+FJ497442.1.1436	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;uncultured epsilon proteobacterium
+DQ395970.1.1393	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;uncultured organism
+JF168212.1.1341	Bacteria;Actinobacteria;Actinobacteria;Frankiales;Frankiaceae;Jatrophihabitans;uncultured bacterium
+DQ395844.1.1475	Bacteria;Proteobacteria;Alphaproteobacteria;DB1-14;uncultured organism
+DQ404752.1.1451	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales Incertae Sedis;Bauldia;uncultured bacterium
+AHTH01000032.12110.13654	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alishewanella;Alishewanella jeotgali KCTC 22429
+CP010816.226608.228163	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;Escherichia coli
+DQ469215.1.1500	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+DQ469201.1.1496	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;uncultured bacterium
+ARTB01000002.960062.961565	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Leifsonia;Cryocola sp. 340MFSha3.1
+DQ062742.1.1386	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;Pseudolabrys taiwanensis
+DQ026660.1.1505	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces rectiviolaceus
+JN679124.1.1448	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Devosia;uncultured Devosia sp.
+ARBU01000050.2219.3723	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium;Mycobacterium hassiacum DSM 44199
+JN685456.1.1513	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Anaerovorax;uncultured bacterium
+FJ674973.1.1396	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Proteiniphilum;uncultured bacterium
+JN802703.1.1345	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;uncultured Flavobacterium sp.
+FJ672348.1.1396	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Proteiniphilum;uncultured bacterium
+FJ672447.1.1441	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Proteiniphilum;uncultured bacterium
+JF198248.1.1338	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Nocardioides;uncultured bacterium
+FJ675306.1.1444	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Proteiniphilum;uncultured bacterium
+JN825374.1.1386	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;MSB-1E8;uncultured alpha proteobacterium
+JN825639.1.1522	Bacteria;Proteobacteria;Deltaproteobacteria;Sh765B-TzT-29;uncultured bacterium
+DQ675038.1.1450	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured bacterium
+DQ984537.1.1444	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured bacterium
+DQ676993.1.1505	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Macellibacteroides;iron-reducing enrichment clone Cl-A1
+JN868919.1.1529	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+EF020168.1.1334	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured Hyphomicrobiaceae bacterium
+JN626199.1.1388	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Pannonibacter;Pannonibacter sp. enrichment culture clone BS
+DQ675052.1.1446	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured bacterium
+JF214497.1.1306	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;uncultured bacterium
+JPYQ01000020.388.1881	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. YS-1r
+EF063613.1.1479	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;uncultured;uncultured bacterium
+JF178945.1.1306	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;BCf3-20;uncultured bacterium
+JN684012.1.1501	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured bacterium
+EF174287.1.1515	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteibacter;uncultured bacterium
+JN683966.1.1489	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;GKS98 freshwater group;uncultured bacterium
+JN683977.1.1495	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Nitrincola;uncultured bacterium
+EF111210.1.1218	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;uncultured;uncultured alpha proteobacterium
+AACY023937991.136.1658	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;marine metagenome
+JNWU01000079.24.1529	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces alboviridis
+HM798799.1.1401	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;uncultured Sphingomonadales bacterium
+JF275023.1.1212	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales Incertae Sedis;Rhizomicrobium;uncultured alpha proteobacterium
+JN697988.1.1324	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Pseudolabrys;uncultured bacterium
+JQ072157.1.1358	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;uncultured;uncultured bacterium
+JQ088387.1.1500	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured bacterium
+JF344261.1.1425	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;Afifella;uncultured alpha proteobacterium
+FJ769518.1.1489	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured bacterium
+JX841327.1.1541	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Lactococcus;uncultured bacterium
+KJ600862.1.1403	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured bacterium
+JF208969.1.1359	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;uncultured bacterium
+JX875873.1.1443	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;uncultured bacterium
+JN867352.1.1455	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Agromyces;Agromyces sp. enrichment culture clone TMX-17
+JF215556.1.1344	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Lysinimonas;uncultured bacterium
+KJ600974.1.1455	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured bacterium
+JN873187.1.1482	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae;Pedobacter;uncultured Flavobacterium sp.
+EF018850.1.1333	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiales Incertae Sedis;Rhizomicrobium;uncultured proteobacterium
+JF216986.1.1305	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium;uncultured bacterium
+JF417855.1.1450	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Ellin6055;uncultured bacterium
+DQ988303.1.1262	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Chelatococcus;uncultured bacterium
+JF429376.1.1452	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;uncultured bacterium
+EF020067.1.1336	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;uncultured Sphingomonadaceae bacterium
+JF417801.1.1475	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;uncultured bacterium
+JN881636.1.1418	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Hyphomonas;uncultured alpha proteobacterium
+JF223622.1.1358	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+KC002819.1.1399	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;unidentified marine bacterioplankton
+JF232400.1.1352	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Methyloversatilis;uncultured bacterium
+JQ247517.1.1286	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;uncultured Streptomyces sp.
+AKKU01000023.38873.40404	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alishewanella;Alishewanella agri BL06
+AKIQ01000083.145758.147274	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Acinetobacter venetianus RAG-1 = CIP 110063
+JF240884.1.1358	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+JQ032595.1.1448	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+EF219029.1.1443	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;uncultured;uncultured bacterium
+EF219046.1.1385	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;Sphingomonas sp. ROi43
+AAAK03000115.725.2258	Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecium DO
+HM798683.1.1377	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;uncultured Sphingomonadales bacterium
+JN981895.1.1498	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Macellibacteroides;uncultured Spirochaetes bacterium
+AULN01000012.143081.144605	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;Luteimonas mephitis DSM 12574
+HM798708.1.1424	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;uncultured Sphingomonadales bacterium
+AAJO01000012.669.2201	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus agalactiae 18RS21
+JQ085720.1.1487	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured bacterium
+JF272138.1.1448	Bacteria;Proteobacteria;Alphaproteobacteria;DB1-14;uncultured bacterium
+JQ088343.1.1479	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Arcobacter;uncultured bacterium
+JQ072613.1.1343	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured bacterium
+JQ072869.1.1410	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Devosia;uncultured bacterium
+JQ087006.1.1437	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Lysinimonas;uncultured Microbacteriaceae bacterium
+KJ410592.1.1283	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured Pseudolabrys sp.
+JQ088320.1.1426	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Gemmobacter;uncultured bacterium
+JQ088380.1.1428	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Thioclava;uncultured bacterium
+AUMX01000033.12.1465	Archaea;Euryarchaeota;Methanomicrobia;Methanomicrobiales;Methanocorpusculaceae;Methanocorpusculum;Methanocorpusculum bavaricum DSM 4179
+EF219040.1.1443	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Xanthobacter;Xanthobacter sp. ROi16
+HM835872.1.1359	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;uncultured bacterium
+HM836415.1.1282	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;uncultured bacterium
+JQ088433.1.1494	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XII;Fusibacter;uncultured bacterium
+JF265698.1.1349	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;uncultured bacterium
+JF344342.1.1496	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;uncultured gamma proteobacterium
+JX872364.1.1451	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;uncultured bacterium
+JX872320.1.1465	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas;uncultured bacterium
+JX855301.1.1530	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured Pseudomonas sp.
+HM845868.1.1303	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Devosia;uncultured bacterium
+KJ600856.1.1417	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Devosia;uncultured bacterium
+KJ600990.1.1456	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured bacterium
+JX898131.1.1449	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Hyphomonas;uncultured bacterium
+HM839487.1.1306	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;uncultured bacterium
+JX855295.1.1456	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas;uncultured Brevundimonas sp.
+JF417853.1.1452	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;JG34-KF-161;uncultured bacterium
+JF421131.1.1508	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Pseudospirillum;uncultured gamma proteobacterium
+KJ600828.1.1434	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;uncultured bacterium
+JF500178.1.1494	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+JQ186009.1.1358	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;uncultured bacterium
+JF417776.1.1448	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;uncultured bacterium
+JQ245604.1.1402	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Marinobacterium;uncultured bacterium
+JQ218602.1.1489	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured proteobacterium
+JQ245551.1.1386	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Fastidiosipila;uncultured bacterium
+JQ245605.1.1389	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Nitrincola;uncultured bacterium
+HQ008618.1.1301	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae AC2044 group;uncultured bacterium
+JQ190338.1.1363	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;uncultured bacterium
+JQ218573.1.1481	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;uncultured proteobacterium
+KC110960.1.1446	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum;uncultured Ochrobactrum sp.

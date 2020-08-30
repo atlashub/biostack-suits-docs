@@ -11,6 +11,7 @@
     $ tsv-utils subset
     
     Usage: tsv-utils subset [options] <tsv> <list>
+    
     Options:
       -c INT   target col for select, default: 1
       -r       subset option: -r for supplementary set, default: intersection.

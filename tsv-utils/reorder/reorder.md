@@ -9,10 +9,12 @@
 **命令行接口：**
 
     $ tsv-utils  reorder
-    
-    Usage: tsv-utils reorder <matrix> <list>
+
+    Usage: tsv-utils reorder [options] <tsv> <list>
+
     Options:
       -t INT Target in fields to reorder, default: [1]
+
 
 **可选参数：**
 

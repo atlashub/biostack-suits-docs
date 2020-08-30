@@ -10,8 +10,8 @@
 
     $ tsv-utils transpose
 
-
     Usage: tsv-utils transpose <tsv>
+
 
 ### 二、使用场景实例及其用法
 

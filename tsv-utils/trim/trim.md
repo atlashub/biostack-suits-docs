@@ -10,7 +10,8 @@
 
     $ tsv-utils trim
     
-    Usage: tsv-utils trim [options] <tab> <cutoff:2>
+    Usage: tsv-utils trim  <tsv> <cutoff:2>
+
 
 ### 二、使用场景实例及其用法
 

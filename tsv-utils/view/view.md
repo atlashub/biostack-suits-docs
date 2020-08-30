@@ -8,7 +8,9 @@
 
 **命令行接口**：
 
-    Usage: tsv-utils view <tsv>
+    $ tsv-utils view
+    
+    Usage: tsv-utils [options] view <tsv>
     
     Options:
        -c   Add comment char '#' to the first line.
@@ -20,13 +22,12 @@
 
 **可选参数：**
 
-```
--c  再第一行添加'#', 如存在,跳过;
--b  删除空白行和注释；
--d  删除除了第一行外的以'#'开头的注释行;
--r  将数值变为整数;
--l  添加行号
-```
+    -c  再第一行添加'#', 如存在,跳过;
+    -b  删除空白行和注释；
+    -d  删除除了第一行外的以'#'开头的注释行;
+    -r  将数值变为整数;
+    -l  添加行号
+
 
 ### 二、使用场景实例及其用法
 
@@ -103,14 +104,11 @@
     $ cat  alpha.A-1.txt | cut -f1,2,4
 
 
-​    
-​    #Sample berger_parker   chao1
-​    A-1     0.0313  433.2
+    #Sample berger_parker   chao1
+    A-1     0.0313  433.2
 
 
     $ cat  alpha.A-2.txt  alpha.A-1.txt | tsv-utils view -d - | cut -f1,2,3
-
-  
 
 
     #Sample berger_parker   buzas_gibson

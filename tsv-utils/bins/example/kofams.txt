@@ -1,0 +1,1414 @@
+#seqid	ko	threshold	score	evalue	domain_coverage	query_coverage	definition	type
+Y1_g_00002	K03686	415.90	500.5	1.4e-150	0.50	0.98	molecular chaperone DnaJ
+Y1_g_00003	K04043	830.13	895.1	7.1e-270	0.79	0.99	molecular chaperone DnaK
+Y1_g_00004	K03687	30.90	186.6	1.1e-55	0.43	0.92	molecular chaperone GrpE
+Y1_g_00005	K03705	67.20	310.9	2.3e-93	0.79	0.98	heat-inducible transcriptional repressor
+Y1_g_00006	K02495	263.57	311.1	2.2e-93	0.71	0.97	oxygen-independent coproporphyrinogen III oxidase [EC:1.3.98.3]
+Y1_g_00007	K11753	125.97	332.0	7.8e-100	0.73	0.95	riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2]
+Y1_g_00008	K03177	215.57	318.4	1.4e-95	0.41	0.98	tRNA pseudouridine55 synthase [EC:5.4.99.25]
+Y1_g_00009	K05794	57.13	84.4	1.3e-24	0.16	0.30	tellurite resistance protein TerC
+Y1_g_00010	K02834	27.27	146.4	1.5e-43	0.44	0.97	ribosome-binding factor A
+Y1_g_00011	K02519	306.67	971.2	1.1e-292	0.72	0.99	translation initiation factor IF-2
+Y1_g_00012	K07742	25.53	30.8	3.7e-08	0.28	0.70	uncharacterized protein
+Y1_g_00013	K07742	25.53	87.5	1.9e-25	0.36	0.88	uncharacterized protein
+Y1_g_00014	K02600	40.37	556.4	8.9e-168	0.76	0.93	transcription termination/antitermination protein NusA
+Y1_g_00015	K09748	31.20	167.9	5.2e-50	0.50	0.97	ribosome maturation factor RimP
+Y1_g_00016	K03763	228.33	2092.9	0	0.94	1.00	DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+Y1_g_00017	K01881	159.03	451.0	7.5e-136	0.77	0.98	prolyl-tRNA synthetase [EC:6.1.1.15]
+Y1_g_00018	K11749	65.53	401.8	1.2e-120	0.63	1.00	regulator of sigma E protease [EC:3.4.24.-]
+Y1_g_00019	K00981	49.23	195.8	2.4e-58	0.49	0.98	phosphatidate cytidylyltransferase [EC:2.7.7.41]
+Y1_g_00020	K00806	338.00	380.0	1.2e-114	0.72	0.98	undecaprenyl diphosphate synthase [EC:2.5.1.31]
+Y1_g_00021	K02838	26.67	242.8	5.8e-73	0.67	0.98	ribosome recycling factor
+Y1_g_00022	K09903	78.37	394.1	5.6e-119	0.77	0.98	uridylate kinase [EC:2.7.4.22]
+Y1_g_00023	K02357	118.20	348.0	2.2e-104	0.32	0.99	elongation factor Ts
+Y1_g_00024	K02967	138.30	416.4	1.6e-125	0.61	0.92	small subunit ribosomal protein S2
+Y1_g_00025	K07461	60.57	128.8	4.3e-38	0.31	0.92	putative endonuclease
+Y1_g_00027	K00655	125.27	130.0	1.7e-38	0.55	0.77	1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]
+Y1_g_00028	K03294	509.70	519.8	1.5e-156	0.73	0.98	basic amino acid/polyamine antiporter, APA family
+Y1_g_00030	K18890	722.17	782.0	7.6e-236	0.86	0.97	ATP-binding cassette, subfamily B, multidrug efflux pump
+Y1_g_00031	K18889	665.10	822.2	4.9e-248	0.87	0.99	ATP-binding cassette, subfamily B, multidrug efflux pump
+Y1_g_00032	K09976	61.90	110.1	6.1e-33	0.74	0.96	uncharacterized protein
+Y1_g_00035	K02884	22.50	198.3	2.7e-59	0.45	0.99	large subunit ribosomal protein L19
+Y1_g_00036	K00554	127.83	416.4	2.1e-125	0.59	0.96	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+Y1_g_00037	K02860	37.73	178.0	4e-53	0.62	0.97	16S rRNA processing protein RimM
+Y1_g_00038	K06960	50.70	92.2	4.9e-27	0.51	0.90	uncharacterized protein
+Y1_g_00039	K02959	28.23	157.6	7e-47	0.39	0.96	small subunit ribosomal protein S16
+Y1_g_00040	K03106	333.23	671.0	2.4e-202	0.75	0.98	signal recognition particle subunit SRP54 [EC:3.6.5.4]
+Y1_g_00041	K09787	45.27	143.2	6.9e-43	0.93	0.97	uncharacterized protein
+Y1_g_00044	K03110	307.20	481.9	4.3e-145	0.58	0.92	fused signal recognition particle receptor
+Y1_g_00045	K03529	575.50	1054.4	0	0.91	1.00	chromosome segregation protein
+Y1_g_00046	K03685	157.10	251.1	4e-75	0.41	0.97	ribonuclease III [EC:3.1.26.3]
+Y1_g_00047	K02035	199.53	245.0	2.9e-73	0.70	0.98	peptide/nickel transport system substrate-binding protein
+Y1_g_00048	K02034	210.97	285.9	9.4e-86	0.39	0.92	peptide/nickel transport system permease protein
+Y1_g_00049	K02033	208.87	380.2	3.1e-114	0.55	1.00	peptide/nickel transport system permease protein
+Y1_g_00050	K02032	401.87	417.7	2e-125	0.32	0.85	peptide/nickel transport system ATP-binding protein
+Y1_g_00051	K02031	409.60	467.4	1.2e-140	0.49	0.88	peptide/nickel transport system ATP-binding protein
+Y1_g_00052	K02078	39.57	97.9	1.2e-28	0.46	0.99	acyl carrier protein
+Y1_g_00053	K03621	68.67	450.2	1.3e-135	0.73	0.98	phosphate acyltransferase [EC:2.3.1.274]
+Y1_g_00054	K03655	411.37	743.6	5.5e-224	0.84	0.98	ATP-dependent DNA helicase RecG [EC:3.6.4.12]
+Y1_g_00055	K07030	79.33	606.2	2.3e-182	0.56	1.00	uncharacterized protein
+Y1_g_00057	K02902	28.10	45.7	1.1e-12	0.22	0.85	large subunit ribosomal protein L28
+Y1_g_00058	K00949	44.70	108.0	1.1e-31	0.52	0.95	thiamine pyrophosphokinase [EC:2.7.6.2]
+Y1_g_00059	K01783	257.87	335.5	7.2e-101	0.54	0.99	ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+Y1_g_00060	K06949	68.53	308.9	9.8e-93	0.70	0.96	ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+Y1_g_00061	K12132	239.03	390.1	2.3e-117	0.63	0.80	eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+Y1_g_00062	K20074	136.17	306.3	7.9e-92	0.45	0.97	PPM family protein phosphatase [EC:3.1.3.16]
+Y1_g_00063	K03500	299.20	447.7	1.5e-134	0.75	1.00	16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]
+Y1_g_00064	K00604	265.20	319.9	5.8e-96	0.61	0.95	methionyl-tRNA formyltransferase [EC:2.1.2.9]
+Y1_g_00065	K04066	102.10	885.9	3.4e-267	0.91	0.99	primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]
+Y1_g_00066	K13038	258.53	522.0	2.4e-157	0.76	0.99	phosphopantothenoylcysteine decarboxylase / phosphopantothenate---cysteine ligase [EC:4.1.1.36 6.3.2.5]
+Y1_g_00067	K03060	25.73	78.0	1.5e-22	0.40	0.89	DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]
+Y1_g_00068	K00942	180.17	250.7	4.2e-75	0.46	0.90	guanylate kinase [EC:2.7.4.8]
+Y1_g_00069	K07001	92.80	108.3	8.9e-32	0.51	0.94	NTE family protein
+Y1_g_00072	K03631	116.67	722.9	7.9e-218	0.79	0.99	DNA repair protein RecN (Recombination protein N)
+Y1_g_00073	K03402	64.57	130.6	1.2e-38	0.57	0.98	transcriptional regulator of arginine metabolism
+Y1_g_00074	K06442	61.33	367.7	1e-110	0.65	0.89	23S rRNA (cytidine1920-2'-O)/16S rRNA (cytidine1409-2'-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]
+Y1_g_00076	K03602	21.50	79.2	5.2e-23	0.48	0.95	exodeoxyribonuclease VII small subunit [EC:3.1.11.6]
+Y1_g_00077	K03601	59.77	511.2	7.2e-154	0.78	0.98	exodeoxyribonuclease VII large subunit [EC:3.1.11.6]
+Y1_g_00078	K01491	404.43	429.4	2.1e-129	0.65	0.99	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]
+Y1_g_00079	K03625	93.60	140.0	1.8e-41	0.42	0.96	transcription antitermination protein NusB
+Y1_g_00081	K02356	100.57	280.5	1e-84	0.82	0.99	elongation factor P
+Y1_g_00084	K02899	49.63	151.2	6.4e-45	0.30	0.90	large subunit ribosomal protein L27
+Y1_g_00085	K07584	35.60	99.8	2.9e-29	0.65	0.98	uncharacterized protein
+Y1_g_00086	K02888	25.87	151.1	7.3e-45	0.35	0.99	large subunit ribosomal protein L21
+Y1_g_00091	K01281	210.70	712.1	1.4e-214	0.77	0.92	X-Pro dipeptidyl-peptidase [EC:3.4.14.11]
+Y1_g_00092	K01915	37.37	359.3	5.7e-108	0.73	0.96	glutamine synthetase [EC:6.3.1.2]
+Y1_g_00093	K03713	103.03	128.6	2.4e-38	0.83	0.84	MerR family transcriptional regulator, glutamine synthetase repressor
+Y1_g_00096	K00791	173.47	335.8	5.1e-101	0.71	0.93	tRNA dimethylallyltransferase [EC:2.5.1.75]
+Y1_g_00099	K00845	231.67	273.2	7.8e-82	0.60	0.99	glucokinase [EC:2.7.1.2]
+Y1_g_00101	K19225	140.27	221.3	3.1e-66	0.48	0.89	rhomboid protease GluP [EC:3.4.21.105]
+Y1_g_00105	K11618	301.23	334.2	3.1e-101	1.00	0.95	two-component system, NarL family, response regulator LiaR
+Y1_g_00106	K11617	241.30	337.0	1.9e-101	0.95	0.98	two-component system, NarL family, sensor histidine kinase LiaS [EC:2.7.13.3]
+Y1_g_00107	K11622	107.20	118.9	3.9e-35	0.91	0.95	lia operon protein LiaF
+Y1_g_00108	K03624	158.80	199.9	8.2e-60	0.55	0.97	transcription elongation factor GreA
+Y1_g_00109	K00876	143.77	281.8	1.5e-84	0.34	0.95	uridine kinase [EC:2.7.1.48]
+Y1_g_00110	K07082	42.63	326.4	4.8e-98	0.66	0.91	UPF0755 protein
+Y1_g_00111	K01890	121.63	732.7	1.1e-220	0.76	1.00	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+Y1_g_00112	K01889	109.70	357.7	1.7e-107	0.67	0.97	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+Y1_g_00114	K06950	60.97	76.0	5.9e-22	0.33	0.79	uncharacterized protein
+Y1_g_00115	K03437	214.03	275.8	8.2e-83	0.67	0.98	RNA methyltransferase, TrmH family
+Y1_g_00116	K01512	73.33	75.1	1.6e-21	0.38	0.78	acylphosphatase [EC:3.6.1.7]
+Y1_g_00117	K03217	122.93	159.6	2e-47	0.43	0.84	YidC/Oxa1 family membrane protein insertase
+Y1_g_00120	K00033	118.57	782.2	5.5e-236	0.73	1.00	6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]
+Y1_g_00122	K07040	29.20	90.9	1.7e-26	0.71	0.97	uncharacterized protein
+Y1_g_00125	K09710	34.67	164.5	4.5e-49	0.49	0.92	ribosome-associated protein
+Y1_g_00127	K00969	114.50	268.7	1e-80	0.67	0.88	nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]
+Y1_g_00128	K07574	40.87	91.3	1.2e-26	0.43	0.96	RNA-binding protein
+Y1_g_00129	K06948	253.27	533.0	6.1e-161	0.97	0.99	30S ribosome assembly GTPase
+Y1_g_00130	K07015	109.30	228.8	1.6e-68	0.57	0.94	uncharacterized protein
+Y1_g_00132	K15975	355.77	403.7	1.8e-121	0.64	0.98	glyoxalase family protein
+Y1_g_00133	K06999	106.67	146.8	1.3e-43	0.57	0.89	phospholipase/carboxylesterase
+Y1_g_00135	K22522	74.63	168.8	2.5e-50	0.55	0.89	cytokinin riboside 5'-monophosphate phosphoribohydrolase [EC:3.2.2.-]
+Y1_g_00136	K02887	55.13	183.9	6.4e-55	0.41	0.99	large subunit ribosomal protein L20
+Y1_g_00137	K02916	22.97	69.7	5.6e-20	0.40	0.94	large subunit ribosomal protein L35
+Y1_g_00138	K02520	51.07	229.3	1.2e-68	0.46	0.97	translation initiation factor IF-3
+Y1_g_00143	K01868	140.00	800.9	3.9e-241	0.55	0.97	threonyl-tRNA synthetase [EC:6.1.1.3]
+Y1_g_00145	K11144	155.53	331.5	1.1e-99	0.90	0.98	primosomal protein DnaI
+Y1_g_00146	K03346	100.63	327.1	3.5e-98	0.98	0.98	replication initiation and membrane attachment protein
+Y1_g_00147	K07738	35.77	249.5	5.1e-75	0.59	0.98	transcriptional repressor NrdR
+Y1_g_00148	K00859	54.20	272.2	8.4e-82	0.63	0.98	dephospho-CoA kinase [EC:2.7.1.24]
+Y1_g_00149	K10563	195.93	361.3	1.1e-108	0.67	0.98	formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+Y1_g_00150	K02335	427.97	741.5	3.4e-223	0.73	1.00	DNA polymerase I [EC:2.7.7.7]
+Y1_g_00151	K06890	126.60	129.2	3e-38	0.63	0.94	uncharacterized protein
+Y1_g_00152	K01924	385.03	450.5	1.6e-135	0.66	0.97	UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]
+Y1_g_00153	K03466	49.87	642.2	1.9e-193	0.62	0.78	DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family
+Y1_g_00157	K03439	130.33	167.6	1.1e-49	0.38	0.91	tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]
+Y1_g_00160	K10822	138.23	140.7	7.6e-42	0.93	0.91	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2]
+Y1_g_00161	K02503	86.80	140.2	1.2e-41	0.52	0.97	histidine triad (HIT) family protein
+Y1_g_00163	K07533	213.77	279.3	1e-83	0.79	0.99	foldase protein PrsA [EC:5.2.1.8]
+Y1_g_00164	K03698	126.97	405.8	3.6e-122	0.76	0.96	3'-5' exoribonuclease [EC:3.1.-.-]
+Y1_g_00166	K12555	733.50	888.4	6.2e-268	0.83	0.94	penicillin-binding protein 2A [EC:2.4.1.129 3.4.16.4]
+Y1_g_00168	K03402	64.57	161.0	6.5e-48	0.56	0.95	transcriptional regulator of arginine metabolism
+Y1_g_00169	K01887	47.77	590.7	9.3e-178	0.62	1.00	arginyl-tRNA synthetase [EC:6.1.1.19]
+Y1_g_00173	K00226	253.50	359.7	4.8e-108	0.56	1.00	dihydroorotate dehydrogenase (fumarate) [EC:1.3.98.1]
+Y1_g_00174	K01126	130.67	154.1	7.8e-46	0.47	0.87	glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+Y1_g_00175	K16511	82.90	227.6	2.6e-68	0.93	1.00	adapter protein MecA 1/2
+Y1_g_00176	K16509	98.80	209.7	2.2e-63	0.91	0.95	regulatory protein spx
+Y1_g_00180	K02003	297.63	299.9	6.6e-90	0.41	0.86	putative ABC transport system ATP-binding protein
+Y1_g_00183	K04068	115.53	246.5	5.6e-74	0.56	0.91	anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]
+Y1_g_00184	K01533	732.97	848.3	1.2e-255	0.73	0.93	P-type Cu2+ transporter [EC:7.2.2.9]
+Y1_g_00185	K02171	50.83	105.3	3.7e-31	0.95	0.84	BlaI family transcriptional regulator, penicillinase repressor
+Y1_g_00186	K01945	302.30	467.8	8.7e-141	0.61	0.99	phosphoribosylamine---glycine ligase [EC:6.3.4.13]
+Y1_g_00187	K00602	62.97	750.2	2.4e-226	0.84	1.00	phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]
+Y1_g_00188	K11175	185.57	226.5	8.3e-68	0.33	0.97	phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]
+Y1_g_00189	K01933	158.07	476.5	1.9e-143	0.56	0.96	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]
+Y1_g_00190	K00764	162.53	636.6	5.5e-192	0.80	0.94	amidophosphoribosyltransferase [EC:2.4.2.14]
+Y1_g_00191	K23269	730.23	1016.7	0	0.85	0.99	phosphoribosylformylglycinamidine synthase subunit PurL [EC:6.3.5.3]
+Y1_g_00192	K23265	210.63	360.0	2.8e-108	0.51	0.97	phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2]
+Y1_g_00193	K23264	48.33	97.7	5.6e-29	0.73	0.97	phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3]
+Y1_g_00194	K01923	150.43	182.9	1.8e-54	0.52	0.88	phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]
+Y1_g_00195	K01589	279.73	515.7	3.2e-155	0.51	0.98	5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]
+Y1_g_00196	K01588	113.10	254.7	1.5e-76	0.58	0.99	5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]
+Y1_g_00197	K16789	61.77	186.5	7.8e-56	0.81	0.99	thiamine transporter
+Y1_g_00199	K06609	476.97	622.9	4.9e-188	0.98	0.97	MFS transporter, SP family, major inositol transporter
+Y1_g_00200	K08483	604.43	775.9	5.5e-234	0.80	0.97	phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9]
+Y1_g_00201	K11189	89.23	100.7	1.5e-29	0.29	0.95	phosphocarrier protein
+Y1_g_00203	K03697	942.80	1171.8	0	0.94	0.97	ATP-dependent Clp protease ATP-binding subunit ClpE
+Y1_g_00206	K02837	381.73	777.9	7.2e-235	0.92	0.99	peptide chain release factor 3
+Y1_g_00207	K03699	311.37	537.2	1.1e-161	0.59	0.98	putative hemolysin
+Y1_g_00208	K03548	186.33	219.2	1.9e-65	0.93	0.83	putative permease
+Y1_g_00211	K07586	68.33	295.2	8.8e-89	0.56	0.99	uncharacterized protein
+Y1_g_00212	K03565	28.07	98.9	6.3e-29	0.42	0.52	regulatory protein
+Y1_g_00215	K03215	300.57	442.5	4.5e-133	0.71	0.97	23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190]
+Y1_g_00217	K03489	215.80	272.2	3.9e-82	0.99	0.97	GntR family transcriptional regulator, transcriptional regulator of bglA
+Y1_g_00218	K01223	486.53	733.9	1.1e-221	0.90	1.00	6-phospho-beta-glucosidase [EC:3.2.1.86]
+Y1_g_00219	K02761	281.73	417.9	1e-125	0.72	0.98	PTS system cellobiose-specific IIC component
+Y1_g_00221	K02759	40.70	139.2	1.4e-41	0.62	0.97	PTS system cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]
+Y1_g_00222	K02760	68.03	139.8	7.3e-42	0.66	0.96	PTS system cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]
+Y1_g_00223	K00158	636.33	830.2	1.1e-250	1.00	0.98	pyruvate oxidase [EC:1.2.3.3]
+Y1_g_00224	K01641	157.03	363.5	3.4e-109	0.71	0.99	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]
+Y1_g_00225	K00054	147.00	482.6	2.3e-145	0.83	0.99	hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]
+Y1_g_00226	K00626	47.93	529.1	2.6e-159	0.59	0.99	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+Y1_g_00229	K07448	31.13	124.8	7.2e-37	0.36	0.63	restriction system protein
+Y1_g_00231	K01439	267.30	280.4	5.1e-84	0.45	0.99	succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]
+Y1_g_00235	K03095	61.03	196.8	2.9e-59	0.93	0.98	SprT-like protein
+Y1_g_00236	K05833	186.20	320.2	1.3e-96	0.94	0.98	putative ABC transport system ATP-binding protein
+Y1_g_00237	K05832	235.03	400.3	2.2e-120	0.42	0.97	putative ABC transport system permease protein
+Y1_g_00238	K01989	165.73	328.8	1.1e-98	0.51	0.98	putative ABC transport system substrate-binding protein
+Y1_g_00240	K01537	929.57	965.5	6.3e-291	0.71	0.98	P-type Ca2+ transporter type 2C [EC:7.2.2.10]
+Y1_g_00242	K01916	288.97	323.2	5.2e-97	0.54	1.00	NAD+ synthase [EC:6.3.1.5]
+Y1_g_00244	K00763	93.10	571.5	3.5e-172	0.76	0.96	nicotinate phosphoribosyltransferase [EC:6.3.4.21]
+Y1_g_00245	K03710	195.50	251.3	3.6e-75	0.57	0.97	GntR family transcriptional regulator
+Y1_g_00246	K01443	69.37	385.3	1.1e-115	0.56	0.98	N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]
+Y1_g_00247	K00286	95.60	273.7	5.7e-82	0.34	0.99	pyrroline-5-carboxylate reductase [EC:1.5.1.2]
+Y1_g_00248	K01303	243.93	274.5	3.8e-82	0.03	0.04	acylaminoacyl-peptidase [EC:3.4.19.1]
+Y1_g_00252	K03305	313.37	484.7	5.4e-146	0.82	1.00	proton-dependent oligopeptide transporter, POT family
+Y1_g_00253	K02003	297.63	410.3	2.3e-123	0.59	1.00	putative ABC transport system ATP-binding protein
+Y1_g_00257	K01206	57.03	241.4	2.9e-72	0.44	0.97	alpha-L-fucosidase [EC:3.2.1.51]
+Y1_g_00259	K01610	85.63	169.1	3e-50	0.65	0.82	phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+Y1_g_00261	K04759	102.70	873.6	2.1e-263	0.80	0.97	ferrous iron transport protein B
+Y1_g_00262	K04758	36.30	98.2	9.6e-29	0.42	0.89	ferrous iron transport protein A
+Y1_g_00266	K07118	121.97	198.7	1.8e-59	0.74	0.99	uncharacterized protein
+Y1_g_00274	K01223	486.53	683.0	2.9e-206	0.90	1.00	6-phospho-beta-glucosidase [EC:3.2.1.86]
+Y1_g_00275	K02757	677.33	700.0	5.1e-211	0.80	1.00	PTS system beta-glucoside-specific IIC component
+Y1_g_00279	K12999	424.37	437.2	4.5e-132	0.99	0.98	glucosyltransferase [EC:2.4.1.-]
+Y1_g_00282	K03704	86.53	126.6	2.2e-37	0.32	0.95	cold shock protein
+Y1_g_00284	K02395	42.87	97.6	2.3e-28	0.39	0.68	flagellar protein FlgJ
+Y1_g_00285	K03816	148.77	295.8	1.6e-89	0.98	0.98	xanthine phosphoribosyltransferase [EC:2.4.2.22]
+Y1_g_00286	K16169	605.93	678.4	5.7e-205	0.99	0.96	xanthine permease
+Y1_g_00288	K01756	314.83	497.9	1e-149	0.55	0.99	adenylosuccinate lyase [EC:4.3.2.2]
+Y1_g_00291	K19005	761.23	990.0	1.5e-298	0.92	0.98	lipoteichoic acid synthase [EC:2.7.8.20]
+Y1_g_00293	K05340	198.27	313.4	3.7e-94	0.55	1.00	glucose uptake protein
+Y1_g_00294	K01810	169.30	252.3	1.7e-75	0.46	0.83	glucose-6-phosphate isomerase [EC:5.3.1.9]
+Y1_g_00298	K15051	68.00	326.9	3.3e-98	0.64	0.99	DNA-entry nuclease
+Y1_g_00301	K03810	184.97	313.6	1.8e-94	0.96	1.00	virulence factor
+Y1_g_00304	K05770	28.37	150.9	7.3e-45	0.50	0.97	translocator protein
+Y1_g_00308	K08659	96.73	647.2	2.8e-195	1.00	0.99	dipeptidase [EC:3.4.-.-]
+Y1_g_00314	K06147	617.13	716.4	1.1e-215	0.60	0.93	ATP-binding cassette, subfamily B, bacterial
+Y1_g_00316	K07104	98.60	206.2	1.2e-61	0.81	0.98	catechol 2,3-dioxygenase [EC:1.13.11.2]
+Y1_g_00318	K23393	228.87	507.3	9.4e-153	0.70	0.98	lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]
+Y1_g_00319	K00857	96.13	168.2	5.2e-50	0.33	0.90	thymidine kinase [EC:2.7.1.21]
+Y1_g_00320	K02835	355.80	545.1	4.8e-164	0.51	0.97	peptide chain release factor 1
+Y1_g_00321	K02493	241.40	253.1	9.7e-76	0.64	0.97	release factor glutamine methyltransferase [EC:2.1.1.297]
+Y1_g_00322	K07566	83.40	384.0	1.6e-115	0.68	0.96	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]
+Y1_g_00323	K00600	55.33	625.4	2e-188	0.61	0.98	glycine hydroxymethyltransferase [EC:2.1.2.1]
+Y1_g_00324	K00761	224.43	303.0	3.6e-91	0.66	0.98	uracil phosphoribosyltransferase [EC:2.4.2.9]
+Y1_g_00325	K02108	159.87	200.0	1.1e-59	0.57	0.95	F-type H+-transporting ATPase subunit a
+Y1_g_00326	K02110	71.93	83.9	2.3e-24	0.35	0.96	F-type H+-transporting ATPase subunit c
+Y1_g_00327	K02109	43.97	141.9	5.6e-42	0.59	0.94	F-type H+-transporting ATPase subunit b
+Y1_g_00328	K02113	52.83	154.7	6e-46	0.41	0.94	F-type H+-transporting ATPase subunit delta
+Y1_g_00329	K02111	474.73	864.0	1.4e-260	0.70	0.98	F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1]
+Y1_g_00330	K02115	242.60	314.2	2e-94	0.68	0.99	F-type H+-transporting ATPase subunit gamma
+Y1_g_00331	K02112	547.50	922.8	3.9e-278	0.53	0.96	F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1]
+Y1_g_00332	K02114	91.87	143.7	8.5e-43	0.70	0.97	F-type H+-transporting ATPase subunit epsilon
+Y1_g_00334	K03569	107.00	500.3	4.8e-151	0.78	0.99	rod shape-determining protein MreB and related proteins
+Y1_g_00336	K08998	26.27	141.3	7.1e-42	0.32	0.77	uncharacterized protein
+Y1_g_00338	K05837	392.57	418.1	7.1e-126	0.77	0.97	rod shape determining protein RodA
+Y1_g_00339	K02437	34.63	75.8	6.2e-22	0.26	0.85	glycine cleavage system H protein
+Y1_g_00340	K01439	267.30	307.8	2.7e-92	0.45	0.94	succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]
+Y1_g_00341	K02073	149.63	324.3	2.2e-97	0.46	1.00	D-methionine transport system substrate-binding protein
+Y1_g_00342	K02073	149.63	333.1	4.7e-100	0.46	0.98	D-methionine transport system substrate-binding protein
+Y1_g_00343	K02071	334.13	497.1	9.5e-150	0.70	0.98	D-methionine transport system ATP-binding protein
+Y1_g_00344	K02072	101.93	290.6	1.9e-87	0.71	0.91	D-methionine transport system permease protein
+Y1_g_00345	K09013	170.27	382.3	2.1e-115	0.77	0.97	Fe-S cluster assembly ATP-binding protein
+Y1_g_00347	K11717	549.17	587.2	6.5e-177	0.65	0.99	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]
+Y1_g_00348	K04488	153.13	166.2	1.7e-49	0.59	0.93	nitrogen fixation protein NifU and related proteins
+Y1_g_00349	K09014	362.67	720.2	1.4e-217	0.96	0.97	Fe-S cluster assembly protein SufB
+Y1_g_00353	K01091	116.03	124.8	7.2e-37	0.37	0.96	phosphoglycolate phosphatase [EC:3.1.3.18]
+Y1_g_00355	K07090	48.87	53.5	2.3e-15	0.19	0.85	uncharacterized protein
+Y1_g_00358	K07478	164.37	564.5	7.4e-170	0.58	0.98	putative ATPase
+Y1_g_00359	K01919	152.90	189.2	2.6e-56	0.21	0.18	glutamate--cysteine ligase [EC:6.3.2.2]
+Y1_g_00362	K01752	84.67	160.7	9.1e-48	0.29	0.95	L-serine dehydratase [EC:4.3.1.17]
+Y1_g_00363	K01752	84.67	282.6	1.2e-84	0.38	0.95	L-serine dehydratase [EC:4.3.1.17]
+Y1_g_00365	K07304	32.63	229.7	9.9e-69	0.27	0.67	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+Y1_g_00367	K03811	31.57	102.3	4.4e-30	0.69	0.86	nicotinamide mononucleotide transporter
+Y1_g_00369	K04486	114.20	139.7	2e-41	0.66	0.96	histidinol-phosphatase (PHP family) [EC:3.1.3.15]
+Y1_g_00370	K15580	365.10	480.4	1.8e-144	0.80	1.00	oligopeptide transport system substrate-binding protein
+Y1_g_00373	K01990	263.77	290.3	6e-87	0.47	0.96	ABC-2 type transport system ATP-binding protein
+Y1_g_00376	K01607	18.30	30.2	5.7e-08	0.19	0.64	4-carboxymuconolactone decarboxylase [EC:4.1.1.44]
+Y1_g_00377	K01607	18.30	118.3	8e-35	0.41	0.96	4-carboxymuconolactone decarboxylase [EC:4.1.1.44]
+Y1_g_00382	K01788	66.17	83.9	1.6e-24	0.22	0.29	N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]
+Y1_g_00384	K07030	79.33	113.4	1.9e-33	0.27	0.96	uncharacterized protein
+Y1_g_00385	K07693	197.47	270.7	3.1e-81	0.51	1.00	two-component system, NarL family, response regulator DesR
+Y1_g_00386	K07778	173.70	235.5	1.8e-70	0.73	0.96	two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]
+Y1_g_00388	K01990	263.77	268.7	2.1e-80	0.47	0.98	ABC-2 type transport system ATP-binding protein
+Y1_g_00394	K07473	53.57	81.0	1.4e-23	0.56	0.99	DNA-damage-inducible protein J
+Y1_g_00395	K19157	38.70	107.0	1.2e-31	0.66	0.99	mRNA interferase YafQ [EC:3.1.-.-]
+Y1_g_00397	K06959	190.90	1025.7	0	0.82	0.99	protein Tex
+Y1_g_00401	K07481	51.07	65.9	7.1e-19	0.33	0.72	transposase, IS5 family
+Y1_g_00402	K06915	128.80	205.1	3e-61	0.57	0.92	uncharacterized protein
+Y1_g_00409	K02986	77.73	254.7	1.7e-76	0.75	1.00	small subunit ribosomal protein S4
+Y1_g_00410	K08968	84.63	196.4	7.3e-59	0.67	0.94	L-methionine (R)-S-oxide reductase [EC:1.8.4.14]
+Y1_g_00411	K06286	135.17	509.4	1.5e-153	0.99	0.99	septation ring formation regulator
+Y1_g_00412	K04487	282.10	462.8	2.1e-139	0.75	0.89	cysteine desulfurase [EC:2.8.1.7]
+Y1_g_00413	K03151	132.87	485.9	2.6e-146	0.73	0.96	tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+Y1_g_00414	K01926	120.27	213.6	5.1e-64	0.70	0.95	redox-sensing transcriptional repressor
+Y1_g_00416	K01873	589.77	1243.2	0	0.85	1.00	valyl-tRNA synthetase [EC:6.1.1.9]
+Y1_g_00417	K11754	366.00	440.5	1.5e-132	0.80	1.00	dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]
+Y1_g_00419	K03630	44.03	226.0	1.8e-67	0.58	0.95	DNA repair protein RadC
+Y1_g_00420	K03569	107.00	523.2	5.4e-158	0.78	0.98	rod shape-determining protein MreB and related proteins
+Y1_g_00421	K03570	55.23	230.6	5.8e-69	0.69	0.98	rod shape-determining protein MreC
+Y1_g_00422	K03571	31.73	75.5	7.8e-22	0.68	0.92	rod shape-determining protein MreD
+Y1_g_00423	K03610	38.17	108.3	8.3e-32	0.72	0.97	septum site-determining protein MinC
+Y1_g_00424	K03609	211.47	308.9	6.2e-93	0.76	0.98	septum site-determining protein MinD
+Y1_g_00425	K02029	222.03	265.8	1.3e-79	0.41	0.96	polar amino acid transport system permease protein
+Y1_g_00426	K10822	138.23	140.7	7.5e-42	0.86	0.97	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2]
+Y1_g_00427	K02030	92.43	177.2	8.9e-53	0.53	0.98	polar amino acid transport system substrate-binding protein
+Y1_g_00428	K06131	256.23	440.2	2e-132	0.65	0.98	cardiolipin synthase A/B [EC:2.7.8.-]
+Y1_g_00430	K03925	41.87	196.8	4.4e-59	0.69	0.99	MraZ protein
+Y1_g_00431	K03438	118.37	440.4	1.5e-132	0.66	0.99	16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+Y1_g_00433	K08724	854.97	911.5	5e-275	0.99	0.98	penicillin-binding protein 2B
+Y1_g_00434	K01000	173.63	375.5	4.7e-113	0.79	0.98	phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
+Y1_g_00435	K01925	367.20	511.6	6.2e-154	0.68	0.98	UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]
+Y1_g_00436	K02563	192.77	399.5	3.4e-120	0.57	0.99	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+Y1_g_00437	K03589	47.17	105.6	6.6e-31	0.61	0.86	cell division protein FtsQ
+Y1_g_00438	K03590	123.67	413.2	3.3e-124	0.55	1.00	cell division protein FtsA
+Y1_g_00439	K03531	142.07	535.2	1.9e-161	0.76	0.92	cell division protein FtsZ
+Y1_g_00440	K09772	41.53	149.9	1.5e-44	0.66	0.87	cell division inhibitor SepF
+Y1_g_00441	K02221	23.80	80.2	3.8e-23	0.30	0.87	YggT family protein
+Y1_g_00443	K04074	50.07	153.7	1e-45	0.42	0.42	cell division initiation protein
+Y1_g_00444	K01870	514.83	1105.9	0	0.59	0.98	isoleucyl-tRNA synthetase [EC:6.1.1.5]
+Y1_g_00445	K03704	86.53	101.6	1e-29	0.33	0.90	cold shock protein
+Y1_g_00446	K02040	55.83	225.0	3.5e-67	0.58	0.94	phosphate transport system substrate-binding protein
+Y1_g_00450	K01515	120.10	150.5	1.2e-44	0.46	0.94	ADP-ribose pyrophosphatase [EC:3.6.1.13]
+Y1_g_00452	K01243	107.23	252.9	8.4e-76	0.61	0.97	adenosylhomocysteine nucleosidase [EC:3.2.2.9]
+Y1_g_00453	K04487	282.10	457.5	8.5e-138	0.74	0.98	cysteine desulfurase [EC:2.8.1.7]
+Y1_g_00455	K03701	132.93	730.1	9.8e-220	0.48	0.82	excinuclease ABC subunit A
+Y1_g_00456	K00566	428.00	576.6	4.4e-174	0.79	0.79	tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+Y1_g_00460	K03581	248.13	506.5	2.5e-152	0.70	0.86	exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]
+Y1_g_00462	K07029	161.80	184.1	5.4e-55	0.71	0.94	diacylglycerol kinase (ATP) [EC:2.7.1.107]
+Y1_g_00463	K12574	172.07	796.4	5.6e-240	0.61	0.99	ribonuclease J [EC:3.1.-.-]
+Y1_g_00467	K01462	48.47	155.5	2.6e-46	0.55	0.90	peptide deformylase [EC:3.5.1.88]
+Y1_g_00472	K00627	454.03	506.5	2.7e-152	0.51	0.79	pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]
+Y1_g_00473	K00382	468.87	600.9	4.8e-181	0.70	0.96	dihydrolipoamide dehydrogenase [EC:1.8.1.4]
+Y1_g_00477	K06207	317.50	979.8	1.4e-295	0.77	0.99	GTP-binding protein
+Y1_g_00478	K03588	343.63	377.1	1.6e-113	0.79	0.96	cell division protein FtsW
+Y1_g_00479	K01958	760.77	1721.7	0	0.86	0.99	pyruvate carboxylase [EC:6.4.1.1]
+Y1_g_00481	K08316	78.13	182.3	1.5e-54	0.77	0.98	16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]
+Y1_g_00482	K00954	59.80	219.2	8e-66	0.72	0.96	pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]
+Y1_g_00483	K07177	94.20	330.2	2.6e-99	0.79	0.99	Lon-like protease
+Y1_g_00484	K02237	76.43	167.5	8.5e-50	0.48	0.92	competence protein ComEA
+Y1_g_00485	K02238	51.30	359.8	6e-108	0.79	0.96	competence protein ComEC
+Y1_g_00486	K02340	91.27	241.9	2.6e-72	0.75	0.98	DNA polymerase III subunit delta [EC:2.7.7.7]
+Y1_g_00487	K02968	35.03	82.7	5.2e-24	0.39	1.00	small subunit ribosomal protein S20
+Y1_g_00489	K02956	32.03	116.4	3.1e-34	0.26	0.91	small subunit ribosomal protein S15
+Y1_g_00491	K12574	172.07	657.3	6.2e-198	0.62	0.99	ribonuclease J [EC:3.1.-.-]
+Y1_g_00493	K02358	348.87	811.3	2.3e-244	0.32	0.99	elongation factor Tu
+Y1_g_00494	K06147	617.13	654.4	6.1e-197	0.60	0.98	ATP-binding cassette, subfamily B, bacterial
+Y1_g_00495	K03545	60.00	449.2	4.3e-135	0.84	0.99	trigger factor
+Y1_g_00496	K03544	131.97	667.1	3.7e-201	0.72	0.96	ATP-dependent Clp protease ATP-binding subunit ClpX
+Y1_g_00497	K03978	93.00	240.1	6.3e-72	0.54	0.95	GTP-binding protein
+Y1_g_00500	K23059	525.73	655.1	9.2e-198	1.00	1.00	arginine/lysine/histidine transporter system substrate-binding protein
+Y1_g_00501	K02028	459.07	465.9	5e-140	0.31	0.99	polar amino acid transport system ATP-binding protein [EC:7.4.2.1]
+Y1_g_00502	K03703	248.20	683.5	7.3e-206	0.79	0.98	excinuclease ABC subunit C
+Y1_g_00503	K02770	643.60	767.2	3.2e-231	0.81	0.99	PTS system fructose-specific IIBC component [EC:2.7.1.202]
+Y1_g_00504	K00882	318.80	349.8	3.4e-105	0.70	1.00	1-phosphofructokinase [EC:2.7.1.56]
+Y1_g_00505	K03436	270.20	300.0	3.4e-90	0.66	0.92	DeoR family transcriptional regulator, fructose operon transcriptional repressor
+Y1_g_00506	K03979	160.43	547.2	7.6e-165	0.66	0.98	GTPase [EC:3.6.5.-]
+Y1_g_00508	K00784	76.60	308.1	1.6e-92	0.63	0.96	ribonuclease Z [EC:3.1.26.11]
+Y1_g_00509	K07124	217.50	220.5	6e-66	0.42	0.95	uncharacterized protein
+Y1_g_00510	K08992	28.63	65.5	6.5e-19	0.71	0.86	lipopolysaccharide assembly protein A
+Y1_g_00511	K03695	1070.40	1283.0	0	0.80	0.99	ATP-dependent Clp protease ATP-binding subunit ClpB
+Y1_g_00512	K02911	21.47	61.8	1.3e-17	0.43	0.94	large subunit ribosomal protein L32
+Y1_g_00514	K01119	351.80	532.6	2.9e-160	0.70	0.99	2',3'-cyclic-nucleotide 2'-phosphodiesterase / 3'-nucleotidase [EC:3.1.4.16 3.1.3.6]
+Y1_g_00517	K02337	915.60	1196.7	0	0.74	1.00	DNA polymerase III subunit alpha [EC:2.7.7.7]
+Y1_g_00518	K00850	346.67	371.3	1.5e-111	0.38	0.90	6-phosphofructokinase 1 [EC:2.7.1.11]
+Y1_g_00519	K00873	45.50	624.2	7.4e-188	0.48	0.84	pyruvate kinase [EC:2.7.1.40]
+Y1_g_00521	K00243	100.00	268.0	2.2e-80	0.61	0.97	uncharacterized protein
+Y1_g_00522	K04763	317.43	348.2	1.4e-104	0.68	0.98	integrase/recombinase XerD
+Y1_g_00523	K02859	83.83	144.9	1.8e-43	0.98	0.91	riboflavin biosynthesis RibT protein
+Y1_g_00524	K05896	42.03	246.9	8e-74	0.51	0.98	segregation and condensation protein A
+Y1_g_00525	K06024	39.37	222.8	1.1e-66	0.56	0.94	segregation and condensation protein B
+Y1_g_00526	K06178	250.07	295.7	5.9e-89	0.62	0.96	23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]
+Y1_g_00528	K23675	54.90	205.0	2.5e-61	0.67	0.96	riboflavin transporter
+Y1_g_00529	K05337	43.30	53.3	4.5e-15	0.43	0.87	ferredoxin
+Y1_g_00533	K00945	76.83	314.7	1.9e-94	0.42	0.98	CMP/dCMP kinase [EC:2.7.4.25]
+Y1_g_00534	K02945	152.80	487.4	1.1e-146	0.64	0.97	small subunit ribosomal protein S1
+Y1_g_00535	K03977	204.07	667.7	2.7e-201	0.68	0.99	GTPase
+Y1_g_00536	K03530	115.93	155.6	2.4e-46	0.45	0.99	DNA-binding protein HU-beta
+Y1_g_00539	K00974	308.87	334.2	2.5e-100	0.67	0.96	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]
+Y1_g_00541	K15738	634.63	818.3	1.3e-246	0.74	1.00	ABC transport system ATP-binding/permease protein
+Y1_g_00542	K00560	77.53	430.4	1.1e-129	0.70	0.99	thymidylate synthase [EC:2.1.1.45]
+Y1_g_00543	K00287	53.23	165.3	3.2e-49	0.57	0.99	dihydrofolate reductase [EC:1.5.1.3]
+Y1_g_00544	K11068	168.20	229.0	8.9e-69	0.71	0.99	hemolysin III
+Y1_g_00545	K07030	79.33	108.4	6.3e-32	0.27	0.93	uncharacterized protein
+Y1_g_00548	K07304	32.63	210.8	5.2e-63	0.23	0.89	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]
+Y1_g_00550	K03797	127.00	360.2	4e-108	0.63	0.90	carboxyl-terminal processing protease [EC:3.4.21.102]
+Y1_g_00553	K00134	61.57	425.0	9.5e-128	0.51	0.98	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+Y1_g_00556	K14540	283.23	373.7	1.7e-112	0.63	0.98	ribosome biogenesis GTPase A
+Y1_g_00557	K03470	129.20	273.4	4.8e-82	0.59	0.80	ribonuclease HII [EC:3.1.26.4]
+Y1_g_00558	K04096	25.93	286.2	9.3e-86	0.52	0.85	DNA processing protein
+Y1_g_00559	K03168	435.60	908.2	1.2e-273	0.74	0.97	DNA topoisomerase I [EC:5.6.2.1]
+Y1_g_00560	K04094	147.23	757.2	1.9e-228	0.73	0.98	methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase [EC:2.1.1.74]
+Y1_g_00561	K03733	342.20	348.2	1.9e-104	0.55	0.98	integrase/recombinase XerC
+Y1_g_00562	K01419	138.63	278.3	1.6e-83	0.47	0.99	ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]
+Y1_g_00563	K03667	239.70	651.3	3e-196	0.66	0.99	ATP-dependent HslUV protease ATP-binding subunit HslU
+Y1_g_00565	K08591	57.83	245.8	1.1e-73	0.61	0.95	acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275]
+Y1_g_00566	K02622	876.33	881.6	6.2e-266	0.85	0.96	topoisomerase IV subunit B [EC:5.6.2.2]
+Y1_g_00567	K02621	870.80	915.3	7.4e-276	0.78	0.91	topoisomerase IV subunit A [EC:5.6.2.2]
+Y1_g_00568	K00656	732.37	936.3	2.5e-282	0.99	0.98	formate C-acetyltransferase [EC:2.3.1.54]
+Y1_g_00569	K04069	107.60	234.6	3.6e-70	0.44	0.86	pyruvate formate lyase activating enzyme [EC:1.97.1.4]
+Y1_g_00571	K15986	193.90	394.6	4.8e-119	0.98	0.99	manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1]
+Y1_g_00575	K02003	297.63	316.7	5.2e-95	0.41	0.87	putative ABC transport system ATP-binding protein
+Y1_g_00578	K08217	218.13	359.8	2.3e-108	0.83	0.98	MFS transporter, DHA3 family, macrolide efflux protein
+Y1_g_00582	K00817	284.67	379.4	4.5e-114	0.65	0.97	histidinol-phosphate aminotransferase [EC:2.6.1.9]
+Y1_g_00584	K01496	187.03	193.9	1e-57	0.31	0.92	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]
+Y1_g_00585	K02500	273.23	419.4	3.1e-126	0.54	1.00	imidazole glycerol-phosphate synthase subunit HisF [EC:4.3.2.10]
+Y1_g_00586	K01814	178.67	282.2	1.5e-84	0.52	0.97	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]
+Y1_g_00587	K02501	237.60	279.8	5.2e-84	0.56	0.98	imidazole glycerol-phosphate synthase subunit HisH [EC:4.3.2.10]
+Y1_g_00588	K01693	308.90	324.3	1.4e-97	0.59	0.99	imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]
+Y1_g_00589	K00013	495.37	601.8	2.5e-181	0.69	0.96	histidinol dehydrogenase [EC:1.1.1.23]
+Y1_g_00590	K00765	37.27	237.7	3.7e-71	0.47	0.96	ATP phosphoribosyltransferase [EC:2.4.2.17]
+Y1_g_00591	K02502	247.70	282.7	9.6e-85	0.82	0.97	ATP phosphoribosyltransferase regulatory subunit
+Y1_g_00593	K00817	284.67	348.1	1.4e-104	0.66	0.98	histidinol-phosphate aminotransferase [EC:2.6.1.9]
+Y1_g_00594	K01515	120.10	153.7	1.3e-45	0.46	0.92	ADP-ribose pyrophosphatase [EC:3.6.1.13]
+Y1_g_00595	K07030	79.33	107.4	1.3e-31	0.27	0.95	uncharacterized protein
+Y1_g_00598	K07035	101.33	356.2	2.6e-107	0.95	0.89	uncharacterized protein
+Y1_g_00599	K00077	98.47	243.0	9.1e-73	0.54	0.98	2-dehydropantoate 2-reductase [EC:1.1.1.169]
+Y1_g_00603	K00382	468.87	544.3	6.4e-164	0.72	0.99	dihydrolipoamide dehydrogenase [EC:1.8.1.4]
+Y1_g_00604	K00929	282.43	475.2	2.1e-143	0.98	0.94	butyrate kinase [EC:2.7.2.7]
+Y1_g_00606	K00762	89.63	183.2	1e-54	0.72	0.96	orotate phosphoribosyltransferase [EC:2.4.2.10]
+Y1_g_00607	K01591	152.17	199.5	1.4e-59	0.29	0.98	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]
+Y1_g_00608	K17828	265.80	420.7	1.2e-126	0.55	0.99	dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]
+Y1_g_00609	K01955	1506.30	1651.7	0	0.82	0.99	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]
+Y1_g_00610	K01956	494.70	558.0	3.5e-168	0.63	0.98	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]
+Y1_g_00611	K01465	312.03	417.5	1.3e-125	0.79	0.99	dihydroorotase [EC:3.5.2.3]
+Y1_g_00612	K00609	235.80	352.7	3.3e-106	0.78	0.95	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]
+Y1_g_00613	K02824	448.13	616.8	4.3e-186	0.78	0.98	uracil permease
+Y1_g_00614	K02825	94.57	277.7	1e-83	0.71	0.99	pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]
+Y1_g_00616	K06180	288.37	428.9	5.9e-129	0.57	0.96	23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23]
+Y1_g_00617	K03101	27.40	156.2	1.5e-46	0.55	0.94	signal peptidase II [EC:3.4.23.36]
+Y1_g_00618	K01938	531.97	857.9	4.8e-259	0.95	1.00	formate--tetrahydrofolate ligase [EC:6.3.4.3]
+Y1_g_00621	K07078	107.97	287.9	1e-86	0.74	0.99	uncharacterized protein
+Y1_g_00622	K06131	256.23	483.4	1.7e-145	0.66	0.99	cardiolipin synthase A/B [EC:2.7.8.-]
+Y1_g_00625	K06191	71.80	98.3	4.9e-29	0.53	0.96	glutaredoxin-like protein NrdH
+Y1_g_00626	K00525	363.03	452.9	3e-136	0.77	0.87	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]
+Y1_g_00627	K00526	163.10	305.8	7.5e-92	0.74	0.96	ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]
+Y1_g_00629	K07386	646.93	691.8	2.5e-208	0.57	1.00	putative endopeptidase [EC:3.4.24.-]
+Y1_g_00630	K03800	244.63	321.8	1.8e-96	0.46	0.98	lipoate---protein ligase [EC:6.3.1.20]
+Y1_g_00633	K07444	384.80	434.2	1.2e-130	0.68	0.97	putative N6-adenine-specific DNA methylase [EC:2.1.1.-]
+Y1_g_00635	K04074	50.07	63.2	4.1e-18	0.23	0.46	cell division initiation protein
+Y1_g_00637	K03700	50.93	226.1	8.7e-68	0.57	0.85	recombination protein U
+Y1_g_00638	K05366	641.53	648.8	1.9e-195	0.85	0.95	penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4]
+Y1_g_00639	K01493	82.97	150.1	1.6e-44	0.47	0.88	dCMP deaminase [EC:3.5.4.12]
+Y1_g_00640	K10773	137.67	231.7	2.4e-69	0.46	0.83	endonuclease III [EC:4.2.99.18]
+Y1_g_00641	K02086	55.97	226.3	6.3e-68	0.76	0.98	DNA replication protein
+Y1_g_00642	K01893	376.90	532.8	2.3e-160	0.62	0.97	asparaginyl-tRNA synthetase [EC:6.1.1.22]
+Y1_g_00643	K00812	477.50	480.8	7.2e-145	0.79	0.99	aspartate aminotransferase [EC:2.6.1.1]
+Y1_g_00646	K03722	234.07	453.8	2.2e-136	0.84	0.99	ATP-dependent DNA helicase DinG [EC:3.6.4.12]
+Y1_g_00647	K16898	492.97	1003.2	3.7e-302	0.95	0.99	ATP-dependent helicase/nuclease subunit A [EC:3.1.-.- 3.6.4.12]
+Y1_g_00648	K16899	219.20	666.4	1.9e-200	0.90	0.99	ATP-dependent helicase/nuclease subunit B [EC:3.1.-.- 3.6.4.12]
+Y1_g_00649	K00869	159.07	263.5	4.7e-79	0.68	0.96	mevalonate kinase [EC:2.7.1.36]
+Y1_g_00650	K01597	225.03	344.2	2.3e-103	0.61	0.90	diphosphomevalonate decarboxylase [EC:4.1.1.33]
+Y1_g_00651	K01823	26.23	50.5	3.7e-14	0.59	0.92	isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]
+Y1_g_00656	K01821	29.10	66.5	4e-19	0.31	0.97	4-oxalocrotonate tautomerase [EC:5.3.2.6]
+Y1_g_00658	K06967	62.13	257.1	4.6e-77	0.65	0.98	tRNA (adenine22-N1)-methyltransferase [EC:2.1.1.217]
+Y1_g_00659	K03086	450.17	575.1	2.7e-173	0.76	0.94	RNA polymerase primary sigma factor
+Y1_g_00660	K02316	54.50	526.2	3.4e-158	0.77	0.97	DNA primase [EC:2.7.7.101]
+Y1_g_00661	K01879	645.27	745.8	8e-225	0.91	0.99	glycyl-tRNA synthetase beta chain [EC:6.1.1.14]
+Y1_g_00662	K01878	494.33	541.4	3.1e-163	0.66	0.98	glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]
+Y1_g_00665	K03584	27.27	108.5	6.7e-32	0.70	0.94	DNA repair protein RecO (recombination protein O)
+Y1_g_00666	K03595	138.63	432.6	2.9e-130	0.62	0.98	GTPase
+Y1_g_00667	K01489	40.17	167.2	9.4e-50	0.42	0.96	cytidine deaminase [EC:3.5.4.5]
+Y1_g_00669	K07042	59.80	144.0	1e-42	0.44	0.92	probable rRNA maturation factor
+Y1_g_00670	K06217	211.50	494.9	5.4e-149	0.62	0.98	phosphate starvation-inducible protein PhoH and related proteins
+Y1_g_00672	K09117	49.57	167.4	8.2e-50	0.45	1.00	uncharacterized protein
+Y1_g_00673	K02970	24.47	71.2	1.7e-20	0.30	0.98	small subunit ribosomal protein S21
+Y1_g_00674	K09773	295.87	309.5	3.8e-93	0.85	0.96	[pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [EC:2.7.4.28 2.7.11.33]
+Y1_g_00675	K01151	122.83	340.3	2.2e-102	0.69	0.96	deoxyribonuclease IV [EC:3.1.21.2]
+Y1_g_00678	K01876	291.87	843.6	2.6e-254	0.80	0.98	aspartyl-tRNA synthetase [EC:6.1.1.12]
+Y1_g_00679	K01892	276.97	375.5	7.9e-113	0.68	0.96	histidyl-tRNA synthetase [EC:6.1.1.21]
+Y1_g_00687	K01448	36.70	221.3	3.1e-66	0.64	0.99	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+Y1_g_00689	K07560	39.40	195.7	1.7e-58	0.44	0.99	D-aminoacyl-tRNA deacylase [EC:3.1.1.96]
+Y1_g_00690	K00951	341.90	892.5	6.3e-269	0.75	0.98	GTP pyrophosphokinase [EC:2.7.6.5]
+Y1_g_00692	K09761	53.33	215.2	2.4e-64	0.63	0.97	16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]
+Y1_g_00693	K02687	124.73	303.0	8.4e-91	0.52	0.98	ribosomal protein L11 methyltransferase [EC:2.1.1.-]
+Y1_g_00695	K03652	51.33	218.2	3e-65	0.56	0.91	DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+Y1_g_00704	K01458	48.67	184.8	4e-55	0.67	0.89	N-formylglutamate deformylase [EC:3.5.1.68]
+Y1_g_00706	K03976	96.97	159.0	1.7e-47	0.71	0.94	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-]
+Y1_g_00707	K00759	107.07	241.5	1.8e-72	0.58	0.97	adenine phosphoribosyltransferase [EC:2.4.2.7]
+Y1_g_00708	K07462	55.97	692.5	1.6e-208	0.58	0.85	single-stranded-DNA-specific exonuclease [EC:3.1.-.-]
+Y1_g_00710	K00540	43.93	80.9	1.7e-23	0.28	0.76	F420H(2)-dependent quinone reductase [EC:1.1.98.-]
+Y1_g_00712	K03596	913.10	1089.3	0	0.76	0.99	GTP-binding protein LepA
+Y1_g_00715	K02788	454.33	846.8	1.2e-255	0.99	1.00	PTS system lactose-specific IICB component [EC:2.7.1.207]
+Y1_g_00716	K01220	655.50	719.6	2e-217	0.99	0.99	6-phospho-beta-galactosidase [EC:3.2.1.85]
+Y1_g_00717	K02786	128.07	149.2	5.1e-45	0.97	0.91	PTS system lactose-specific IIA component [EC:2.7.1.207]
+Y1_g_00718	K00849	370.93	433.4	2e-130	0.63	0.99	galactokinase [EC:2.7.1.6]
+Y1_g_00719	K01784	267.20	418.0	1.2e-125	0.67	0.99	UDP-glucose 4-epimerase [EC:5.1.3.2]
+Y1_g_00722	K01785	151.47	263.2	9.1e-79	0.46	0.96	aldose 1-epimerase [EC:5.1.3.3]
+Y1_g_00725	K20112	153.57	226.1	2.6e-68	0.98	0.96	PTS system galactose-specific IIA component [EC:2.7.1.204]
+Y1_g_00726	K20113	140.67	182.7	2.3e-55	0.97	0.96	PTS system galactose-specific IIB component [EC:2.7.1.204]
+Y1_g_00727	K20114	540.83	797.4	7.3e-241	1.00	0.96	PTS system galactose-specific IIC component
+Y1_g_00730	K00917	315.60	406.2	1.2e-122	0.91	1.00	tagatose 6-phosphate kinase [EC:2.7.1.144]
+Y1_g_00731	K01635	214.37	484.9	1.9e-146	0.90	0.99	tagatose 1,6-diphosphate aldolase [EC:4.1.2.40]
+Y1_g_00732	K01819	168.90	171.0	2e-51	0.99	0.84	galactose-6-phosphate isomerase [EC:5.3.1.26]
+Y1_g_00733	K01819	168.90	169.5	5.7e-51	0.99	1.00	galactose-6-phosphate isomerase [EC:5.3.1.26]
+Y1_g_00734	K02530	234.93	341.5	4.5e-103	1.00	0.97	DeoR family transcriptional regulator, lactose phosphotransferase system repressor
+Y1_g_00736	K03547	84.70	284.7	2.9e-85	0.61	0.94	DNA repair protein SbcD/Mre11
+Y1_g_00737	K03546	186.73	568.5	6.1e-171	0.89	1.00	DNA repair protein SbcC/Rad50
+Y1_g_00739	K13993	74.27	111.6	7e-33	0.22	0.92	HSP20 family protein
+Y1_g_00741	K03575	148.90	432.0	5.7e-130	0.68	0.97	A/G-specific adenine glycosylase [EC:3.2.2.31]
+Y1_g_00750	K07118	121.97	167.1	7.6e-50	0.74	0.99	uncharacterized protein
+Y1_g_00751	K05349	306.47	654.2	4.6e-197	0.71	0.83	beta-glucosidase [EC:3.2.1.21]
+Y1_g_00752	K01989	165.73	316.9	4.6e-95	0.50	0.99	putative ABC transport system substrate-binding protein
+Y1_g_00753	K01989	165.73	322.9	7.1e-97	0.50	0.98	putative ABC transport system substrate-binding protein
+Y1_g_00754	K05832	235.03	403.5	2.3e-121	0.44	0.96	putative ABC transport system permease protein
+Y1_g_00755	K05833	186.20	376.0	1.3e-113	0.99	0.99	putative ABC transport system ATP-binding protein
+Y1_g_00758	K20534	347.63	458.2	7.5e-138	0.44	0.96	polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-]
+Y1_g_00761	K14983	279.73	339.0	1.7e-102	0.97	0.98	two-component system, OmpR family, response regulator CiaR
+Y1_g_00762	K14982	307.93	499.1	1.8e-150	0.99	0.98	two-component system, OmpR family, sensor histidine kinase CiaH [EC:2.7.13.3]
+Y1_g_00766	K01574	58.47	122.1	4.2e-36	0.50	0.86	acetoacetate decarboxylase [EC:4.1.1.4]
+Y1_g_00772	K10947	57.23	92.9	3.5e-27	0.47	0.90	PadR family transcriptional regulator, regulatory protein PadR
+Y1_g_00778	K03548	186.33	191.2	6.1e-57	0.97	0.92	putative permease
+Y1_g_00780	K01356	131.23	246.4	6.3e-74	0.62	0.95	repressor LexA [EC:3.4.21.88]
+Y1_g_00782	K07088	137.10	194.5	4.5e-58	0.78	0.98	uncharacterized protein
+Y1_g_00785	K01934	26.70	126.6	2.2e-37	0.33	0.96	5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]
+Y1_g_00789	K22212	862.13	991.8	1.2e-299	1.00	0.97	malolactic enzyme [EC:4.1.1.101]
+Y1_g_00790	K07088	137.10	182.8	1.6e-54	0.78	0.98	uncharacterized protein
+Y1_g_00791	K11065	127.43	180.7	5.1e-54	0.50	0.98	thiol peroxidase, atypical 2-Cys peroxiredoxin [EC:1.11.1.15]
+Y1_g_00795	K08602	124.97	421.2	1.4e-126	0.78	0.99	oligoendopeptidase F [EC:3.4.24.-]
+Y1_g_00798	K00940	131.40	187.3	8.7e-56	0.37	0.93	nucleoside-diphosphate kinase [EC:2.7.4.6]
+Y1_g_00799	K12952	557.57	917.2	1.5e-276	0.86	0.98	cation-transporting P-type ATPase E [EC:7.2.2.-]
+Y1_g_00800	K01259	135.00	143.0	2.6e-42	0.72	0.95	proline iminopeptidase [EC:3.4.11.5]
+Y1_g_00803	K03455	132.77	243.2	9.8e-73	0.51	0.97	monovalent cation:H+ antiporter-2, CPA2 family
+Y1_g_00804	K01091	116.03	152.3	3.5e-45	0.36	0.95	phosphoglycolate phosphatase [EC:3.1.3.18]
+Y1_g_00806	K06889	123.43	145.7	2.9e-43	0.56	0.89	uncharacterized protein
+Y1_g_00807	K03647	80.20	167.4	6.7e-50	0.49	0.96	protein involved in ribonucleotide reduction
+Y1_g_00813	K00549	42.20	173.0	1.6e-51	0.58	0.97	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]
+Y1_g_00814	K07173	39.23	253.0	4.8e-76	0.56	0.99	S-ribosylhomocysteine lyase [EC:4.4.1.21]
+Y1_g_00816	K03550	69.57	192.2	2e-57	0.62	0.98	holliday junction DNA helicase RuvA [EC:3.6.4.12]
+Y1_g_00817	K03551	92.63	566.0	6.8e-171	0.75	0.98	holliday junction DNA helicase RuvB [EC:3.6.4.12]
+Y1_g_00818	K07568	64.33	501.7	2.7e-151	0.75	0.97	S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]
+Y1_g_00819	K00773	277.50	613.3	1.1e-184	0.49	0.97	queuine tRNA-ribosyltransferase [EC:2.4.2.29]
+Y1_g_00820	K03210	36.57	116.7	2.5e-34	0.57	0.94	preprotein translocase subunit YajC
+Y1_g_00821	K04072	622.57	1323.9	0	0.99	0.98	acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]
+Y1_g_00822	K03709	120.70	206.0	1.4e-61	0.54	0.99	DtxR family transcriptional regulator, Mn-dependent transcriptional regulator
+Y1_g_00823	K00036	375.50	570.0	1.3e-171	0.71	0.98	glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]
+Y1_g_00824	K02346	372.77	411.3	1e-123	0.64	0.96	DNA polymerase IV [EC:2.7.7.7]
+Y1_g_00826	K06881	215.23	324.7	1.3e-97	0.70	0.98	bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]
+Y1_g_00827	K18692	440.27	627.4	1.8e-189	1.00	0.99	ATP-dependent RNA helicase CshB [EC:3.6.4.13]
+Y1_g_00829	K01872	198.30	1044.3	0	0.76	1.00	alanyl-tRNA synthetase [EC:6.1.1.7]
+Y1_g_00832	K07447	35.13	183.7	8.4e-55	0.47	0.96	putative holliday junction resolvase [EC:3.1.-.-]
+Y1_g_00834	K09888	25.67	48.9	9.9e-14	0.32	0.96	cell division protein ZapA
+Y1_g_00836	K07456	291.27	825.8	7.4e-249	0.82	1.00	DNA mismatch repair protein MutS2
+Y1_g_00837	K03671	112.93	135.4	5.8e-40	0.33	0.95	thioredoxin 1
+Y1_g_00839	K03367	417.83	684.2	1.5e-206	0.99	0.99	D-alanine--poly(phosphoribitol) ligase subunit 1 [EC:6.1.1.13]
+Y1_g_00840	K03739	285.80	535.2	1.7e-161	1.00	0.99	membrane protein involved in D-alanine export
+Y1_g_00841	K14188	59.43	110.3	6.1e-33	0.95	0.93	D-alanine--poly(phosphoribitol) ligase subunit 2 [EC:6.1.1.13]
+Y1_g_00842	K03740	133.87	485.2	6.3e-146	0.61	0.97	D-alanine transfer protein
+Y1_g_00844	K01776	86.20	301.6	7.5e-91	0.92	0.57	glutamate racemase [EC:5.1.1.3]
+Y1_g_00845	K07095	108.67	114.9	5.5e-34	0.60	0.90	uncharacterized protein
+Y1_g_00846	K02440	272.47	327.5	1.2e-98	0.75	0.98	glycerol uptake facilitator protein
+Y1_g_00848	K08974	95.80	200.9	4.5e-60	0.74	0.99	putative membrane protein
+Y1_g_00849	K22044	173.07	246.5	6.7e-74	0.60	0.89	moderate conductance mechanosensitive channel
+Y1_g_00852	K07105	99.10	190.5	2.7e-57	0.96	0.98	uncharacterized protein
+Y1_g_00853	K01271	377.77	427.8	9.2e-129	0.62	0.99	Xaa-Pro dipeptidase [EC:3.4.13.9]
+Y1_g_00854	K02529	264.77	331.7	1.8e-99	0.45	0.99	LacI family transcriptional regulator
+Y1_g_00855	K03693	751.00	984.0	1.3e-296	0.94	0.92	penicillin-binding protein 1B
+Y1_g_00857	K03524	151.27	170.2	1.4e-50	0.37	0.90	BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]
+Y1_g_00859	K01126	130.67	181.7	3.3e-54	0.37	0.58	glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+Y1_g_00866	K01101	275.97	284.1	1.6e-85	0.93	0.99	4-nitrophenyl phosphatase [EC:3.1.3.41]
+Y1_g_00868	K03975	145.97	252.0	1.1e-75	0.65	0.96	membrane-associated protein
+Y1_g_00869	K01095	26.07	29.8	5.9e-08	0.25	0.41	phosphatidylglycerophosphatase A [EC:3.1.3.27]
+Y1_g_00870	K21567	368.93	416.3	1.3e-125	0.98	0.99	ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+Y1_g_00871	K03768	225.43	234.5	2.9e-70	0.48	0.92	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]
+Y1_g_00872	K07570	127.63	151.0	2.4e-45	0.90	0.94	general stress protein 13
+Y1_g_00878	K00712	218.37	418.0	9.9e-126	0.86	0.99	poly(glycerol-phosphate) alpha-glucosyltransferase [EC:2.4.1.52]
+Y1_g_00879	K00712	218.37	506.3	1.8e-152	0.88	0.98	poly(glycerol-phosphate) alpha-glucosyltransferase [EC:2.4.1.52]
+Y1_g_00880	K00432	39.27	232.9	9.7e-70	0.49	0.99	glutathione peroxidase [EC:1.11.1.9]
+Y1_g_00883	K14155	293.33	474.2	8.3e-143	0.68	0.96	cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+Y1_g_00884	K03651	114.43	115.9	3.8e-34	0.40	0.63	3',5'-cyclic-AMP phosphodiesterase [EC:3.1.4.53]
+Y1_g_00885	K07166	93.63	118.2	2.2e-35	0.81	1.00	ACT domain-containing protein
+Y1_g_00886	K09157	130.03	632.8	5.3e-191	1.00	1.00	uncharacterized protein
+Y1_g_00887	K06198	48.43	229.0	2.1e-68	0.87	0.98	competence protein CoiA
+Y1_g_00890	K07816	111.43	296.8	5.1e-89	0.51	0.96	putative GTP pyrophosphokinase [EC:2.7.6.5]
+Y1_g_00891	K00858	30.97	141.8	5e-42	0.29	0.73	NAD+ kinase [EC:2.7.1.23]
+Y1_g_00893	K03734	41.07	296.1	7.7e-89	0.67	0.92	FAD:protein FMN transferase [EC:2.7.1.180]
+Y1_g_00894	K06201	38.67	227.8	4.5e-68	0.45	0.97	copper homeostasis protein
+Y1_g_00895	K06153	37.60	306.4	4.9e-92	0.63	0.99	undecaprenyl-diphosphatase [EC:3.6.1.27]
+Y1_g_00896	K07404	132.57	359.1	6.5e-108	0.68	0.99	6-phosphogluconolactonase [EC:3.1.1.31]
+Y1_g_00897	K02781	76.70	108.9	1.9e-32	0.92	0.96	PTS system glucitol/sorbitol-specific IIA component [EC:2.7.1.198]
+Y1_g_00898	K02954	24.90	96.3	3.8e-28	0.42	1.00	small subunit ribosomal protein S14
+Y1_g_00899	K00364	341.53	390.2	1.9e-117	0.76	0.97	GMP reductase [EC:1.7.1.7]
+Y1_g_00900	K03284	158.63	163.3	1.3e-48	0.57	0.95	magnesium transporter
+Y1_g_00901	K00563	111.23	260.1	7.6e-78	0.64	0.94	23S rRNA (guanine745-N1)-methyltransferase [EC:2.1.1.187]
+Y1_g_00903	K03216	99.00	253.7	3e-76	0.60	0.98	tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]
+Y1_g_00905	K03466	49.87	686.6	7.6e-207	0.77	0.96	DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family
+Y1_g_00909	K15539	76.83	154.7	6.5e-46	0.75	0.97	cytoskeleton protein RodZ
+Y1_g_00910	K00995	113.77	143.8	1.7e-42	0.50	0.93	CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]
+Y1_g_00911	K03742	227.57	512.4	1.6e-154	0.87	1.00	nicotinamide-nucleotide amidase [EC:3.5.1.42]
+Y1_g_00912	K03553	103.57	586.9	4.1e-177	0.76	0.95	recombination protein RecA
+Y1_g_00913	K18682	118.43	812.0	4.1e-245	0.88	0.98	ribonucrease Y [EC:3.1.-.-]
+Y1_g_00915	K02240	121.70	511.3	5.1e-154	0.75	0.99	competence protein ComFA
+Y1_g_00916	K02242	83.70	179.4	1.5e-53	0.84	1.00	competence protein ComFC
+Y1_g_00917	K05808	91.60	200.4	3.3e-60	0.76	0.98	putative sigma-54 modulation protein
+Y1_g_00918	K03070	152.83	1157.6	0	0.85	0.99	preprotein translocase subunit SecA [EC:7.4.2.8]
+Y1_g_00919	K02836	364.97	534.5	3.7e-161	0.76	0.94	peptide chain release factor 2
+Y1_g_00920	K09812	299.50	384.0	1.9e-115	0.51	0.99	cell division transport system ATP-binding protein
+Y1_g_00921	K09811	75.23	261.6	1.8e-78	0.69	0.97	cell division transport system permease protein
+Y1_g_00924	K07636	357.13	375.8	6.1e-113	0.81	0.99	two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]
+Y1_g_00925	K02040	55.83	234.6	4.3e-70	0.59	0.95	phosphate transport system substrate-binding protein
+Y1_g_00926	K02037	249.10	318.9	1.2e-95	0.42	0.94	phosphate transport system permease protein
+Y1_g_00927	K02038	247.53	310.2	3.9e-93	0.58	0.98	phosphate transport system permease protein
+Y1_g_00928	K02036	269.13	438.1	5.1e-132	0.65	0.92	phosphate transport system ATP-binding protein [EC:7.3.2.1]
+Y1_g_00929	K02036	269.13	455.1	3.4e-137	0.65	0.98	phosphate transport system ATP-binding protein [EC:7.3.2.1]
+Y1_g_00930	K02039	112.13	222.1	2e-66	0.62	0.96	phosphate transport system protein
+Y1_g_00933	K08972	33.97	100.1	2e-29	0.58	0.96	putative membrane protein
+Y1_g_00934	K06023	49.80	421.9	2.8e-127	0.97	0.97	HPr kinase/phosphorylase [EC:2.7.11.- 2.7.4.-]
+Y1_g_00935	K13292	67.27	291.4	1.7e-87	0.61	0.92	phosphatidylglycerol---prolipoprotein diacylglyceryl transferase [EC:2.5.1.145]
+Y1_g_00936	K00057	269.83	472.9	1.9e-142	0.73	0.97	glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]
+Y1_g_00937	K00384	339.83	428.9	5.6e-129	0.52	0.96	thioredoxin reductase (NADPH) [EC:1.8.1.9]
+Y1_g_00938	K01835	393.93	410.8	2.6e-123	0.57	0.94	phosphoglucomutase [EC:5.4.2.2]
+Y1_g_00941	K02003	297.63	320.5	3.6e-96	0.41	0.98	putative ABC transport system ATP-binding protein
+Y1_g_00942	K02004	47.80	125.5	3.5e-37	0.24	0.27	putative ABC transport system permease protein
+Y1_g_00944	K03702	143.73	1228.6	0	0.57	0.99	excinuclease ABC subunit B
+Y1_g_00945	K03701	132.93	1588.7	0	0.68	0.99	excinuclease ABC subunit A
+Y1_g_00947	K06958	57.10	424.6	4.3e-128	0.79	0.98	RNase adapter protein RapZ
+Y1_g_00949	K09762	88.57	399.4	2.1e-120	0.87	0.98	uncharacterized protein
+Y1_g_00950	K23775	88.47	155.0	3.3e-46	0.70	0.91	MarR family transcriptional regulator, organic hydroperoxide resistance regulator
+Y1_g_00951	K01358	43.67	347.4	1.7e-104	0.52	0.97	ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+Y1_g_00954	K05311	321.97	440.5	4.5e-133	0.99	0.99	central glycolytic genes regulator
+Y1_g_00955	K00134	61.57	458.5	6.9e-138	0.51	0.99	glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+Y1_g_00956	K00927	71.90	602.1	1.4e-181	0.71	0.99	phosphoglycerate kinase [EC:2.7.2.3]
+Y1_g_00957	K01803	70.10	360.1	2.7e-108	0.51	0.99	triosephosphate isomerase (TIM) [EC:5.3.1.1]
+Y1_g_00958	K01689	51.27	685.0	1.2e-206	0.72	0.98	enolase [EC:4.2.1.11]
+Y1_g_00959	K08217	218.13	461.6	3e-139	0.97	0.97	MFS transporter, DHA3 family, macrolide efflux protein
+Y1_g_00961	K03281	327.27	353.6	3.5e-106	0.57	0.79	chloride channel protein, CIC family
+Y1_g_00962	K03075	24.60	68.0	1.6e-19	0.42	0.97	preprotein translocase subunit SecG
+Y1_g_00963	K03928	129.03	165.7	3e-49	0.61	0.97	carboxylesterase [EC:3.1.1.1]
+Y1_g_00964	K12573	470.73	889.0	5e-268	0.87	0.96	ribonuclease R [EC:3.1.13.1]
+Y1_g_00965	K03664	28.77	236.1	6.5e-71	0.62	0.99	SsrA-binding protein
+Y1_g_00969	K01208	530.43	678.0	2.3e-204	0.77	0.95	cyclomaltodextrinase / maltogenic alpha-amylase / neopullulanase [EC:3.2.1.54 3.2.1.133 3.2.1.135]
+Y1_g_00970	K00691	787.50	1115.6	0	0.99	0.99	maltose phosphorylase [EC:2.4.1.8]
+Y1_g_00971	K01838	184.93	273.0	6.1e-82	0.61	0.98	beta-phosphoglucomutase [EC:5.4.2.6]
+Y1_g_00972	K10112	536.17	561.8	2.6e-169	0.67	0.98	multiple sugar transport system ATP-binding protein
+Y1_g_00973	K01215	853.97	868.3	3.3e-262	0.99	0.99	glucan 1,6-alpha-glucosidase [EC:3.2.1.70]
+Y1_g_00975	K15771	397.63	401.4	9.4e-121	0.71	0.96	arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+Y1_g_00976	K15772	286.13	322.4	7.8e-97	0.65	0.98	arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+Y1_g_00978	K07729	59.17	86.0	3.7e-25	0.35	0.98	putative transcriptional regulator
+Y1_g_00980	K02027	193.47	240.6	8e-72	0.63	1.00	multiple sugar transport system substrate-binding protein
+Y1_g_00981	K02026	262.23	348.5	9.1e-105	0.59	0.99	multiple sugar transport system permease protein
+Y1_g_00982	K02025	279.20	350.3	2.5e-105	0.56	0.94	multiple sugar transport system permease protein
+Y1_g_00983	K10822	138.23	148.4	3.3e-44	0.90	0.61	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2]
+Y1_g_00984	K06977	113.60	146.9	1.1e-43	0.82	0.99	uncharacterized protein
+Y1_g_00986	K21064	178.67	182.3	2.2e-54	0.98	0.96	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+Y1_g_00987	K03648	88.37	374.6	2.2e-112	0.35	0.96	uracil-DNA glycosylase [EC:3.2.2.27]
+Y1_g_00988	K00625	330.37	345.9	4.3e-104	0.91	0.99	phosphate acetyltransferase [EC:2.3.1.8]
+Y1_g_00989	K06925	47.07	174.2	5.7e-52	0.62	0.94	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+Y1_g_00991	K01990	263.77	272.2	1.8e-81	0.46	0.97	ABC-2 type transport system ATP-binding protein
+Y1_g_00992	K01992	21.17	27.5	3.2e-07	0.49	0.89	ABC-2 type transport system permease protein
+Y1_g_00993	K02342	108.03	165.9	2e-49	0.41	0.88	DNA polymerase III subunit epsilon [EC:2.7.7.7]
+Y1_g_00994	K01142	230.67	364.9	1.3e-109	0.23	0.98	exodeoxyribonuclease III [EC:3.1.11.2]
+Y1_g_00995	K00075	59.67	360.4	2.3e-108	0.57	0.95	UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+Y1_g_00996	K03316	292.50	469.1	4e-141	0.68	0.99	monovalent cation:H+ antiporter, CPA1 family
+Y1_g_00998	K11072	498.77	563.1	1.1e-169	0.63	0.96	spermidine/putrescine transport system ATP-binding protein [EC:7.6.2.11]
+Y1_g_00999	K11071	277.77	288.7	9.5e-87	0.64	0.97	spermidine/putrescine transport system permease protein
+Y1_g_01000	K11070	288.20	325.9	7.5e-98	0.49	0.96	spermidine/putrescine transport system permease protein
+Y1_g_01001	K11069	333.93	379.3	3.8e-114	0.89	0.99	spermidine/putrescine transport system substrate-binding protein
+Y1_g_01005	K01992	21.17	53.7	3.5e-15	0.51	0.96	ABC-2 type transport system permease protein
+Y1_g_01006	K01990	263.77	276.5	9e-83	0.40	0.91	ABC-2 type transport system ATP-binding protein
+Y1_g_01007	K18672	79.70	334.7	1.7e-100	0.36	0.96	diadenylate cyclase [EC:2.7.7.85]
+Y1_g_01008	K18672	79.70	85.8	3.4e-25	0.35	0.70	diadenylate cyclase [EC:2.7.7.85]
+Y1_g_01009	K03431	448.27	655.2	2e-197	0.59	1.00	phosphoglucosamine mutase [EC:5.4.2.10]
+Y1_g_01010	K00820	170.47	666.5	8e-201	0.79	1.00	glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]
+Y1_g_01012	K08602	124.97	397.7	1.8e-119	0.76	0.98	oligoendopeptidase F [EC:3.4.24.-]
+Y1_g_01016	K02244	211.00	236.3	7.9e-71	0.96	0.98	competence protein ComGB
+Y1_g_01018	K02246	60.87	72.0	1e-20	0.68	0.99	competence protein ComGD
+Y1_g_01020	K02248	45.80	75.6	7.1e-22	0.67	0.97	competence protein ComGF
+Y1_g_01031	K22205	189.50	222.4	1.4e-66	0.64	0.97	S-adenosyl-L-methionine hydrolase (adenosine-forming) [EC:3.13.1.8]
+Y1_g_01032	K16924	102.70	235.3	6.3e-71	0.97	0.98	energy-coupling factor transport system substrate-specific component
+Y1_g_01033	K16786	356.27	575.2	4.2e-173	0.64	0.99	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]
+Y1_g_01034	K16785	114.57	162.0	2.9e-48	0.33	0.93	energy-coupling factor transport system permease protein
+Y1_g_01047	K08093	172.57	271.5	1.4e-81	0.67	0.99	3-hexulose-6-phosphate synthase [EC:4.1.2.43]
+Y1_g_01048	K08094	113.67	227.0	2.1e-68	0.95	0.98	6-phospho-3-hexuloisomerase [EC:5.3.1.27]
+Y1_g_01049	K02799	321.43	748.1	1.4e-225	0.90	0.99	PTS system mannitol-specific IIB component [EC:2.7.1.197]
+Y1_g_01050	K00009	183.30	400.6	2.1e-120	0.54	0.97	mannitol-1-phosphate 5-dehydrogenase [EC:1.1.1.17]
+Y1_g_01051	K04940	167.63	249.9	5e-75	0.91	0.93	opine dehydrogenase [EC:1.5.1.28]
+Y1_g_01053	K16957	239.13	350.1	1.6e-105	1.00	0.95	L-cystine transport system substrate-binding protein
+Y1_g_01056	K03761	452.90	707.7	2.9e-213	0.66	0.99	MFS transporter, MHS family, alpha-ketoglutarate permease
+Y1_g_01059	K07273	52.60	83.5	2.3e-24	0.49	0.70	lysozyme
+Y1_g_01063	K02004	47.80	52.2	5.3e-15	0.14	0.49	putative ABC transport system permease protein
+Y1_g_01067	K05910	526.50	752.8	1.8e-227	1.00	1.00	NADH peroxidase [EC:1.11.1.1]
+Y1_g_01068	K21064	178.67	186.1	1.5e-55	0.97	0.97	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+Y1_g_01069	K19157	38.70	78.8	6.4e-23	0.62	0.96	mRNA interferase YafQ [EC:3.1.-.-]
+Y1_g_01070	K02529	264.77	275.2	2.2e-82	0.44	1.00	LacI family transcriptional regulator
+Y1_g_01076	K01182	825.73	871.0	1.5e-262	0.58	0.99	oligo-1,6-glucosidase [EC:3.2.1.10]
+Y1_g_01081	K01421	124.07	267.1	6e-80	0.55	0.58	putative membrane protein
+Y1_g_01082	K02073	149.63	255.8	1.2e-76	0.45	0.94	D-methionine transport system substrate-binding protein
+Y1_g_01083	K01442	33.30	233.8	7.8e-70	0.64	0.94	choloylglycine hydrolase [EC:3.5.1.24]
+Y1_g_01085	K10254	99.13	614.7	2.8e-185	0.84	0.99	oleate hydratase [EC:4.2.1.53]
+Y1_g_01088	K05881	73.00	151.4	4.4e-45	0.56	0.98	phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM [EC:2.7.1.121]
+Y1_g_01089	K05879	200.47	234.1	3.1e-70	0.68	0.99	phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL [EC:2.7.1.121]
+Y1_g_01090	K05878	434.20	472.6	3.5e-142	0.46	0.98	phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK [EC:2.7.1.121]
+Y1_g_01091	K04063	57.93	108.5	6.3e-32	0.63	0.92	lipoyl-dependent peroxidase
+Y1_g_01096	K01246	29.63	269.8	4e-81	0.60	0.95	DNA-3-methyladenine glycosylase I [EC:3.2.2.20]
+Y1_g_01097	K01624	70.47	347.4	2.5e-104	0.61	0.96	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+Y1_g_01098	K00158	636.33	745.5	5.1e-225	0.99	0.99	pyruvate oxidase [EC:1.2.3.3]
+Y1_g_01102	K07010	137.03	277.3	3e-83	0.68	0.99	putative glutamine amidotransferase
+Y1_g_01103	K01915	37.37	260.6	4.8e-78	0.70	0.94	glutamine synthetase [EC:6.3.1.2]
+Y1_g_01110	K07149	52.17	116.3	1.9e-34	0.77	0.96	uncharacterized protein
+Y1_g_01111	K01223	486.53	596.7	4.3e-180	0.90	1.00	6-phospho-beta-glucosidase [EC:3.2.1.86]
+Y1_g_01112	K02759	40.70	118.8	2.7e-35	0.60	0.83	PTS system cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]
+Y1_g_01113	K02761	281.73	306.6	5.1e-92	0.72	0.99	PTS system cellobiose-specific IIC component
+Y1_g_01114	K02760	68.03	116.5	1.1e-34	0.64	0.97	PTS system cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]
+Y1_g_01115	K03491	465.87	475.1	6e-143	0.92	1.00	lichenan operon transcriptional antiterminator
+Y1_g_01120	K07284	59.80	196.1	1.7e-58	0.33	0.83	sortase A [EC:3.4.22.70]
+Y1_g_01123	K20488	254.03	266.1	3.1e-80	0.99	0.96	two-component system, OmpR family, lantibiotic biosynthesis response regulator NisR/SpaR
+Y1_g_01124	K20487	279.83	289.5	8.5e-87	0.66	0.80	two-component system, OmpR family, lantibiotic biosynthesis sensor histidine kinase NisK/SpaK [EC:2.7.13.3]
+Y1_g_01126	K01990	263.77	265.4	2e-79	0.41	0.96	ABC-2 type transport system ATP-binding protein
+Y1_g_01132	K20265	169.33	180.5	7.5e-54	0.78	0.98	glutamate:GABA antiporter
+Y1_g_01133	K08996	50.93	217.7	1.3e-65	0.86	0.96	putative membrane protein
+Y1_g_01137	K00014	198.13	304.6	1.9e-91	0.60	0.95	shikimate dehydrogenase [EC:1.1.1.25]
+Y1_g_01139	K00014	198.13	279.8	6.8e-84	0.60	0.95	shikimate dehydrogenase [EC:1.1.1.25]
+Y1_g_01140	K23304	351.97	442.4	7.4e-134	0.99	0.99	serine O-acetyltransferase [EC:2.3.1.30]
+Y1_g_01141	K01738	422.93	464.9	7.5e-140	0.40	0.98	cysteine synthase [EC:2.5.1.47]
+Y1_g_01165	K09951	23.40	23.8	3.9e-06	0.41	0.91	CRISPR-associated protein Cas2
+Y1_g_01178	K02003	297.63	335.6	1e-100	0.41	0.93	putative ABC transport system ATP-binding protein
+Y1_g_01179	K02004	47.80	135.3	3.7e-40	0.15	0.22	putative ABC transport system permease protein
+Y1_g_01184	K07052	25.67	45.8	7.1e-13	0.58	0.80	uncharacterized protein
+Y1_g_01189	K00426	27.97	257.7	2.9e-77	0.71	0.96	cytochrome bd ubiquinol oxidase subunit II [EC:7.1.1.7]
+Y1_g_01190	K00425	79.23	506.8	1.3e-152	0.69	0.93	cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]
+Y1_g_01193	K02963	71.50	101.2	1.1e-29	0.34	0.86	small subunit ribosomal protein S18
+Y1_g_01194	K03111	24.80	145.8	3.4e-43	0.46	1.00	single-strand DNA-binding protein
+Y1_g_01195	K02990	23.27	96.8	2.8e-28	0.33	0.95	small subunit ribosomal protein S6
+Y1_g_01196	K03111	24.80	103.5	2.7e-30	0.46	1.00	single-strand DNA-binding protein
+Y1_g_01197	K01619	42.50	304.1	2.3e-91	0.56	0.93	deoxyribose-phosphate aldolase [EC:4.1.2.4]
+Y1_g_01198	K02469	1039.63	1341.7	0	0.65	0.95	DNA gyrase subunit A [EC:5.6.2.2]
+Y1_g_01199	K02470	966.43	1016.5	0	0.82	0.99	DNA gyrase subunit B [EC:5.6.2.2]
+Y1_g_01200	K03629	97.20	435.4	4.6e-131	0.72	1.00	DNA replication and repair protein RecF
+Y1_g_01201	K14761	61.87	79.3	3.7e-23	0.50	0.99	ribosome-associated protein
+Y1_g_01203	K02338	50.37	374.6	1.4e-112	0.74	1.00	DNA polymerase III subunit beta [EC:2.7.7.7]
+Y1_g_01204	K02313	121.97	581.1	4.4e-175	0.79	1.00	chromosomal replication initiator protein
+Y1_g_01205	K02914	18.57	74.8	7.8e-22	0.35	0.91	large subunit ribosomal protein L34
+Y1_g_01206	K03536	19.73	129.4	3.1e-38	0.59	0.93	ribonuclease P protein component [EC:3.1.26.5]
+Y1_g_01207	K03217	122.93	235.4	2.1e-70	0.44	0.85	YidC/Oxa1 family membrane protein insertase
+Y1_g_01208	K06346	59.10	230.6	5.1e-69	0.66	0.99	spoIIIJ-associated protein
+Y1_g_01210	K03650	167.93	538.5	6.7e-162	0.29	0.98	tRNA modification GTPase [EC:3.6.-.-]
+Y1_g_01211	K03495	121.13	950.6	1.3e-286	0.75	0.98	tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+Y1_g_01216	K08317	338.97	432.5	1.6e-130	1.00	0.99	uncharacterized oxidoreductase [EC:1.1.-.-]
+Y1_g_01219	K02004	47.80	115.9	2.7e-34	0.53	0.99	putative ABC transport system permease protein
+Y1_g_01220	K02003	297.63	336.4	5.6e-101	0.42	0.97	putative ABC transport system ATP-binding protein
+Y1_g_01225	K02564	192.53	298.4	1.4e-89	0.34	0.99	glucosamine-6-phosphate deaminase [EC:3.5.99.6]
+Y1_g_01226	K02800	218.17	840.5	1.5e-253	0.12	0.13	PTS system mannitol-specific IIC component
+Y1_g_01227	K03483	426.97	540.4	1.2e-162	1.00	0.99	mannitol operon transcriptional antiterminator
+Y1_g_01229	K00009	183.30	462.5	3.8e-139	0.53	0.99	mannitol-1-phosphate 5-dehydrogenase [EC:1.1.1.17]
+Y1_g_01231	K06889	123.43	140.0	1.5e-41	0.55	0.79	uncharacterized protein
+Y1_g_01232	K00948	59.63	413.5	2.8e-124	0.37	1.00	ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+Y1_g_01237	K06904	44.23	174.7	5.1e-52	0.70	0.92	uncharacterized protein
+Y1_g_01245	K06919	22.27	62.0	2.5e-18	0.19	0.69	putative DNA primase/helicase
+Y1_g_01255	K14059	158.40	162.2	3.6e-48	0.59	0.98	integrase
+Y1_g_01261	K02475	265.93	266.4	3.1e-80	0.98	0.97	two-component system, CitB family, response regulator
+Y1_g_01263	K11616	457.87	612.6	5.3e-185	0.96	0.98	malate:Na+ symporter
+Y1_g_01264	K00027	474.13	532.0	4.2e-160	0.52	0.97	malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+Y1_g_01270	K00661	123.97	301.4	1.9e-90	0.54	0.95	maltose O-acetyltransferase [EC:2.3.1.79]
+Y1_g_01272	K07090	48.87	100.1	1.8e-29	0.36	0.93	uncharacterized protein
+Y1_g_01277	K03322	526.13	573.6	8.2e-173	0.54	0.95	manganese transport protein
+Y1_g_01279	K08659	96.73	652.5	6.9e-197	0.99	0.97	dipeptidase [EC:3.4.-.-]
+Y1_g_01280	K07149	52.17	68.9	5.5e-20	0.72	0.92	uncharacterized protein
+Y1_g_01290	K07052	25.67	54.1	2e-15	0.45	0.77	uncharacterized protein
+Y1_g_01291	K01625	202.07	266.8	5.7e-80	0.58	0.95	2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]
+Y1_g_01292	K22293	163.23	209.8	8.7e-63	0.73	0.96	GntR family transcriptional regulator, rspAB operon transcriptional repressor
+Y1_g_01298	K06994	242.50	525.0	6.9e-158	0.66	0.94	putative drug exporter of the RND superfamily
+Y1_g_01299	K22106	138.10	138.6	4.3e-41	0.93	0.92	TetR/AcrR family transcriptional regulator, repressor of fatR-cypB operon
+Y1_g_01301	K05846	172.73	260.8	5.2e-78	0.22	0.95	osmoprotectant transport system permease protein
+Y1_g_01302	K05845	174.27	308.6	1.2e-92	0.56	0.96	osmoprotectant transport system substrate-binding protein
+Y1_g_01303	K05846	172.73	284.1	4.8e-85	0.21	0.96	osmoprotectant transport system permease protein
+Y1_g_01304	K05847	358.83	484.5	6.8e-146	0.79	0.98	osmoprotectant transport system ATP-binding protein [EC:7.6.2.9]
+Y1_g_01305	K07052	25.67	66.0	4.9e-19	0.52	0.91	uncharacterized protein
+Y1_g_01310	K21562	206.73	219.5	6e-66	0.92	0.98	CRP/FNR family transcriptional regulator, anaerobic regulatory protein
+Y1_g_01311	K01695	64.00	336.1	3.9e-101	0.65	0.98	tryptophan synthase alpha chain [EC:4.2.1.20]
+Y1_g_01312	K01696	652.73	690.6	3.1e-208	0.69	0.98	tryptophan synthase beta chain [EC:4.2.1.20]
+Y1_g_01313	K01817	69.13	203.3	9.2e-61	0.39	0.95	phosphoribosylanthranilate isomerase [EC:5.3.1.24]
+Y1_g_01314	K01609	306.70	315.2	1e-94	0.66	0.98	indole-3-glycerol phosphate synthase [EC:4.1.1.48]
+Y1_g_01315	K00766	85.97	459.1	4.5e-138	0.33	0.98	anthranilate phosphoribosyltransferase [EC:2.4.2.18]
+Y1_g_01325	K07171	19.37	45.6	1.1e-12	0.49	0.98	mRNA interferase MazF [EC:3.1.-.-]
+Y1_g_01330	K00215	127.77	236.3	9.6e-71	0.66	0.94	4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]
+Y1_g_01331	K01714	267.80	312.1	1.2e-93	0.57	0.94	4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]
+Y1_g_01332	K05823	366.23	558.2	1.1e-168	0.99	0.98	N-acetyldiaminopimelate deacetylase [EC:3.5.1.47]
+Y1_g_01333	K05822	364.27	370.2	6e-112	1.00	1.00	tetrahydrodipicolinate N-acetyltransferase [EC:2.3.1.89]
+Y1_g_01334	K01586	275.57	501.9	6.1e-151	0.52	0.94	diaminopimelate decarboxylase [EC:4.1.1.20]
+Y1_g_01337	K01778	62.50	212.0	2.3e-63	0.72	0.90	diaminopimelate epimerase [EC:5.1.1.7]
+Y1_g_01338	K00133	219.47	467.1	1.7e-140	0.50	0.99	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]
+Y1_g_01344	K22927	307.93	870.7	1e-262	0.99	0.98	cyclic-di-AMP phosphodiesterase [EC:3.1.4.59]
+Y1_g_01345	K02939	47.80	137.2	1.2e-40	0.55	0.99	large subunit ribosomal protein L9
+Y1_g_01346	K02314	106.63	596.3	8.9e-180	0.83	0.98	replicative DNA helicase [EC:3.6.4.12]
+Y1_g_01349	K01939	64.93	596.6	5.9e-180	0.78	0.97	adenylosuccinate synthase [EC:6.3.4.4]
+Y1_g_01352	K01535	593.47	809.2	8e-244	0.77	0.98	H+-transporting ATPase [EC:7.1.2.1]
+Y1_g_01356	K01990	263.77	303.0	8.3e-91	0.46	0.99	ABC-2 type transport system ATP-binding protein
+Y1_g_01358	K21636	137.20	548.9	3.2e-165	0.84	0.98	ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]
+Y1_g_01364	K04567	302.73	754.9	1.9e-227	0.56	0.98	lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+Y1_g_01365	K05540	266.83	388.6	5.4e-117	0.77	0.98	tRNA-dihydrouridine synthase B [EC:1.-.-.-]
+Y1_g_01366	K04083	39.93	327.2	2e-98	0.76	0.99	molecular chaperone Hsp33
+Y1_g_01372	K03798	766.57	935.2	6.2e-282	0.75	0.94	cell division protease FtsH [EC:3.4.24.-]
+Y1_g_01373	K00760	91.90	256.3	6.2e-77	0.50	0.96	hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+Y1_g_01374	K04075	115.90	279.0	1.3e-83	0.69	0.91	tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+Y1_g_01375	K07571	134.90	187.0	2.5e-56	0.82	0.99	S1 RNA binding domain protein
+Y1_g_01376	K13052	68.73	115.6	2.5e-34	0.79	0.88	cell division protein DivIC
+Y1_g_01378	K03328	172.10	202.4	2.3e-60	0.78	0.93	polysaccharide transporter, PST family
+Y1_g_01379	K03723	466.97	1419.2	0	0.80	0.98	transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-]
+Y1_g_01380	K01056	46.53	253.8	3.9e-76	0.55	1.00	peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+Y1_g_01381	K00016	312.07	431.2	5.7e-130	0.67	0.95	L-lactate dehydrogenase [EC:1.1.1.27]
+Y1_g_01384	K01421	124.07	201.9	2.9e-60	0.23	0.44	putative membrane protein
+Y1_g_01388	K00266	501.37	518.2	5.4e-156	0.70	0.99	glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+Y1_g_01391	K07171	19.37	132.6	2.7e-39	0.49	0.89	mRNA interferase MazF [EC:3.1.-.-]
+Y1_g_01393	K01775	108.67	409.0	6e-123	0.55	0.97	alanine racemase [EC:5.1.1.1]
+Y1_g_01394	K00997	101.73	105.5	6.5e-31	0.34	0.95	holo-[acyl-carrier protein] synthase [EC:2.7.8.7]
+Y1_g_01395	K05592	533.77	656.0	1.1e-197	0.69	0.92	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]
+Y1_g_01396	K01929	351.73	493.7	1.1e-148	0.71	0.99	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]
+Y1_g_01401	K02909	22.33	91.4	5e-27	0.63	0.96	large subunit ribosomal protein L31
+Y1_g_01402	K00790	175.17	553.6	6.3e-167	0.80	1.00	UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+Y1_g_01403	K01937	66.47	802.8	3.5e-242	0.79	0.99	CTP synthase [EC:6.3.4.2]
+Y1_g_01405	K03048	44.90	188.4	2e-56	0.88	0.96	DNA-directed RNA polymerase subunit delta
+Y1_g_01407	K16869	140.07	253.1	4.5e-76	0.96	0.94	octanoyl-[GcvH]:protein N-octanoyltransferase [EC:2.3.1.204]
+Y1_g_01408	K06885	286.33	425.7	4.6e-128	0.80	0.96	uncharacterized protein
+Y1_g_01411	K03282	38.90	178.0	4.6e-53	0.54	0.98	large conductance mechanosensitive channel
+Y1_g_01415	K00948	59.63	509.5	2.7e-153	0.37	0.97	ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+Y1_g_01416	K04042	321.43	649.6	6.9e-196	0.75	0.97	bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]
+Y1_g_01418	K09685	207.77	405.6	1e-122	1.00	0.96	purine operon repressor
+Y1_g_01419	K02068	240.73	271.0	2e-81	0.71	0.99	putative ABC transport system ATP-binding protein
+Y1_g_01420	K02069	144.27	261.0	2.8e-78	0.48	0.98	putative ABC transport system permease protein
+Y1_g_01421	K16264	311.30	367.3	1.8e-110	0.65	0.94	cobalt-zinc-cadmium efflux system protein
+Y1_g_01422	K00919	104.93	295.7	7.7e-89	0.72	0.87	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]
+Y1_g_01424	K02528	265.57	366.0	7.5e-110	0.48	0.95	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]
+Y1_g_01425	K05985	84.87	263.5	3.3e-79	0.68	0.97	ribonuclease M5 [EC:3.1.26.8]
+Y1_g_01426	K03424	88.03	288.6	1.3e-86	0.56	0.99	TatD DNase family protein [EC:3.1.21.-]
+Y1_g_01428	K01635	214.37	486.5	6.1e-147	0.90	0.99	tagatose 1,6-diphosphate aldolase [EC:4.1.2.40]
+Y1_g_01434	K01874	236.63	778.8	1.6e-234	0.46	0.99	methionyl-tRNA synthetase [EC:6.1.1.10]
+Y1_g_01440	K12410	227.27	253.1	6.8e-76	0.59	0.98	NAD-dependent deacetylase [EC:3.5.1.-]
+Y1_g_01446	K01524	162.97	284.2	2.9e-85	0.67	1.00	exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]
+Y1_g_01447	K00937	96.87	1007.1	9.9e-304	0.82	0.95	polyphosphate kinase [EC:2.7.4.1]
+Y1_g_01450	K07052	25.67	88.7	5.7e-26	0.45	0.79	uncharacterized protein
+Y1_g_01452	K06950	60.97	166.0	2.5e-49	0.54	0.97	uncharacterized protein
+Y1_g_01454	K03701	132.93	833.3	6.7e-251	0.49	0.81	excinuclease ABC subunit A
+Y1_g_01455	K19265	333.83	445.4	1.8e-134	0.89	0.99	L-glyceraldehyde 3-phosphate reductase [EC:1.1.1.-]
+Y1_g_01461	K21064	178.67	250.4	3.7e-75	0.99	0.99	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+Y1_g_01462	K03469	101.13	137.3	1.4e-40	0.41	0.93	ribonuclease HI [EC:3.1.26.4]
+Y1_g_01464	K05825	387.70	468.4	3.2e-141	0.93	0.98	2-aminoadipate transaminase [EC:2.6.1.-]
+Y1_g_01467	K03553	103.57	548.0	2.7e-165	0.82	0.93	recombination protein RecA
+Y1_g_01468	K07150	51.57	270.6	1.7e-81	0.82	0.97	uncharacterized protein
+Y1_g_01470	K02770	643.60	678.6	2e-204	0.19	0.22	PTS system fructose-specific IIBC component [EC:2.7.1.202]
+Y1_g_01473	K00864	512.80	738.8	6.3e-223	0.78	0.98	glycerol kinase [EC:2.7.1.30]
+Y1_g_01475	K01206	57.03	253.7	5.7e-76	0.58	0.97	alpha-L-fucosidase [EC:3.2.1.51]
+Y1_g_01476	K02794	173.90	258.2	1.6e-77	0.97	0.99	PTS system mannose-specific IIB component [EC:2.7.1.191]
+Y1_g_01477	K02795	231.67	259.8	5.4e-78	0.73	0.91	PTS system mannose-specific IIC component
+Y1_g_01479	K02759	40.70	137.7	4e-41	0.62	0.97	PTS system cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]
+Y1_g_01480	K02760	68.03	131.7	2.3e-39	0.67	0.97	PTS system cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]
+Y1_g_01483	K09704	122.17	456.6	2e-137	0.66	0.94	uncharacterized protein
+Y1_g_01484	K15524	856.73	859.6	4.2e-259	0.99	0.98	mannosylglycerate hydrolase [EC:3.2.1.170]
+Y1_g_01485	K02761	281.73	363.5	3e-109	0.69	0.97	PTS system cellobiose-specific IIC component
+Y1_g_01486	K03492	224.30	261.1	1.2e-78	0.98	0.95	GntR family transcriptional regulator
+Y1_g_01490	K02775	377.20	594.0	3e-179	0.98	0.83	PTS system galactitol-specific IIC component
+Y1_g_01491	K02774	65.20	82.8	2.8e-24	0.96	0.97	PTS system galactitol-specific IIB component [EC:2.7.1.200]
+Y1_g_01492	K02773	141.80	144.9	2.3e-43	0.92	0.97	PTS system galactitol-specific IIA component [EC:2.7.1.200]
+Y1_g_01495	K01182	825.73	899.6	3.5e-271	0.58	0.99	oligo-1,6-glucosidase [EC:3.2.1.10]
+Y1_g_01503	K03210	36.57	54.6	2.3e-15	0.37	0.74	preprotein translocase subunit YajC
+Y1_g_01505	K02747	329.67	351.3	4.4e-106	0.94	0.98	PTS system N-acetylgalactosamine-specific IID component
+Y1_g_01506	K02746	272.57	298.1	7.2e-90	0.98	0.94	PTS system N-acetylgalactosamine-specific IIC component
+Y1_g_01507	K02745	219.17	222.0	4.6e-67	0.96	0.92	PTS system N-acetylgalactosamine-specific IIB component [EC:2.7.1.-]
+Y1_g_01508	K18581	91.77	467.6	5.5e-141	0.87	0.95	unsaturated chondroitin disaccharide hydrolase [EC:3.2.1.180]
+Y1_g_01511	K01815	86.87	414.5	2.7e-125	1.00	0.99	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase [EC:5.3.1.17]
+Y1_g_01512	K00065	319.63	354.3	1.9e-106	0.46	0.94	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase [EC:1.1.1.127]
+Y1_g_01513	K01625	202.07	266.7	5.8e-80	0.58	0.96	2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]
+Y1_g_01514	K00874	239.87	301.6	1.9e-90	0.49	0.98	2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]
+Y1_g_01516	K01807	36.73	280.4	4.4e-84	0.52	0.97	ribose 5-phosphate isomerase A [EC:5.3.1.6]
+Y1_g_01518	K20534	347.63	402.2	6.4e-121	0.42	0.99	polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-]
+Y1_g_01519	K19302	86.77	105.3	5.4e-31	0.52	0.80	undecaprenyl-diphosphatase [EC:3.6.1.27]
+Y1_g_01520	K03975	145.97	230.6	3.6e-69	0.62	0.89	membrane-associated protein
+Y1_g_01523	K01232	405.53	750.9	6.1e-227	1.00	0.95	maltose-6'-phosphate glucosidase [EC:3.2.1.122]
+Y1_g_01524	K02791	613.10	647.4	2.8e-195	0.86	0.99	PTS system maltose/glucose-specific IICB component [EC:2.7.1.199 2.7.1.208]
+Y1_g_01525	K01727	433.27	865.5	9.5e-261	0.90	0.97	hyaluronate lyase [EC:4.2.2.1]
+Y1_g_01530	K02424	266.40	276.8	4.6e-83	0.67	0.98	L-cystine transport system substrate-binding protein
+Y1_g_01531	K10009	265.30	342.7	4.8e-103	0.61	0.98	L-cystine transport system permease protein
+Y1_g_01534	K03311	82.00	527.8	3.6e-159	0.80	0.97	branched-chain amino acid:cation transporter, LIVCS family
+Y1_g_01545	K01990	263.77	288.5	2e-86	0.46	0.88	ABC-2 type transport system ATP-binding protein
+Y1_g_01548	K00297	29.30	292.9	6.8e-88	0.49	0.95	methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]
+Y1_g_01549	K00549	42.20	744.8	9.7e-225	0.25	0.21	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]
+Y1_g_01551	K18891	794.60	938.1	2.3e-283	1.00	1.00	ATP-binding cassette, subfamily B, multidrug efflux pump
+Y1_g_01552	K18892	762.13	933.8	5.3e-282	1.00	1.00	ATP-binding cassette, subfamily B, multidrug efflux pump
+Y1_g_01553	K08177	208.67	461.7	2.7e-139	0.84	0.97	MFS transporter, OFA family, oxalate/formate antiporter
+Y1_g_01554	K03486	211.73	299.4	2.8e-90	0.99	0.99	GntR family transcriptional regulator, trehalose operon transcriptional repressor
+Y1_g_01555	K01226	801.90	830.9	8.4e-251	0.99	0.99	trehalose-6-phosphate hydrolase [EC:3.2.1.93]
+Y1_g_01556	K02755	676.40	739.5	5.9e-223	0.20	0.23	PTS system beta-glucoside-specific IIA component [EC:2.7.1.-]
+Y1_g_01557	K07862	169.37	537.0	4.4e-162	0.98	0.92	serine/threonine transporter
+Y1_g_01559	K00016	312.07	334.8	1e-100	0.66	0.97	L-lactate dehydrogenase [EC:1.1.1.27]
+Y1_g_01560	K00262	477.83	714.9	1.4e-215	0.70	0.99	glutamate dehydrogenase (NADP+) [EC:1.4.1.4]
+Y1_g_01561	K03704	86.53	123.6	1.9e-36	0.33	0.97	cold shock protein
+Y1_g_01563	K04063	57.93	96.6	2.9e-28	0.63	0.91	lipoyl-dependent peroxidase
+Y1_g_01564	K19350	336.97	658.3	1.2e-198	1.00	1.00	lincosamide and streptogramin A transport system ATP-binding/permease protein
+Y1_g_01570	K03316	292.50	420.7	1.8e-126	0.68	0.99	monovalent cation:H+ antiporter, CPA1 family
+Y1_g_01573	K11051	192.00	289.1	5.4e-87	0.98	0.98	multidrug/hemolysin transport system permease protein
+Y1_g_01574	K11050	347.10	426.1	1.1e-128	0.99	1.00	multidrug/hemolysin transport system ATP-binding protein
+Y1_g_01580	K03320	142.27	433.6	2.6e-130	0.56	0.91	ammonium transporter, Amt family
+Y1_g_01581	K07223	161.20	357.3	2.1e-107	0.68	0.98	porphyrinogen peroxidase [EC:1.11.1.-]
+Y1_g_01582	K07507	28.47	220.7	4.8e-66	0.66	0.95	putative Mg2+ transporter-C (MgtC) family protein
+Y1_g_01583	K15051	68.00	315.5	9.8e-95	0.64	0.93	DNA-entry nuclease
+Y1_g_01589	K02440	272.47	358.0	6.2e-108	0.73	0.99	glycerol uptake facilitator protein
+Y1_g_01590	K00105	580.67	984.8	1.9e-297	1.00	0.99	alpha-glycerophosphate oxidase [EC:1.1.3.21]
+Y1_g_01591	K00864	512.80	753.8	1.8e-227	0.78	0.98	glycerol kinase [EC:2.7.1.30]
+Y1_g_01594	K22452	104.83	169.1	2.8e-50	0.89	0.93	protein-glutamine gamma-glutamyltransferase [EC:2.3.2.13]
+Y1_g_01596	K03924	114.37	401.6	6.8e-121	0.64	0.98	MoxR-like ATPase [EC:3.6.3.-]
+Y1_g_01597	K06384	44.37	92.2	6.1e-27	0.68	0.98	stage II sporulation protein M
+Y1_g_01598	K03817	125.50	165.7	1.8e-49	0.62	0.99	ribosomal-protein-serine acetyltransferase [EC:2.3.1.-]
+Y1_g_01599	K10036	275.30	460.9	3.6e-139	0.97	0.98	glutamine transport system substrate-binding protein
+Y1_g_01600	K10036	275.30	477.0	4.8e-144	0.98	0.98	glutamine transport system substrate-binding protein
+Y1_g_01601	K02028	459.07	461.0	1.5e-138	0.31	0.98	polar amino acid transport system ATP-binding protein [EC:7.4.2.1]
+Y1_g_01604	K08981	108.43	277.9	2.8e-83	0.76	0.97	putative membrane protein
+Y1_g_01605	K09167	111.37	130.5	8.4e-39	0.70	0.96	uncharacterized protein
+Y1_g_01609	K02027	193.47	233.7	9.6e-70	0.63	1.00	multiple sugar transport system substrate-binding protein
+Y1_g_01611	K17076	378.73	390.4	3.8e-118	0.99	0.98	putative lysine transport system ATP-binding protein [EC:3.6.3.-]
+Y1_g_01612	K17073	518.80	771.6	5e-233	1.00	0.97	putative lysine transport system substrate-binding protein
+Y1_g_01619	K02794	173.90	446.0	1.1e-134	0.99	0.98	PTS system mannose-specific IIB component [EC:2.7.1.191]
+Y1_g_01620	K02795	231.67	257.4	2.8e-77	0.74	0.94	PTS system mannose-specific IIC component
+Y1_g_01621	K02796	382.77	446.1	8.2e-135	0.88	1.00	PTS system mannose-specific IID component
+Y1_g_01623	K06607	397.17	413.7	6e-125	1.00	0.98	myo-inositol catabolism protein IolS [EC:1.1.1.-]
+Y1_g_01624	K03449	126.90	366.1	4.6e-110	0.66	0.96	MFS transporter, CP family, cyanate transporter
+Y1_g_01630	K02759	40.70	155.0	1.9e-46	0.65	0.97	PTS system cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]
+Y1_g_01631	K02760	68.03	141.7	1.9e-42	0.69	0.95	PTS system cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]
+Y1_g_01633	K02761	281.73	481.2	7e-145	0.70	0.99	PTS system cellobiose-specific IIC component
+Y1_g_01635	K09963	60.80	424.9	3.7e-128	0.99	0.99	uncharacterized protein
+Y1_g_01636	K01755	168.73	695.7	1.5e-209	0.65	0.98	argininosuccinate lyase [EC:4.3.2.1]
+Y1_g_01637	K01940	84.77	596.2	1.2e-179	0.69	0.98	argininosuccinate synthase [EC:6.3.4.5]
+Y1_g_01638	K23059	525.73	614.2	2.3e-185	0.99	0.99	arginine/lysine/histidine transporter system substrate-binding protein
+Y1_g_01640	K07668	329.67	411.5	1.2e-124	1.00	0.99	two-component system, OmpR family, response regulator VicR
+Y1_g_01641	K07652	522.67	785.0	9.5e-237	1.00	1.00	two-component system, OmpR family, sensor histidine kinase VicK [EC:2.7.13.3]
+Y1_g_01648	K13993	74.27	106.5	2.5e-31	0.21	0.94	HSP20 family protein
+Y1_g_01652	K15580	365.10	413.5	3.1e-124	0.80	1.00	oligopeptide transport system substrate-binding protein
+Y1_g_01656	K00783	38.87	217.1	3.4e-65	0.66	1.00	23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]
+Y1_g_01657	K07498	226.60	241.9	2.8e-72	0.41	0.93	putative transposase
+Y1_g_01659	K03830	78.33	169.6	1.6e-50	0.45	0.99	putative acetyltransferase [EC:2.3.1.-]
+Y1_g_01660	K03826	139.87	168.5	4.1e-50	0.53	0.92	putative acetyltransferase [EC:2.3.1.-]
+Y1_g_01671	K11741	121.43	144.6	4.2e-43	0.54	0.99	quaternary ammonium compound-resistance protein SugE
+Y1_g_01674	K06881	215.23	291.8	1.2e-87	0.67	0.96	bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]
+Y1_g_01680	K16012	463.20	553.7	9.9e-167	0.86	0.98	ATP-binding cassette, subfamily C, bacterial CydC
+Y1_g_01681	K16013	495.00	682.0	1.7e-205	0.83	0.98	ATP-binding cassette, subfamily C, bacterial CydD
+Y1_g_01682	K00426	27.97	339.8	3.6e-102	0.72	0.98	cytochrome bd ubiquinol oxidase subunit II [EC:7.1.1.7]
+Y1_g_01683	K00425	79.23	604.2	4.4e-182	0.70	0.95	cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]
+Y1_g_01685	K00756	569.27	670.1	3.6e-202	0.78	1.00	pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]
+Y1_g_01686	K01488	185.37	329.5	8.3e-99	0.58	0.97	adenosine deaminase [EC:3.5.4.4]
+Y1_g_01691	K01246	29.63	269.1	6.6e-81	0.58	0.87	DNA-3-methyladenine glycosylase I [EC:3.2.2.20]
+Y1_g_01695	K18979	183.53	409.2	6.2e-123	0.61	0.99	epoxyqueuosine reductase [EC:1.17.99.6]
+Y1_g_01697	K03523	41.47	119.4	2.8e-35	0.60	0.99	biotin transport system substrate-specific component
+Y1_g_01698	K21745	115.13	149.3	9.6e-45	0.98	0.91	MerR family transcriptional regulator, aldehyde-responsive regulator
+Y1_g_01707	K03699	311.37	334.9	1.7e-100	0.58	0.96	putative hemolysin
+Y1_g_01710	K06287	41.10	213.7	5.9e-64	0.51	0.97	septum formation protein
+Y1_g_01711	K03572	410.73	685.3	1.2e-206	0.90	1.00	DNA mismatch repair protein MutL
+Y1_g_01712	K03555	661.13	1102.8	0	0.92	0.99	DNA mismatch repair protein MutS
+Y1_g_01715	K04077	122.77	864.1	1.2e-260	0.74	1.00	chaperonin GroEL
+Y1_g_01716	K04078	25.07	140.9	7.6e-42	0.34	0.98	chaperonin GroES
+Y1_g_01717	K07052	25.67	44.3	2e-12	0.45	0.83	uncharacterized protein
+Y1_g_01718	K01005	48.20	344.1	3.8e-103	0.61	0.94	polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]
+Y1_g_01721	K07979	98.20	136.0	2.6e-40	0.52	0.96	GntR family transcriptional regulator
+Y1_g_01722	K01926	120.27	308.0	9.1e-93	0.68	0.94	redox-sensing transcriptional repressor
+Y1_g_01723	K06158	605.23	651.0	5.4e-196	0.71	0.99	ATP-binding cassette, subfamily F, member 3
+Y1_g_01724	K02760	68.03	148.9	1.2e-44	0.70	0.97	PTS system cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]
+Y1_g_01725	K01409	84.10	460.9	1.5e-138	0.45	0.96	N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+Y1_g_01726	K03789	105.03	148.8	4.3e-44	0.48	0.82	[ribosomal protein S18]-alanine N-acetyltransferase [EC:2.3.1.266]
+Y1_g_01727	K14742	90.60	198.1	4.2e-59	0.56	0.93	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Y1_g_01731	K01424	42.47	329.2	8.3e-99	0.48	0.97	L-asparaginase [EC:3.5.1.1]
+Y1_g_01732	K01071	80.87	93.7	2.1e-27	0.61	0.82	medium-chain acyl-[acyl-carrier-protein] hydrolase [EC:3.1.2.21]
+Y1_g_01733	K07056	83.27	383.2	1.5e-115	0.78	0.96	16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]
+Y1_g_01735	K02341	241.53	256.1	1.5e-76	0.70	0.96	DNA polymerase III subunit delta' [EC:2.7.7.7]
+Y1_g_01737	K00943	98.17	205.1	2.5e-61	0.57	0.97	dTMP kinase [EC:2.7.4.9]
+Y1_g_01739	K06187	59.70	314.7	1.5e-94	0.51	1.00	recombination protein RecR
+Y1_g_01740	K09747	27.80	123.2	1.6e-36	0.54	0.96	uncharacterized protein
+Y1_g_01741	K02343	239.10	571.1	4.6e-172	0.82	0.98	DNA polymerase III subunit gamma/tau [EC:2.7.7.7]
+Y1_g_01743	K11991	168.50	271.6	2.5e-81	0.32	0.93	tRNA(adenine34) deaminase [EC:3.5.4.33]
+Y1_g_01745	K00564	124.00	179.1	2.5e-53	0.38	0.91	16S rRNA (guanine1207-N2)-methyltransferase [EC:2.1.1.172]
+Y1_g_01746	K14205	346.67	806.3	5.1e-243	0.87	0.96	phosphatidylglycerol lysyltransferase [EC:2.3.2.3]
+Y1_g_01749	K01361	833.23	1264.1	0	0.94	1.00	lactocepin [EC:3.4.21.96]
+Y1_g_01750	K07533	213.77	256.9	6.2e-77	0.77	0.98	foldase protein PrsA [EC:5.2.1.8]
+Y1_g_01756	K01297	68.23	181.0	5.4e-54	0.65	0.99	muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]
+Y1_g_01758	K01921	113.60	312.0	1.1e-93	0.60	0.96	D-alanine-D-alanine ligase [EC:6.3.2.4]
+Y1_g_01759	K00567	148.27	165.3	3.8e-49	0.45	0.71	methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]
+Y1_g_01760	K03778	329.17	344.8	6.3e-104	0.92	0.99	D-lactate dehydrogenase [EC:1.1.1.28]
+Y1_g_01764	K08987	35.13	95.7	4.4e-28	0.61	0.99	putative membrane protein
+Y1_g_01766	K06901	85.20	533.7	1.1e-160	0.65	0.99	putative MFS transporter, AGZA family, xanthine/uracil permease
+Y1_g_01767	K09004	37.93	105.8	3.2e-31	0.60	0.98	uncharacterized protein
+Y1_g_01768	K15975	355.77	382.5	4.8e-115	0.65	0.95	glyoxalase family protein
+Y1_g_01781	K07478	164.37	715.8	1.3e-215	0.57	0.94	putative ATPase
+Y1_g_01782	K00925	127.90	563.8	6e-170	0.69	1.00	acetate kinase [EC:2.7.2.1]
+Y1_g_01784	K07457	165.87	224.6	3.1e-67	0.55	0.81	endonuclease III related protein
+Y1_g_01786	K01421	124.07	354.0	3.3e-106	0.37	0.38	putative membrane protein
+Y1_g_01790	K01621	95.17	1210.1	0	0.94	0.98	xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]
+Y1_g_01791	K15580	365.10	472.5	4.6e-142	0.79	0.99	oligopeptide transport system substrate-binding protein
+Y1_g_01799	K06872	41.23	159.2	2.3e-47	0.67	0.99	uncharacterized protein
+Y1_g_01800	K07090	48.87	134.1	9.7e-40	0.34	0.98	uncharacterized protein
+Y1_g_01817	K01304	46.37	179.6	1.3e-53	0.61	0.91	pyroglutamyl-peptidase [EC:3.4.19.3]
+Y1_g_01818	K06988	152.00	187.5	6.7e-56	0.35	0.99	8-hydroxy-5-deazaflavin:NADPH oxidoreductase [EC:1.5.1.40]
+Y1_g_01819	K07009	111.43	260.4	4.4e-78	0.50	0.95	lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]
+Y1_g_01821	K03501	69.07	267.8	2.2e-80	0.69	0.98	16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]
+Y1_g_01822	K03497	49.13	202.1	2.7e-60	0.57	0.78	ParB family transcriptional regulator, chromosome partitioning protein
+Y1_g_01823	K03496	128.07	330.4	3.5e-99	0.60	0.98	chromosome partitioning protein
+Y1_g_01824	K03497	49.13	249.7	9.4e-75	0.73	0.98	ParB family transcriptional regulator, chromosome partitioning protein
+Y1_g_01828	K00088	272.23	701.9	2.7e-211	0.50	0.97	IMP dehydrogenase [EC:1.1.1.205]
+Y1_g_01832	K07258	231.40	293.1	7.9e-88	0.64	0.96	serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]
+Y1_g_01835	K01779	81.73	181.5	5.9e-54	0.51	0.93	aspartate racemase [EC:5.1.1.13]
+Y1_g_01845	K03708	119.47	188.7	1.3e-56	0.93	0.97	transcriptional regulator of stress and heat shock response
+Y1_g_01846	K03696	1046.63	1143.6	0	0.75	0.98	ATP-dependent Clp protease ATP-binding subunit ClpC
+Y1_g_01848	K03043	365.63	1815.2	0	0.92	0.98	DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+Y1_g_01849	K03046	542.03	1715.0	0	0.44	0.78	DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+Y1_g_01852	K02950	85.93	235.7	1.5e-70	0.45	0.99	small subunit ribosomal protein S12
+Y1_g_01853	K02992	105.13	221.7	1.3e-66	0.65	1.00	small subunit ribosomal protein S7
+Y1_g_01854	K02355	515.13	1067.2	0	0.65	0.98	elongation factor G
+Y1_g_01856	K03386	196.47	249.1	1.1e-74	0.50	0.95	peroxiredoxin (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15]
+Y1_g_01857	K13256	43.30	93.1	2.3e-27	0.56	0.88	protein PsiE
+Y1_g_01858	K02946	65.63	170.6	5.9e-51	0.45	0.97	small subunit ribosomal protein S10
+Y1_g_01859	K02906	123.00	290.9	3.6e-87	0.39	0.98	large subunit ribosomal protein L3
+Y1_g_01860	K02926	76.47	306.3	5.9e-92	0.50	0.98	large subunit ribosomal protein L4
+Y1_g_01861	K02892	55.07	81.9	1e-23	0.48	0.92	large subunit ribosomal protein L23
+Y1_g_01862	K02886	162.97	378.2	9.4e-114	0.62	0.99	large subunit ribosomal protein L2
+Y1_g_01863	K02965	108.47	157.1	1.1e-46	0.41	0.96	small subunit ribosomal protein S19
+Y1_g_01864	K02890	79.10	187.9	3.7e-56	0.44	0.93	large subunit ribosomal protein L22
+Y1_g_01865	K02982	108.80	360.8	9e-109	0.67	0.96	small subunit ribosomal protein S3
+Y1_g_01866	K02878	86.63	218.8	1.5e-65	0.52	0.94	large subunit ribosomal protein L16
+Y1_g_01867	K02904	60.20	87.7	1.3e-25	0.45	0.98	large subunit ribosomal protein L29
+Y1_g_01868	K02961	89.27	133.5	1.6e-39	0.38	0.95	small subunit ribosomal protein S17
+Y1_g_01869	K02874	102.87	181.1	3.4e-54	0.57	1.00	large subunit ribosomal protein L14
+Y1_g_01870	K02895	70.03	125.2	5.7e-37	0.28	0.99	large subunit ribosomal protein L24
+Y1_g_01871	K02931	99.93	309.5	1.9e-93	0.74	0.99	large subunit ribosomal protein L5
+Y1_g_01872	K02994	89.83	208.8	1.1e-62	0.61	1.00	small subunit ribosomal protein S8
+Y1_g_01873	K02933	112.43	269.3	8.1e-81	0.57	0.99	large subunit ribosomal protein L6
+Y1_g_01874	K02881	60.30	154.7	5.3e-46	0.45	0.92	large subunit ribosomal protein L18
+Y1_g_01875	K02988	140.23	241.9	1.7e-72	0.50	0.92	small subunit ribosomal protein S5
+Y1_g_01876	K02907	32.40	60.3	4e-17	0.31	0.95	large subunit ribosomal protein L30
+Y1_g_01877	K02876	42.03	212.4	1.9e-63	0.43	0.98	large subunit ribosomal protein L15
+Y1_g_01878	K03076	215.17	495.7	1.9e-149	0.87	0.99	preprotein translocase subunit SecY
+Y1_g_01879	K00939	135.40	237.5	5.4e-71	0.42	0.96	adenylate kinase [EC:2.7.4.3]
+Y1_g_01880	K02518	47.27	149.3	1e-44	0.49	1.00	translation initiation factor IF-1
+Y1_g_01881	K02919	27.60	79.7	5.2e-23	0.20	1.00	large subunit ribosomal protein L36
+Y1_g_01882	K02952	115.63	184.4	2.6e-55	0.60	1.00	small subunit ribosomal protein S13
+Y1_g_01883	K02948	97.70	180.0	9.2e-54	0.60	0.92	small subunit ribosomal protein S11
+Y1_g_01884	K03040	130.30	444.9	5.9e-134	0.56	0.99	DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+Y1_g_01885	K02879	35.07	200.7	6.9e-60	0.35	0.99	large subunit ribosomal protein L17
+Y1_g_01888	K16786	356.27	378.7	1.1e-113	0.32	0.86	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]
+Y1_g_01889	K10822	138.23	141.6	4.1e-42	0.89	0.78	nonpolar-amino-acid-transporting ATPase [EC:7.4.2.2]
+Y1_g_01890	K16785	114.57	212.9	1.1e-63	0.34	0.98	energy-coupling factor transport system permease protein
+Y1_g_01891	K06173	224.13	258.5	2.1e-77	0.49	0.99	tRNA pseudouridine38-40 synthase [EC:5.4.99.12]
+Y1_g_01898	K02871	70.00	217.6	3.4e-65	0.55	0.97	large subunit ribosomal protein L13
+Y1_g_01899	K02996	107.43	204.6	3.6e-61	0.44	0.98	small subunit ribosomal protein S9
+Y1_g_01907	K15554	270.90	329.6	4.7e-99	0.43	0.93	sulfonate transport system permease protein
+Y1_g_01911	K15553	219.90	304.9	1.7e-91	0.73	0.96	sulfonate transport system substrate-binding protein
+Y1_g_01912	K02042	117.20	273.2	9.5e-82	0.45	0.97	phosphonate transport system permease protein
+Y1_g_01913	K02042	117.20	295.2	2e-88	0.44	0.97	phosphonate transport system permease protein
+Y1_g_01914	K02041	266.63	378.2	5.4e-114	0.74	0.96	phosphonate transport system ATP-binding protein [EC:7.3.2.2]
+Y1_g_01915	K02044	102.50	270.2	7.2e-81	0.64	0.96	phosphonate transport system substrate-binding protein
+Y1_g_01916	K01689	51.27	70.7	1.4e-20	0.09	0.63	enolase [EC:4.2.1.11]
+Y1_g_01920	K06199	27.90	80.1	3.3e-23	0.37	0.86	fluoride exporter
+Y1_g_01921	K06199	27.90	89.7	3.8e-26	0.35	0.95	fluoride exporter
+Y1_g_01926	K01875	76.07	548.3	2.5e-165	0.83	0.99	seryl-tRNA synthetase [EC:6.1.1.11]
+Y1_g_01930	K11733	646.60	776.7	1.2e-234	0.99	0.99	lysine-specific permease
+Y1_g_01933	K01575	63.87	262.8	3.5e-79	0.92	0.99	acetolactate decarboxylase [EC:4.1.1.5]
+Y1_g_01934	K01652	479.43	504.3	1e-151	0.55	0.97	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+Y1_g_01939	K02913	23.47	50.6	3.6e-14	0.28	0.80	large subunit ribosomal protein L33
+Y1_g_01940	K04564	29.40	291.2	1.9e-87	0.54	0.97	superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+Y1_g_01949	K01643	167.63	814.8	4.6e-246	0.99	1.00	citrate lyase subunit alpha / citrate CoA-transferase [EC:2.8.3.10]
+Y1_g_01950	K01644	158.20	340.5	2.6e-102	0.71	0.99	citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]
+Y1_g_01951	K01646	68.47	129.0	8.8e-39	0.99	0.95	citrate lyase subunit gamma (acyl carrier protein)
+Y1_g_01952	K01910	94.90	356.3	2.3e-107	0.95	0.98	[citrate (pro-3S)-lyase] ligase [EC:6.2.1.22]
+Y1_g_01954	K20509	167.17	572.9	1.2e-172	0.70	0.98	carboxybiotin decarboxylase [EC:7.2.4.1]
+Y1_g_01955	K23351	123.07	152.8	1.2e-45	0.82	0.99	glutaconyl-CoA/methylmalonyl-CoA decarboxylase subunit gamma
+Y1_g_01957	K03300	105.97	548.5	2.3e-165	0.87	0.99	citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family
+Y1_g_01959	K07559	143.17	216.0	1e-64	0.66	0.95	putative RNA 2'-phosphotransferase [EC:2.7.1.-]
+Y1_g_01961	K06988	152.00	182.5	2.1e-54	0.35	0.99	8-hydroxy-5-deazaflavin:NADPH oxidoreductase [EC:1.5.1.40]
+Y1_g_01962	K10947	57.23	141.4	5e-42	0.52	0.98	PadR family transcriptional regulator, regulatory protein PadR
+Y1_g_01965	K01990	263.77	300.5	4.8e-90	0.47	0.97	ABC-2 type transport system ATP-binding protein
+Y1_g_01969	K07090	48.87	94.1	1.2e-27	0.33	0.98	uncharacterized protein
+Y1_g_01972	K07979	98.20	118.8	4.5e-35	0.53	0.94	GntR family transcriptional regulator
+Y1_g_01975	K03817	125.50	173.6	7.1e-52	0.60	0.97	ribosomal-protein-serine acetyltransferase [EC:2.3.1.-]
+Y1_g_01976	K02032	401.87	426.8	3.5e-128	0.31	0.89	peptide/nickel transport system ATP-binding protein
+Y1_g_01977	K15583	528.07	528.5	4.1e-159	0.57	0.91	oligopeptide transport system ATP-binding protein
+Y1_g_01979	K02034	210.97	312.3	9.6e-94	0.38	0.82	peptide/nickel transport system permease protein
+Y1_g_01980	K02033	208.87	321.1	2.4e-96	0.55	0.99	peptide/nickel transport system permease protein
+Y1_g_01981	K15580	365.10	393.1	4.8e-118	0.80	0.99	oligopeptide transport system substrate-binding protein
+Y1_g_01996	K02777	160.73	197.9	2.2e-59	0.83	0.81	PTS system sugar-specific IIA component [EC:2.7.1.-]
+Y1_g_01998	K02529	264.77	288.7	1.7e-86	0.44	0.99	LacI family transcriptional regulator
+Y1_g_02001	K00574	130.23	421.3	9.7e-127	0.63	0.93	cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]
+Y1_g_02002	K01962	337.03	375.0	1.1e-112	0.53	0.97	acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]
+Y1_g_02003	K01963	306.63	400.9	2.2e-120	0.42	0.94	acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2 2.1.3.15]
+Y1_g_02005	K02372	71.80	205.9	1.3e-61	0.57	0.95	3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]
+Y1_g_02006	K02160	93.67	152.2	2.6e-45	0.76	0.99	acetyl-CoA carboxylase biotin carboxyl carrier protein
+Y1_g_02007	K09458	507.53	553.0	1.5e-166	0.67	1.00	3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]
+Y1_g_02008	K00059	267.73	298.3	9.4e-90	0.72	1.00	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+Y1_g_02009	K00645	257.37	284.9	1.8e-85	0.68	0.97	[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]
+Y1_g_02010	K02371	354.67	396.4	1.3e-119	0.96	0.94	enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]
+Y1_g_02011	K02078	39.57	77.1	2.8e-22	0.46	0.97	acyl carrier protein
+Y1_g_02012	K00648	230.17	350.6	2.1e-105	0.70	0.99	3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]
+Y1_g_02014	K02372	71.80	116.1	3.4e-34	0.57	0.96	3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]
+Y1_g_02023	K18104	644.00	800.1	1.5e-241	0.99	0.97	ATP-binding cassette, subfamily B, bacterial AbcA/BmrA [EC:7.6.2.2]
+Y1_g_02025	K01834	161.93	329.3	6.3e-99	0.31	0.97	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]
+Y1_g_02030	K07284	59.80	132.8	2.5e-39	0.31	0.93	sortase A [EC:3.4.22.70]
+Y1_g_02033	K00158	636.33	760.6	1.4e-229	0.99	0.98	pyruvate oxidase [EC:1.2.3.3]
+Y1_g_02034	K02002	139.07	213.3	9.2e-64	0.27	0.51	glycine betaine/proline transport system substrate-binding protein
+Y1_g_02035	K02001	308.47	431.4	1.2e-129	0.34	0.99	glycine betaine/proline transport system permease protein
+Y1_g_02036	K02000	412.03	600.4	7e-181	0.72	0.98	glycine betaine/proline transport system ATP-binding protein [EC:7.6.2.9]
+Y1_g_02037	K06206	51.17	230.7	3.4e-69	0.75	0.96	sugar fermentation stimulation protein A
+Y1_g_02039	K17810	185.67	612.0	7.8e-185	0.98	0.93	D-aspartate ligase [EC:6.3.1.12]
+Y1_g_02040	K00872	260.60	303.4	5e-91	0.49	0.99	homoserine kinase [EC:2.7.1.39]
+Y1_g_02041	K01733	237.83	265.9	1.3e-79	0.73	0.90	threonine synthase [EC:4.2.3.1]
+Y1_g_02042	K00003	255.17	369.4	5.6e-111	0.67	0.87	homoserine dehydrogenase [EC:1.1.1.3]
+Y1_g_02045	K07192	68.33	407.9	1.1e-122	0.77	0.98	flotillin
+Y1_g_02047	K07035	101.33	356.1	2.8e-107	0.95	0.99	uncharacterized protein
+Y1_g_02048	K03778	329.17	347.4	1e-104	0.92	1.00	D-lactate dehydrogenase [EC:1.1.1.28]
+Y1_g_02049	K00841	498.23	571.9	8e-173	0.98	0.99	aminotransferase [EC:2.6.1.-]
+Y1_g_02052	K02503	86.80	103.1	2.6e-30	0.46	0.83	histidine triad (HIT) family protein
+Y1_g_02053	K01953	133.03	498.5	7.7e-150	0.41	0.97	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+Y1_g_02054	K01951	109.07	737.5	1.6e-222	0.82	0.98	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]
+Y1_g_02055	K00867	160.47	446.1	1.6e-134	0.80	0.98	type I pantothenate kinase [EC:2.7.1.33]
+Y1_g_02058	K08659	96.73	690.7	1.8e-208	0.99	0.98	dipeptidase [EC:3.4.-.-]
+Y1_g_02059	K01073	132.07	155.5	1.8e-46	0.88	0.91	acyl-CoA hydrolase [EC:3.1.2.20]
+Y1_g_02062	K03455	132.77	179.6	1.7e-53	0.74	0.95	monovalent cation:H+ antiporter-2, CPA2 family
+Y1_g_02066	K01772	60.87	261.4	3e-78	0.59	0.97	protoporphyrin/coproporphyrin ferrochelatase [EC:4.99.1.1 4.99.1.9]
+Y1_g_02069	K02003	297.63	330.3	4.1e-99	0.42	0.89	putative ABC transport system ATP-binding protein
+Y1_g_02070	K20265	169.33	184.1	6.2e-55	0.78	0.85	glutamate:GABA antiporter
+Y1_g_02071	K07029	161.80	212.2	1.7e-63	0.74	0.99	diacylglycerol kinase (ATP) [EC:2.7.1.107]
+Y1_g_02072	K03665	116.33	477.2	1.3e-143	0.77	0.97	GTPase
+Y1_g_02078	K00067	132.93	335.3	9.8e-101	0.64	0.99	dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]
+Y1_g_02079	K01710	476.33	508.0	5.6e-153	0.64	0.99	dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]
+Y1_g_02080	K01790	193.43	264.1	2.5e-79	0.65	0.96	dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]
+Y1_g_02081	K00973	251.50	516.6	8.2e-156	0.67	1.00	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]
+Y1_g_02086	K10040	244.30	281.4	8.7e-85	0.90	0.98	aspartate/glutamate/glutamine transport system permease protein
+Y1_g_02087	K10040	244.30	290.4	1.6e-87	0.89	0.99	aspartate/glutamate/glutamine transport system permease protein
+Y1_g_02088	K10039	269.47	350.2	1.1e-105	0.96	0.95	aspartate/glutamate/glutamine transport system substrate-binding protein
+Y1_g_02089	K10041	409.30	416.1	4.9e-126	1.00	1.00	aspartate/glutamate/glutamine transport system ATP-binding protein [EC:7.4.2.1]
+Y1_g_02092	K02076	136.10	168.8	1.1e-50	0.96	0.93	Fur family transcriptional regulator, zinc uptake regulator
+Y1_g_02096	K21471	154.07	245.7	2.6e-73	0.66	0.98	peptidoglycan DL-endopeptidase CwlO [EC:3.4.-.-]
+Y1_g_02097	K01866	93.67	406.4	3.2e-122	0.72	0.98	tyrosyl-tRNA synthetase [EC:6.1.1.1]
+Y1_g_02100	K03734	41.07	242.6	1.4e-72	0.64	0.95	FAD:protein FMN transferase [EC:2.7.1.180]
+Y1_g_02102	K00688	53.67	994.4	1.1e-299	0.72	0.96	glycogen phosphorylase [EC:2.4.1.1]
+Y1_g_02103	K00703	140.23	581.5	4.6e-175	0.54	0.99	starch synthase [EC:2.4.1.21]
+Y1_g_02104	K00975	189.10	212.9	1.3e-63	0.68	0.93	glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+Y1_g_02105	K00975	189.10	464.0	9.7e-140	0.68	0.95	glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+Y1_g_02106	K00700	315.97	789.2	1.4e-237	0.48	0.91	1,4-alpha-glucan branching enzyme [EC:2.4.1.18]
+Y1_g_02107	K00826	191.23	385.2	8.2e-116	0.63	0.97	branched-chain amino acid aminotransferase [EC:2.6.1.42]
+Y1_g_02110	K01624	70.47	321.0	2.5e-96	0.62	0.96	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+Y1_g_02111	K02815	478.43	507.9	8.6e-154	0.99	0.96	PTS system sorbose-specific IID component
+Y1_g_02112	K02814	450.00	477.2	1.8e-144	0.95	0.91	PTS system sorbose-specific IIC component
+Y1_g_02113	K02813	261.73	280.1	6.3e-85	0.98	0.98	PTS system sorbose-specific IIB component [EC:2.7.1.206]
+Y1_g_02114	K02812	150.57	171.5	1.2e-51	0.99	1.00	PTS system sorbose-specific IIA component [EC:2.7.1.206]
+Y1_g_02115	K00068	286.40	336.4	3.1e-101	0.78	0.97	sorbitol-6-phosphate 2-dehydrogenase [EC:1.1.1.140]
+Y1_g_02117	K19956	298.17	566.6	4e-171	0.98	0.99	L-sorbose 1-phosphate reductase [EC:1.1.1.-]
+Y1_g_02119	K08094	113.67	215.9	5.3e-65	0.95	0.98	6-phospho-3-hexuloisomerase [EC:5.3.1.27]
+Y1_g_02120	K08093	172.57	252.7	7.3e-76	0.67	0.98	3-hexulose-6-phosphate synthase [EC:4.1.2.43]
+Y1_g_02122	K05879	200.47	205.0	2.3e-61	0.64	0.91	phosphoenolpyruvate---glycerone phosphotransferase subunit DhaL [EC:2.7.1.121]
+Y1_g_02123	K00009	183.30	369.0	7.6e-111	0.54	0.99	mannitol-1-phosphate 5-dehydrogenase [EC:1.1.1.17]
+Y1_g_02124	K17467	351.40	386.6	8e-117	0.99	0.95	PTS system D-glucosaminate-specific IID component
+Y1_g_02125	K17466	297.93	346.7	1.2e-104	0.98	0.98	PTS system D-glucosaminate-specific IIC component
+Y1_g_02126	K17465	176.27	198.1	1.2e-59	0.98	0.96	PTS system D-glucosaminate-specific IIB component [EC:2.7.1.203]
+Y1_g_02127	K17464	131.73	158.9	1.1e-47	0.96	0.93	PTS system D-glucosaminate-specific IIA component [EC:2.7.1.203]
+Y1_g_02130	K11189	89.23	90.6	1.8e-26	0.36	0.34	phosphocarrier protein
+Y1_g_02131	K01624	70.47	343.4	4e-103	0.62	0.99	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+Y1_g_02134	K14155	293.33	411.6	7.5e-124	0.66	0.98	cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+Y1_g_02135	K11203	416.00	418.1	3.8e-126	0.91	0.69	PTS system fructose-specific IIC-like component
+Y1_g_02137	K00854	356.43	403.5	3.1e-121	0.80	0.99	xylulokinase [EC:2.7.1.17]
+Y1_g_02138	K09988	94.60	226.4	4e-68	0.99	0.99	D-lyxose ketol-isomerase [EC:5.3.1.15]
+Y1_g_02141	K02769	111.63	128.6	3.2e-38	0.46	0.92	PTS system fructose-specific IIB component [EC:2.7.1.202]
+Y1_g_02143	K01624	70.47	307.2	3.7e-92	0.64	0.95	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+Y1_g_02146	K03092	44.97	383.9	1.9e-115	0.85	0.99	RNA polymerase sigma-54 factor
+Y1_g_02147	K19505	697.20	1051.8	0	0.99	1.00	sigma-54 dependent transcriptional regulator, gfr operon transcriptional activator
+Y1_g_02148	K02793	119.93	141.0	4.6e-42	0.62	0.99	PTS system mannose-specific IIA component [EC:2.7.1.191]
+Y1_g_02149	K17465	176.27	186.0	6.7e-56	0.99	0.95	PTS system D-glucosaminate-specific IIB component [EC:2.7.1.203]
+Y1_g_02151	K17467	351.40	365.2	2.7e-110	0.99	0.98	PTS system D-glucosaminate-specific IID component
+Y1_g_02152	K03930	148.23	220.4	4.4e-66	0.97	0.99	putative tributyrin esterase [EC:3.1.1.-]
+Y1_g_02155	K03326	94.27	464.0	6.8e-140	0.99	0.98	C4-dicarboxylate transporter, DcuC family
+Y1_g_02156	K12700	381.77	396.7	1e-119	0.98	0.97	non-specific riboncleoside hydrolase [EC:3.2.-.-]
+Y1_g_02157	K06871	164.13	261.0	3.5e-78	0.48	0.94	uncharacterized protein
+Y1_g_02158	K07090	48.87	64.9	8.6e-19	0.32	0.95	uncharacterized protein
+Y1_g_02159	K13444	235.10	284.5	3.7e-85	0.53	0.99	formylglycine-generating enzyme [EC:1.8.3.7]
+Y1_g_02162	K02795	231.67	247.5	2.9e-74	0.74	0.94	PTS system mannose-specific IIC component
+Y1_g_02165	K17836	88.63	128.2	6.8e-38	0.64	0.93	beta-lactamase class A [EC:3.5.2.6]
+Y1_g_02170	K00963	84.87	161.1	8.2e-48	0.68	0.92	UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+Y1_g_02171	K00938	126.03	335.4	9.6e-101	0.85	0.98	phosphomevalonate kinase [EC:2.7.4.2]
+Y1_g_02175	K01265	125.50	282.1	2.1e-84	0.37	0.93	methionyl aminopeptidase [EC:3.4.11.18]
+Y1_g_02177	K07058	35.40	213.4	9.5e-64	0.61	0.81	membrane protein
+Y1_g_02180	K19689	52.70	471.7	3.8e-142	0.87	0.99	aminopeptidase [EC:3.4.11.-]
+Y1_g_02181	K03654	612.33	708.4	1.6e-213	0.78	0.98	ATP-dependent DNA helicase RecQ [EC:3.6.4.12]
+Y1_g_02185	K02759	40.70	125.8	1.9e-37	0.68	0.91	PTS system cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]
+Y1_g_02187	K22230	257.57	289.9	4.2e-87	0.86	1.00	scyllo-inositol 2-dehydrogenase (NADP+) [EC:1.1.1.-]
+Y1_g_02190	K07273	52.60	154.5	6.3e-46	0.63	0.94	lysozyme
+Y1_g_02200	K03215	300.57	513.8	1.2e-154	0.72	0.98	23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190]
+Y1_g_02201	K07029	161.80	337.0	2e-101	0.77	0.91	diacylglycerol kinase (ATP) [EC:2.7.1.107]
+Y1_g_02202	K02434	265.63	700.2	6.7e-211	0.61	0.99	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+Y1_g_02203	K02433	437.57	696.2	7.4e-210	0.76	0.97	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]
+Y1_g_02204	K02435	19.17	90.5	1.5e-26	0.60	0.97	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]
+Y1_g_02206	K01972	100.33	961.5	7.8e-290	0.72	0.98	DNA ligase (NAD+) [EC:6.5.1.2]
+Y1_g_02207	K03657	379.80	812.7	8.4e-245	0.71	0.99	DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+Y1_g_02210	K10804	90.47	95.3	6.8e-28	0.54	0.98	acyl-CoA thioesterase I [EC:3.1.2.- 3.1.2.2 3.1.1.2 3.1.1.5]
+Y1_g_02213	K03502	347.97	390.6	1.5e-117	0.86	0.97	DNA polymerase V
+Y1_g_02216	K06209	125.97	188.0	1.1e-56	0.97	0.99	chorismate mutase [EC:5.4.99.5]
+Y1_g_02218	K03824	62.93	116.6	2e-34	0.46	0.98	putative acetyltransferase [EC:2.3.1.-]
+Y1_g_02224	K07407	59.83	175.3	4.5e-52	0.71	0.79	alpha-galactosidase [EC:3.2.1.22]
+Y1_g_02227	K02777	160.73	202.4	9.2e-61	0.64	0.96	PTS system sugar-specific IIA component [EC:2.7.1.-]
+Y1_g_02229	K17463	225.17	292.8	2.9e-88	0.99	0.95	2-dehydro-3-deoxy-phosphogluconate aldolase [EC:4.1.2.14]
+Y1_g_02230	K01042	72.70	247.2	6.3e-74	0.68	0.98	L-seryl-tRNA(Ser) seleniumtransferase [EC:2.9.1.1]
+Y1_g_02239	K02781	76.70	141.6	1.5e-42	0.94	0.94	PTS system glucitol/sorbitol-specific IIA component [EC:2.7.1.198]
+Y1_g_02240	K02782	222.57	518.5	1.1e-156	0.90	0.99	PTS system glucitol/sorbitol-specific IIB component [EC:2.7.1.198]
+Y1_g_02241	K02783	126.87	227.8	2.9e-68	0.30	0.95	PTS system glucitol/sorbitol-specific IIC component
+Y1_g_02242	K02466	71.23	90.2	1.3e-26	0.84	0.69	glucitol operon activator protein
+Y1_g_02245	K00068	286.40	327.6	1.5e-98	0.78	0.97	sorbitol-6-phosphate 2-dehydrogenase [EC:1.1.1.140]
+Y1_g_02246	K03077	226.37	368.6	4.3e-111	0.76	0.98	L-ribulose-5-phosphate 4-epimerase [EC:5.1.3.4]
+Y1_g_02247	K21064	178.67	203.4	8.2e-61	0.97	0.96	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+Y1_g_02248	K03079	126.73	362.5	2.8e-109	0.81	0.98	L-ribulose-5-phosphate 3-epimerase [EC:5.1.3.22]
+Y1_g_02250	K03078	220.40	306.9	1.1e-92	1.00	1.00	3-dehydro-L-gulonate-6-phosphate decarboxylase [EC:4.1.1.85]
+Y1_g_02251	K02822	68.60	80.0	1.9e-23	0.74	0.94	PTS system ascorbate-specific IIB component [EC:2.7.1.194]
+Y1_g_02252	K03475	47.33	464.8	4.8e-140	0.88	0.97	PTS system ascorbate-specific IIC component
+Y1_g_02253	K02821	82.27	126.1	2.5e-37	0.58	0.98	PTS system ascorbate-specific IIA component [EC:2.7.1.194]
+Y1_g_02254	K03476	166.90	547.1	2.4e-165	1.00	0.99	L-ascorbate 6-phosphate lactonase [EC:3.1.1.-]
+Y1_g_02255	K01807	36.73	284.1	3.3e-85	0.52	0.97	ribose 5-phosphate isomerase A [EC:5.3.1.6]
+Y1_g_02258	K01783	257.87	332.4	6.1e-100	0.55	0.98	ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+Y1_g_02261	K02794	173.90	175.0	3.5e-52	0.50	0.99	PTS system mannose-specific IIB component [EC:2.7.1.191]
+Y1_g_02262	K02793	119.93	143.0	1.2e-42	0.63	0.97	PTS system mannose-specific IIA component [EC:2.7.1.191]
+Y1_g_02263	K05352	400.73	440.8	4.1e-133	0.99	0.96	ribitol-5-phosphate 2-dehydrogenase (NADP+) [EC:1.1.1.405]
+Y1_g_02265	K01621	95.17	1216.5	0	0.94	0.98	xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]
+Y1_g_02270	K09758	191.57	514.9	3.3e-155	0.70	0.98	aspartate 4-decarboxylase [EC:4.1.1.12]
+Y1_g_02273	K01206	57.03	265.8	1.2e-79	0.44	0.97	alpha-L-fucosidase [EC:3.2.1.51]
+Y1_g_02279	K02794	173.90	191.2	4e-57	0.50	0.99	PTS system mannose-specific IIB component [EC:2.7.1.191]
+Y1_g_02280	K02793	119.93	137.6	5.3e-41	0.62	0.96	PTS system mannose-specific IIA component [EC:2.7.1.191]
+Y1_g_02288	K01999	160.13	274.7	3e-82	0.63	0.95	branched-chain amino acid transport system substrate-binding protein
+Y1_g_02289	K01997	162.07	374.1	2.3e-112	0.44	0.99	branched-chain amino acid transport system permease protein
+Y1_g_02290	K01998	234.70	316.9	3.4e-95	0.61	0.93	branched-chain amino acid transport system permease protein
+Y1_g_02291	K01995	316.23	417.6	1.7e-125	0.31	0.97	branched-chain amino acid transport system ATP-binding protein
+Y1_g_02292	K01996	322.50	402.8	3.8e-121	0.39	0.99	branched-chain amino acid transport system ATP-binding protein
+Y1_g_02294	K02761	281.73	309.9	5.2e-93	0.69	0.95	PTS system cellobiose-specific IIC component
+Y1_g_02296	K01619	42.50	316.3	4.4e-95	0.56	0.98	deoxyribose-phosphate aldolase [EC:4.1.2.4]
+Y1_g_02297	K01839	103.37	584.3	3.8e-176	0.74	0.99	phosphopentomutase [EC:5.4.2.7]
+Y1_g_02298	K03784	218.07	343.9	1e-103	0.78	0.98	purine-nucleoside phosphorylase [EC:2.4.2.1]
+Y1_g_02299	K21471	154.07	169.9	2.5e-50	0.64	0.76	peptidoglycan DL-endopeptidase CwlO [EC:3.4.-.-]
+Y1_g_02303	K17869	1030.10	1053.2	0	1.00	1.00	NADH oxidase (H2O-forming) [EC:1.6.3.4]
+Y1_g_02307	K02027	193.47	212.1	3.4e-63	0.63	1.00	multiple sugar transport system substrate-binding protein
+Y1_g_02309	K12373	93.53	142.3	2.5e-42	0.39	0.55	hexosaminidase [EC:3.2.1.52]
+Y1_g_02310	K01809	25.17	214.1	7.2e-64	0.60	0.92	mannose-6-phosphate isomerase [EC:5.3.1.8]
+Y1_g_02311	K03710	195.50	233.9	7.3e-70	0.57	0.97	GntR family transcriptional regulator
+Y1_g_02312	K02082	286.10	501.7	1.9e-151	0.99	0.99	tagatose-6-phosphate ketose/aldose isomerase [EC:5.-.-.-]
+Y1_g_02313	K01443	69.37	385.5	9.3e-116	0.55	0.95	N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]
+Y1_g_02314	K12308	264.20	402.9	5.6e-121	0.77	0.98	beta-galactosidase [EC:3.2.1.23]
+Y1_g_02315	K02794	173.90	180.5	7.2e-54	0.51	0.99	PTS system mannose-specific IIB component [EC:2.7.1.191]
+Y1_g_02316	K02795	231.67	235.9	9.9e-71	0.77	0.97	PTS system mannose-specific IIC component
+Y1_g_02318	K02793	119.93	133.3	1.1e-39	0.62	0.98	PTS system mannose-specific IIA component [EC:2.7.1.191]
+Y1_g_02320	K14155	293.33	461.2	6.8e-139	0.70	0.98	cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+Y1_g_02322	K02761	281.73	381.9	8.2e-115	0.72	0.95	PTS system cellobiose-specific IIC component
+Y1_g_02323	K02760	68.03	120.2	7.8e-36	0.70	0.98	PTS system cellobiose-specific IIB component [EC:2.7.1.196 2.7.1.205]
+Y1_g_02324	K02759	40.70	105.9	2.4e-31	0.62	0.94	PTS system cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]
+Y1_g_02327	K01258	152.03	471.8	3e-142	0.97	0.98	tripeptide aminopeptidase [EC:3.4.11.4]
+Y1_g_02328	K15580	365.10	482.9	3.2e-145	0.80	0.99	oligopeptide transport system substrate-binding protein
+Y1_g_02329	K03824	62.93	108.6	5.5e-32	0.46	0.86	putative acetyltransferase [EC:2.3.1.-]
+Y1_g_02333	K06608	278.37	332.2	2.7e-100	1.00	0.95	DeoR family transcriptional regulator, myo-inositol catabolism operon repressor
+Y1_g_02334	K06609	476.97	640.4	2.3e-193	0.97	0.92	MFS transporter, SP family, major inositol transporter
+Y1_g_02335	K00140	511.63	759.3	1e-228	0.56	0.98	malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]
+Y1_g_02336	K03337	147.63	311.8	8.1e-94	0.82	0.98	5-deoxy-glucuronate isomerase [EC:5.3.1.30]
+Y1_g_02337	K03338	284.70	374.4	1.6e-112	0.62	0.98	5-dehydro-2-deoxygluconokinase [EC:2.7.1.92]
+Y1_g_02338	K03336	387.33	834.7	6.3e-252	0.99	0.97	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing) [EC:3.7.1.22]
+Y1_g_02339	K00010	231.97	305.6	1.1e-91	0.49	0.95	myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]
+Y1_g_02340	K00010	231.97	346.0	6.3e-104	0.50	0.99	myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]
+Y1_g_02341	K03335	107.50	429.5	1.2e-129	0.85	0.98	inosose dehydratase [EC:4.2.1.44]
+Y1_g_02342	K01624	70.47	299.5	8e-90	0.62	0.99	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+Y1_g_02345	K00033	118.57	350.4	2.9e-105	0.45	0.91	6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]
+Y1_g_02347	K03299	63.67	502.0	2.2e-151	0.87	1.00	gluconate:H+ symporter, GntP family
+Y1_g_02353	K07273	52.60	112.1	4.7e-33	0.54	0.27	lysozyme
+Y1_g_02361	K00020	223.23	362.7	6.4e-109	0.52	0.96	3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]
+Y1_g_02362	K08602	124.97	713.0	7.9e-215	0.78	0.99	oligoendopeptidase F [EC:3.4.24.-]
+Y1_g_02363	K01005	48.20	368.2	1.8e-110	0.59	0.92	polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]
+Y1_g_02364	K03311	82.00	449.5	1.9e-135	0.78	0.96	branched-chain amino acid:cation transporter, LIVCS family
+Y1_g_02366	K22103	247.60	271.0	1.6e-81	0.96	0.97	DeoR family transcriptional regulator, carbon catabolite repression regulator
+Y1_g_02370	K03100	118.20	171.2	6.5e-51	0.41	0.90	signal peptidase I [EC:3.4.21.89]
+Y1_g_02374	K01990	263.77	308.1	2.4e-92	0.46	0.97	ABC-2 type transport system ATP-binding protein
+Y1_g_02376	K07979	98.20	123.3	1.9e-36	0.55	0.98	GntR family transcriptional regulator
+Y1_g_02380	K01807	36.73	124.5	8.9e-37	0.50	0.95	ribose 5-phosphate isomerase A [EC:5.3.1.6]
+Y1_g_02382	K09698	633.10	716.6	2.5e-216	0.99	0.99	nondiscriminating glutamyl-tRNA synthetase [EC:6.1.1.24]
+Y1_g_02386	K01883	398.70	680.5	7.3e-205	0.61	1.00	cysteinyl-tRNA synthetase [EC:6.1.1.16]
+Y1_g_02387	K11145	87.17	149.1	2e-44	0.56	0.90	ribonuclease III family protein [EC:3.1.26.-]
+Y1_g_02388	K03218	217.53	321.8	7.3e-97	0.71	0.94	23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+Y1_g_02389	K06962	67.67	171.7	3.8e-51	0.59	0.97	uncharacterized protein
+Y1_g_02392	K06988	152.00	187.3	7.5e-56	0.36	0.92	8-hydroxy-5-deazaflavin:NADPH oxidoreductase [EC:1.5.1.40]
+Y1_g_02394	K00805	195.23	198.4	3.9e-59	0.77	0.96	heptaprenyl diphosphate synthase [EC:2.5.1.30]
+Y1_g_02397	K03885	200.60	433.5	1.6e-130	0.74	0.70	NADH dehydrogenase [EC:1.6.99.3]
+Y1_g_02399	K03734	41.07	313.4	4.4e-94	0.67	0.92	FAD:protein FMN transferase [EC:2.7.1.180]
+Y1_g_02402	K03073	23.70	55.8	7.9e-16	0.35	0.91	preprotein translocase subunit SecE
+Y1_g_02403	K02601	95.33	235.0	1.5e-70	0.65	0.95	transcription termination/antitermination protein NusG
+Y1_g_02405	K08728	96.13	143.9	5.9e-43	0.99	0.99	nucleoside deoxyribosyltransferase [EC:2.4.2.6]
+Y1_g_02406	K00527	805.97	1138.3	0	0.99	0.99	ribonucleoside-triphosphate reductase (thioredoxin) [EC:1.17.4.2]
+Y1_g_02408	K16927	52.97	98.9	4.6e-29	0.52	0.91	energy-coupling factor transport system substrate-specific component
+Y1_g_02409	K00798	43.63	174.4	4.7e-52	0.57	0.99	cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+Y1_g_02410	K05937	59.57	142.5	1.1e-42	0.98	0.98	uncharacterized protein
+Y1_g_02411	K01426	211.53	320.4	4.8e-96	0.67	0.96	amidase [EC:3.5.1.4]
+Y1_g_02412	K01531	692.07	1197.9	0	0.86	0.98	P-type Mg2+ transporter [EC:7.2.2.14]
+Y1_g_02413	K02867	66.80	248.9	1.5e-74	0.36	0.99	large subunit ribosomal protein L11
+Y1_g_02414	K02863	98.10	322.5	6e-97	0.66	0.99	large subunit ribosomal protein L1
+Y1_g_02416	K08369	367.83	469.6	1.9e-141	0.73	0.98	MFS transporter, putative metabolite:H+ symporter
+Y1_g_02419	K08161	294.83	508.8	1.4e-153	0.97	0.96	MFS transporter, DHA1 family, multidrug resistance protein
+Y1_g_02421	K02864	56.00	175.0	4.4e-52	0.56	0.94	large subunit ribosomal protein L10
+Y1_g_02422	K02935	28.83	131.9	3.8e-39	0.60	0.94	large subunit ribosomal protein L7/L12
+Y1_g_02426	K02077	268.13	305.8	7.8e-92	0.74	0.97	zinc/manganese transport system substrate-binding protein
+Y1_g_02431	K02077	268.13	297.2	3.3e-89	0.76	0.98	zinc/manganese transport system substrate-binding protein
+Y1_g_02432	K02954	24.90	106.0	3.9e-31	0.42	1.00	small subunit ribosomal protein S14
+Y1_g_02433	K07248	585.47	713.7	1.5e-215	0.99	0.98	lactaldehyde dehydrogenase / glycolaldehyde dehydrogenase [EC:1.2.1.22 1.2.1.21]
+Y1_g_02434	K19973	342.83	362.6	1.3e-109	0.98	0.98	manganese transport system ATP-binding protein [EC:7.2.2.5]
+Y1_g_02435	K19976	379.33	422.8	8.4e-128	0.98	0.93	manganese transport system permease protein
+Y1_g_02436	K19975	463.00	500.7	2e-151	1.00	1.00	manganese transport system substrate-binding protein
+Y1_g_02444	K03322	526.13	543.9	8e-164	0.55	0.86	manganese transport protein
+Y1_g_02447	K01679	638.30	684.9	3.3e-206	0.59	1.00	fumarate hydratase, class II [EC:4.2.1.2]
+Y1_g_02454	K00661	123.97	249.8	8.7e-75	0.46	0.91	maltose O-acetyltransferase [EC:2.3.1.79]
+Y1_g_02456	K07052	25.67	71.3	1.1e-20	0.50	0.78	uncharacterized protein
+Y1_g_02459	K07052	25.67	66.9	2.5e-19	0.42	0.72	uncharacterized protein
+Y1_g_02464	K07707	138.17	229.7	4.8e-69	0.99	0.92	two-component system, LytTR family, response regulator AgrA
+Y1_g_02465	K07706	126.57	160.2	1.3e-47	0.43	0.98	two-component system, LytTR family, sensor histidine kinase AgrC [EC:2.7.13.3]
+Y1_g_02466	K01834	161.93	266.3	7.1e-80	0.31	0.97	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]
+Y1_g_02472	K01839	103.37	561.2	3.7e-169	0.74	0.99	phosphopentomutase [EC:5.4.2.7]
+Y1_g_02474	K00757	118.00	118.0	7.8e-35	0.64	0.91	uridine phosphorylase [EC:2.4.2.3]
+Y1_g_02481	K00147	551.80	630.1	3.7e-190	0.85	0.98	glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]
+Y1_g_02482	K00931	278.97	339.3	7.4e-102	0.54	0.95	glutamate 5-kinase [EC:2.7.2.11]
+Y1_g_02486	K07284	59.80	190.7	7.5e-57	0.32	0.95	sortase A [EC:3.4.22.70]
+Y1_g_02491	K09384	77.40	369.8	4.2e-111	0.54	0.97	uncharacterized protein
+Y1_g_02494	K10947	57.23	138.8	3e-41	0.49	0.95	PadR family transcriptional regulator, regulatory protein PadR
+Y1_g_02503	K20345	220.67	323.2	3.8e-97	0.97	0.98	membrane fusion protein, peptide pheromone/bacteriocin exporter
+Y1_g_02504	K20344	763.87	927.8	6.5e-280	0.99	0.98	ATP-binding cassette, subfamily C, bacteriocin exporter
+Y1_g_02507	K10974	244.30	336.6	2.6e-101	0.79	0.96	cytosine permease
+Y1_g_02508	K09703	105.87	434.8	4.1e-131	0.94	0.99	uncharacterized protein
+Y1_g_02510	K10710	189.60	200.9	3.9e-60	0.98	0.99	fructoselysine 6-kinase [EC:2.7.1.218]
+Y1_g_02513	K03581	248.13	288.8	1.6e-86	0.62	0.71	exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]
+Y1_g_02515	K09861	37.03	233.8	5.6e-70	0.61	1.00	uncharacterized protein
+Y1_g_02516	K07407	59.83	187.0	1.2e-55	0.69	0.78	alpha-galactosidase [EC:3.2.1.22]
+Y1_g_02517	K02761	281.73	475.2	4.7e-143	0.71	0.97	PTS system cellobiose-specific IIC component
+Y1_g_02520	K09963	60.80	399.2	2.3e-120	0.99	0.99	uncharacterized protein
+Y1_g_02521	K02759	40.70	146.1	1.1e-43	0.64	0.95	PTS system cellobiose-specific IIA component [EC:2.7.1.196 2.7.1.205]
+Y1_g_02523	K18928	246.80	335.6	3.3e-101	0.77	0.92	L-lactate dehydrogenase complex protein LldE
+Y1_g_02524	K18929	467.30	612.4	1.6e-184	0.74	0.98	L-lactate dehydrogenase complex protein LldF
+Y1_g_02525	K00782	121.20	140.0	1.8e-41	0.66	0.99	L-lactate dehydrogenase complex protein LldG
+Y1_g_02526	K02356	100.57	222.5	5.6e-67	0.82	0.99	elongation factor P
+Y1_g_02528	K15580	365.10	527.7	8.8e-159	0.79	0.99	oligopeptide transport system substrate-binding protein
+Y1_g_02529	K15581	354.77	395.4	3.9e-119	0.84	0.99	oligopeptide transport system permease protein
+Y1_g_02530	K15582	349.70	380.5	6.7e-115	0.93	0.98	oligopeptide transport system permease protein
+Y1_g_02531	K15583	528.07	602.1	2.1e-181	0.53	0.95	oligopeptide transport system ATP-binding protein
+Y1_g_02532	K10823	451.03	493.2	1.1e-148	0.74	0.96	oligopeptide transport system ATP-binding protein
+Y1_g_02545	K00925	127.90	555.3	2.1e-167	0.70	0.99	acetate kinase [EC:2.7.2.1]
+Y1_g_02548	K01992	21.17	27.4	3.6e-07	0.52	0.91	ABC-2 type transport system permease protein
+Y1_g_02549	K07979	98.20	148.4	4.2e-44	0.56	0.95	GntR family transcriptional regulator
+Y1_g_02552	K00034	319.33	367.0	6.6e-111	1.00	1.00	glucose 1-dehydrogenase [EC:1.1.1.47]
+Y1_g_02553	K00259	301.40	447.0	8.4e-135	0.97	0.99	alanine dehydrogenase [EC:1.4.1.1]
+Y1_g_02554	K01754	251.53	447.3	1.9e-134	0.29	0.94	threonine dehydratase [EC:4.3.1.19]
+Y1_g_02557	K08659	96.73	638.5	1.2e-192	1.00	0.98	dipeptidase [EC:3.4.-.-]
+Y1_g_02560	K18939	152.53	188.7	1.7e-56	0.97	0.97	TetR/AcrR family transcriptional regulator, lmrAB and yxaGH operons repressor
+Y1_g_02561	K01223	486.53	726.2	2.4e-219	0.90	0.99	6-phospho-beta-glucosidase [EC:3.2.1.86]
+Y1_g_02562	K02757	677.33	765.5	8e-231	0.78	0.98	PTS system beta-glucoside-specific IIC component
+Y1_g_02568	K02795	231.67	248.8	1.2e-74	0.78	0.99	PTS system mannose-specific IIC component
+Y1_g_02570	K02794	173.90	180.0	1e-53	0.51	0.99	PTS system mannose-specific IIB component [EC:2.7.1.191]
+Y1_g_02572	K07106	134.87	464.8	7.3e-140	0.45	0.97	N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126]
+Y1_g_02574	K19802	289.03	505.0	2.6e-152	0.77	0.99	L-Ala-D/L-Glu epimerase [EC:5.1.1.20]
+Y1_g_02575	K17836	88.63	117.7	1.1e-34	0.55	0.87	beta-lactamase class A [EC:3.5.2.6]
+Y1_g_02578	K00763	93.10	561.6	3.5e-169	0.76	0.98	nicotinate phosphoribosyltransferase [EC:6.3.4.21]
+Y1_g_02581	K05815	314.27	341.6	5.9e-103	0.88	0.99	sn-glycerol 3-phosphate transport system permease protein
+Y1_g_02582	K05813	338.47	414.8	7.3e-125	0.81	0.97	sn-glycerol 3-phosphate transport system substrate-binding protein
+Y1_g_02583	K03741	124.97	190.7	9.4e-57	0.37	0.95	arsenate reductase (thioredoxin) [EC:1.20.4.4]
+Y1_g_02584	K01126	130.67	171.7	3.5e-51	0.25	0.90	glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+Y1_g_02592	K03828	104.83	136.5	9.9e-41	0.67	0.98	putative acetyltransferase [EC:2.3.1.-]
+Y1_g_02594	K01624	70.47	270.6	4.9e-81	0.61	0.98	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+Y1_g_02595	K02773	141.80	151.8	1.8e-45	0.80	0.84	PTS system galactitol-specific IIA component [EC:2.7.1.200]
+Y1_g_02596	K02774	65.20	111.2	3.9e-33	0.93	0.94	PTS system galactitol-specific IIB component [EC:2.7.1.200]
+Y1_g_02597	K02775	377.20	564.1	3.6e-170	0.96	0.95	PTS system galactitol-specific IIC component
+Y1_g_02599	K01624	70.47	258.7	2e-77	0.61	0.98	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+Y1_g_02612	K19159	62.63	113.6	1.5e-33	0.33	0.96	antitoxin YefM
+Y1_g_02613	K00852	230.17	370.6	2.7e-111	0.55	0.99	ribokinase [EC:2.7.1.15]
+Y1_g_02614	K10439	218.83	339.5	7.1e-102	0.56	0.98	ribose transport system substrate-binding protein
+Y1_g_02615	K10440	332.30	434.6	1e-130	0.51	0.94	ribose transport system permease protein
+Y1_g_02616	K10441	692.73	746.9	4.8e-225	0.57	0.94	ribose transport system ATP-binding protein [EC:7.5.2.7]
+Y1_g_02617	K06726	121.80	173.6	3.1e-52	0.99	1.00	D-ribose pyranase [EC:5.4.99.62]
+Y1_g_02618	K02529	264.77	312.3	1.3e-93	0.45	0.99	LacI family transcriptional regulator
+Y1_g_02620	K20265	169.33	211.6	2.9e-63	0.79	0.98	glutamate:GABA antiporter
+Y1_g_02621	K00941	317.57	367.2	1.9e-110	0.58	0.96	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]
+Y1_g_02622	K00788	163.43	240.5	4.6e-72	0.55	0.96	thiamine-phosphate pyrophosphorylase [EC:2.5.1.3]
+Y1_g_02623	K00878	150.83	226.5	6.8e-68	0.71	0.88	hydroxyethylthiazole kinase [EC:2.7.1.50]
+Y1_g_02625	K03707	199.17	238.7	1.5e-71	0.76	0.98	thiaminase (transcriptional activator TenA) [EC:3.5.99.2]
+Y1_g_02628	K16925	62.77	160.9	4.7e-48	0.79	0.95	energy-coupling factor transport system substrate-specific component
+Y1_g_02636	K03205	95.83	329.0	9.5e-99	0.87	0.88	type IV secretion system protein VirD4 [EC:7.4.2.8]
+Y1_g_02658	K15051	68.00	199.7	1.5e-59	0.63	0.98	DNA-entry nuclease
+Y1_g_02667	K04485	122.17	670.6	2.7e-202	0.81	1.00	DNA repair protein RadA/Sms
+Y1_g_02668	K01520	57.00	104.7	7.4e-31	0.52	0.92	dUTP pyrophosphatase [EC:3.6.1.23]
+Y1_g_02669	K06975	39.17	78.6	8.7e-23	0.45	0.93	uncharacterized protein
+Y1_g_02671	K01372	76.40	513.0	1.5e-154	0.86	0.99	bleomycin hydrolase [EC:3.4.22.40]
+Y1_g_02672	K01372	76.40	646.4	5.3e-195	0.88	0.99	bleomycin hydrolase [EC:3.4.22.40]
+Y1_g_02676	K03549	53.40	556.6	2e-167	0.64	0.90	KUP system potassium uptake protein
+Y1_g_02677	K01006	288.10	1410.5	0	0.79	1.00	pyruvate, orthophosphate dikinase [EC:2.7.9.1]
+Y1_g_02678	K23774	196.23	240.2	2.3e-72	0.98	0.97	DeoR family transcriptional regulator, catabolite repression regulator
+Y1_g_02688	K00789	20.27	646.7	4.7e-195	0.73	0.99	S-adenosylmethionine synthetase [EC:2.5.1.6]
+Y1_g_02693	K19302	86.77	129.7	2e-38	0.54	0.84	undecaprenyl-diphosphatase [EC:3.6.1.27]
+Y1_g_02694	K01869	429.83	1290.5	0	0.56	1.00	leucyl-tRNA synthetase [EC:6.1.1.4]
+Y1_g_02696	K06183	295.23	299.0	9.1e-90	0.45	0.98	16S rRNA pseudouridine516 synthase [EC:5.4.99.19]
+Y1_g_02697	K07069	38.10	99.2	1.8e-29	0.71	0.97	uncharacterized protein
+Y1_g_02698	K17758	200.90	225.8	1.7e-67	0.46	0.98	ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]
+Y1_g_02705	K00244	371.27	574.4	5.2e-173	0.76	0.98	fumarate reductase flavoprotein subunit [EC:1.3.5.4]
+Y1_g_02707	K02821	82.27	154.4	6e-46	0.60	0.47	PTS system ascorbate-specific IIA component [EC:2.7.1.194]
+Y1_g_02708	K02822	68.60	82.0	4.7e-24	0.82	0.95	PTS system ascorbate-specific IIB component [EC:2.7.1.194]
+Y1_g_02709	K03475	47.33	476.2	1.7e-143	0.81	0.98	PTS system ascorbate-specific IIC component
+Y1_g_02711	K01624	70.47	259.3	1.3e-77	0.59	0.94	fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+Y1_g_02713	K23356	67.67	113.7	1.4e-33	0.72	0.87	HTH-type transcriptional regulator, sugar sensing transcriptional regulator
+Y1_g_02745	K19002	227.30	555.4	1.5e-167	0.86	0.96	1,2-diacylglycerol 3-alpha-glucosyltransferase [EC:2.4.1.337]
+Y1_g_02746	K13678	298.17	525.9	7.2e-159	0.99	1.00	1,2-diacylglycerol-3-alpha-glucose alpha-1,2-galactosyltransferase [EC:2.4.1.-]
+Y1_g_02747	K07027	89.37	109.7	3.9e-32	0.67	0.97	glycosyltransferase 2 family protein
+Y1_g_02749	K00841	498.23	571.5	1.1e-172	0.98	0.98	aminotransferase [EC:2.6.1.-]
+Y1_g_02751	K19005	761.23	1038.1	0	0.90	0.99	lipoteichoic acid synthase [EC:2.7.8.20]
+Y1_g_02752	K09825	155.93	194.9	1.4e-58	0.68	0.97	Fur family transcriptional regulator, peroxide stress response regulator
+Y1_g_02754	K13583	32.00	38.0	2.8e-10	0.28	0.15	GcrA cell cycle regulator
+Y1_g_02757	K06909	43.00	126.6	2e-37	0.85	0.94	phage terminase large subunit
+Y1_g_02775	K07484	16.40	88.5	9.9e-26	0.45	0.91	transposase
+Y1_g_02777	K01005	48.20	282.0	2.6e-84	0.55	0.98	polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]
+Y1_g_02779	K04086	1181.33	1312.7	0	1.00	0.98	ATP-dependent Clp protease ATP-binding subunit ClpL
+Y1_g_02780	K16509	98.80	147.4	3.5e-44	0.91	0.95	regulatory protein spx
+Y1_g_02781	K04041	459.30	935.8	1.9e-282	0.98	0.99	fructose-1,6-bisphosphatase III [EC:3.1.3.11]
+Y1_g_02789	K03205	95.83	338.2	1.6e-101	0.82	0.93	type IV secretion system protein VirD4 [EC:7.4.2.8]
+Y1_g_02793	K03823	100.60	157.0	1.4e-46	0.45	0.87	phosphinothricin acetyltransferase [EC:2.3.1.183]
+Y1_g_02794	K03327	82.93	121.6	5.9e-36	0.46	0.74	multidrug resistance protein, MATE family
+Y1_g_02795	K06872	41.23	185.8	2e-55	0.66	0.99	uncharacterized protein
+Y1_g_02796	K03744	32.03	215.0	2.7e-64	0.58	0.92	LemA protein
+Y1_g_02797	K01867	137.37	337.9	1.7e-101	0.72	0.98	tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+Y1_g_02798	K02004	47.80	66.6	2.2e-19	0.21	0.48	putative ABC transport system permease protein
+Y1_g_02801	K11041	185.73	357.0	1.1e-107	0.99	0.95	exfoliative toxin A/B
+Y1_g_02805	K05845	174.27	321.4	1.6e-96	0.55	0.58	osmoprotectant transport system substrate-binding protein
+Y1_g_02806	K05847	358.83	427.3	1.6e-128	0.70	0.97	osmoprotectant transport system ATP-binding protein [EC:7.6.2.9]
+Y1_g_02809	K07498	226.60	244.8	3.6e-73	0.41	0.93	putative transposase
+Y1_g_02810	K01153	164.30	494.1	2.1e-148	0.79	0.90	type I restriction enzyme, R subunit [EC:3.1.21.3]
+Y1_g_02811	K03427	97.00	430.4	2.1e-129	0.78	0.95	type I restriction enzyme M protein [EC:2.1.1.72]
+Y1_g_02812	K01154	25.93	143.8	1.3e-42	0.50	0.95	type I restriction enzyme, S subunit [EC:3.1.21.3]
+Y1_g_02816	K01154	25.93	136.3	2.5e-40	0.50	0.95	type I restriction enzyme, S subunit [EC:3.1.21.3]
+Y1_g_02817	K03427	97.00	426.4	3.4e-128	0.78	0.96	type I restriction enzyme M protein [EC:2.1.1.72]
+Y1_g_02818	K01153	164.30	493.8	2.6e-148	0.79	0.91	type I restriction enzyme, R subunit [EC:3.1.21.3]
+Y1_g_02830	K15051	68.00	197.8	5.6e-59	0.63	0.98	DNA-entry nuclease
+Y1_g_02831	K15580	365.10	480.1	2.3e-144	0.80	1.00	oligopeptide transport system substrate-binding protein
+Y1_g_02833	K16203	48.40	224.8	3.1e-67	0.57	0.96	D-amino peptidase [EC:3.4.11.-]
+Y1_g_02856	K07741	55.17	157.3	1.3e-46	0.66	0.87	anti-repressor protein
+Y1_g_02866	K03502	347.97	366.7	2.8e-110	0.85	0.96	DNA polymerase V
+Y1_g_02869	K07483	43.47	62.4	1.1e-17	0.29	0.95	transposase
+Y1_g_02870	K07497	19.93	120.1	2.1e-35	0.33	0.96	putative transposase
+Y1_g_02877	K03502	347.97	363.5	2.4e-109	0.85	0.96	DNA polymerase V
+Y1_g_02890	K07483	43.47	57.9	2.5e-16	0.29	0.83	transposase
+Y1_g_02893	K13583	32.00	40.6	4.3e-11	0.35	0.27	GcrA cell cycle regulator
+Y1_g_02901	K07492	59.87	66.6	4.1e-19	0.30	0.77	putative transposase
+Y1_g_02904	K07485	66.27	130.1	1.5e-38	0.47	0.84	transposase
+Y1_g_02907	K05794	57.13	82.1	6.4e-24	0.15	0.35	tellurite resistance protein TerC
+Y1_g_02909	K13583	32.00	38.9	1.5e-10	0.35	0.18	GcrA cell cycle regulator
+Y1_g_02914	K13583	32.00	35.6	1.5e-09	0.28	0.15	GcrA cell cycle regulator
+Y1_g_02916	K01760	506.40	507.1	8.9e-153	0.69	0.98	cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+Y1_g_02917	K00640	129.97	220.6	5.9e-66	0.46	0.95	serine O-acetyltransferase [EC:2.3.1.30]
+Y1_g_02920	K01160	36.20	47.2	4.1e-13	0.49	0.91	crossover junction endodeoxyribonuclease RusA [EC:3.1.22.4]
+Y1_g_02930	K07483	43.47	61.3	2.3e-17	0.16	0.21	transposase
+Y1_g_02931	K07497	19.93	95.5	5.7e-28	0.33	0.93	putative transposase
+Y1_g_02938	K01160	36.20	64.1	2.7e-18	0.46	0.97	crossover junction endodeoxyribonuclease RusA [EC:3.1.22.4]
+Y1_g_02941	K07497	19.93	70.2	2.6e-20	0.31	0.86	putative transposase
+Y1_g_02947	K07492	59.87	82.8	4.8e-24	0.35	0.84	putative transposase
+Y1_g_02954	K07483	43.47	61.2	2.6e-17	0.28	0.84	transposase
+Y1_g_02955	K07493	40.77	98.6	5.2e-29	0.30	0.91	putative transposase
+Y1_g_02958	K07482	122.00	267.5	2.7e-80	0.78	0.96	transposase, IS30 family
+Y1_g_02959	K07482	122.00	362.6	3.7e-109	0.79	0.98	transposase, IS30 family
+Y1_g_02961	K19426	245.43	301.4	1.2e-90	0.71	1.00	pyruvyl transferase EpsI [EC:2.-.-.-]
+Y1_g_02962	K07482	122.00	244.0	3.9e-73	0.78	0.97	transposase, IS30 family
+Y1_g_02964	K07473	53.57	63.6	3.1e-18	0.55	0.96	DNA-damage-inducible protein J
+Y1_g_02965	K19157	38.70	101.0	8.9e-30	0.64	0.94	mRNA interferase YafQ [EC:3.1.-.-]
+Y1_g_02974	K07486	34.63	94.2	1.6e-27	0.33	0.65	transposase

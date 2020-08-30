@@ -1,0 +1,93 @@
+ZOTU_1	JQ088343.1.1479	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Arcobacter;uncultured bacterium
+ZOTU_2	JF138741.1.1356	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;uncultured bacterium
+ZOTU_3	LN568336.1.1321	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Roseomonas;uncultured bacterium
+ZOTU_4	FJ672447.1.1441	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Proteiniphilum;uncultured bacterium
+ZOTU_5	EU542474.1.1489	Bacteria;Bacteroidetes;Bacteroidetes vadinHA17;uncultured bacterium
+ZOTU_6	JQ072613.1.1343	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured bacterium
+ZOTU_7	CU926767.1.1359	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Paludibacter;uncultured bacterium
+ZOTU_8	AKKU01000023.38873.40404	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alishewanella;Alishewanella agri BL06
+ZOTU_9	HQ000020.1.1382	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;Flavobacterium sp. HME6148
+ZOTU_10	JN217177.1.1510	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Proteiniphilum;uncultured bacterium
+ZOTU_11	DQ116002.1.1486	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;uncultured bacterium
+ZOTU_12	KJ206702.1.1488	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Petrimonas;uncultured bacterium
+ZOTU_13	JOMG01000002.8815.10326	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Desulfuromonadaceae;Pelobacter;Pelobacter seleniigenes DSM 18267
+ZOTU_14	DQ675038.1.1450	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured bacterium
+ZOTU_15	AB491817.1.1456	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Marinovum;uncultured alpha proteobacterium
+ZOTU_16	EF516694.1.1413	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;DA111;uncultured bacterium
+ZOTU_17	LN567607.1.1377	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Crenotalea;uncultured bacterium
+ZOTU_18	DQ676993.1.1505	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Macellibacteroides;iron-reducing enrichment clone Cl-A1
+ZOTU_19	KF934397.1.1461	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Parafilimonas;Filimonas sp. 5GHs7-2
+ZOTU_20	LN565488.1.1319	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;uncultured bacterium
+ZOTU_21	FJ380131.1.1485	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Mizugakiibacter;uncultured bacterium
+ZOTU_22	JQ088387.1.1500	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured bacterium
+ZOTU_23	HE804607.1.1423	Bacteria;Acidobacteria;Acidobacteria;Subgroup 3;Unknown Family;Bryobacter;uncultured bacterium
+ZOTU_24	LN571190.1.1318	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;uncultured bacterium
+ZOTU_25	JQ088380.1.1428	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Thioclava;uncultured bacterium
+ZOTU_26	AY922042.1.1340	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Altererythrobacter;uncultured alpha proteobacterium
+ZOTU_27	EU095328.1.1454	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;Sphingobium qiguonii
+ZOTU_28	KF494676.1.1483	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Aeromicrobium;uncultured bacterium
+ZOTU_29	BAGU01001158.3904.5405	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;uncultured;Promicromonosporaceae bacterium W15
+ZOTU_30	AB681831.1.1410	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium daejeonense
+ZOTU_31	DQ018818.1.1350	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured anaerobic bacterium
+ZOTU_32	JF703555.1.1440	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus;uncultured proteobacterium
+ZOTU_33	EU194888.1.1417	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;Flavisolibacter sp. B32
+ZOTU_34	LN562518.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Defluviicoccus;uncultured bacterium
+ZOTU_35	HQ257379.1.1428	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;Corynebacterium lubricantis
+ZOTU_36	JF223622.1.1358	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;uncultured bacterium
+ZOTU_37	AY093457.1.1447	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alishewanella;uncultured bacterium
+ZOTU_38	JQ247517.1.1286	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;uncultured Streptomyces sp.
+ZOTU_39	EU542474.1.1489	Bacteria;Bacteroidetes;Bacteroidetes vadinHA17;uncultured bacterium
+ZOTU_40	DQ116002.1.1486	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Rheinheimera;uncultured bacterium
+ZOTU_41	GU560159.1.1495	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus;uncultured Azoarcus sp.
+ZOTU_42	GQ263465.1.1469	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;uncultured bacterium
+ZOTU_43	KJ600974.1.1455	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured bacterium
+ZOTU_44	AB369174.1.1446	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alishewanella;uncultured bacterium
+ZOTU_45	EF020067.1.1336	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;uncultured Sphingomonadaceae bacterium
+ZOTU_46	CU926767.1.1359	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Paludibacter;uncultured bacterium
+ZOTU_47	HM131965.1.1505	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Dokdonella;uncultured soil bacterium
+ZOTU_48	JX505342.1.1411	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;uncultured Bradyrhizobium sp.
+ZOTU_49	JN867352.1.1455	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae;Agromyces;Agromyces sp. enrichment culture clone TMX-17
+ZOTU_50	LN565610.1.1322	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Hephaestia;uncultured bacterium
+ZOTU_51	JQ716218.1.1411	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;Sphingopyxis sp. BJGMM-B8
+ZOTU_52	AGBF01000432.45.1576	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces zinciresistens K42
+ZOTU_53	LN567681.1.1367	Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Streptosporangiaceae;uncultured;uncultured bacterium
+ZOTU_54	FJ497442.1.1436	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;uncultured epsilon proteobacterium
+ZOTU_55	JX075112.1.1274	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;uncultured bacterium
+ZOTU_56	CU920660.1.1342	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;uncultured;uncultured bacterium
+ZOTU_57	EU360289.1.1450	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;uncultured Novosphingobium sp.
+ZOTU_58	JF745870.1.1343	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;Sphingomonas sp. JB13
+ZOTU_59	JOHY01000122.128.1606	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;Streptomyces sp. NRRL F-5123
+ZOTU_60	AULN01000012.143081.144605	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;Luteimonas mephitis DSM 12574
+ZOTU_61	EU016445.1.1484	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Cellulomonadaceae;Actinotalea;uncultured Cellulomonadaceae bacterium
+ZOTU_62	KJ128032.1.1448	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;uncultured Rhizobium sp.
+ZOTU_63	JQ245605.1.1389	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Nitrincola;uncultured bacterium
+ZOTU_64	AB369174.1.1446	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alishewanella;uncultured bacterium
+ZOTU_65	FJ347718.1.1217	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Proteiniclasticum;uncultured bacterium
+ZOTU_66	JF120257.1.1345	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Kribbella;uncultured bacterium
+ZOTU_67	DQ337057.1.1500	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;uncultured;uncultured bacterium
+ZOTU_68	JN981895.1.1498	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Macellibacteroides;uncultured Spirochaetes bacterium
+ZOTU_69	LN570920.1.1355	Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Thermomonosporaceae;Actinomadura;uncultured bacterium
+ZOTU_70	HQ395191.1.1485	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;WCHB1-69;uncultured bacterium
+ZOTU_71	HQ639027.1.1425	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;Corynebacterium sp. NNC-3
+ZOTU_72	JPYQ01000020.388.1881	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium;Rhizobium sp. YS-1r
+ZOTU_73	GQ262963.1.1441	Bacteria;Chloroflexi;S085;uncultured bacterium
+ZOTU_74	LN567607.1.1377	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Crenotalea;uncultured bacterium
+ZOTU_75	JN683977.1.1495	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae;Nitrincola;uncultured bacterium
+ZOTU_76	GQ182320.1.1399	Bacteria;Spirochaetae;Spirochaetes;Spirochaetales;Spirochaetaceae;uncultured;uncultured bacterium
+ZOTU_77	JQ085720.1.1487	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured bacterium
+ZOTU_78	DQ159184.1.1508	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter;uncultured bacterium
+ZOTU_79	LN568108.1.1318	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Nitratireductor;uncultured bacterium
+ZOTU_80	HM319117.1.1337	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Aeromicrobium;uncultured bacterium
+ZOTU_81	GU136558.1.1482	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Proteiniclasticum;Clostridia bacterium S130(4)-2
+ZOTU_82	JQ716218.1.1411	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis;Sphingopyxis sp. BJGMM-B8
+ZOTU_83	JX945764.1.1431	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas sp. LARP66
+ZOTU_84	LN567260.1.1334	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Variibacter;uncultured bacterium
+ZOTU_85	EU491883.1.1428	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AT-s3-44;uncultured bacterium
+ZOTU_86	FJ348469.1.1394	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Formosa;Formosa spongicola
+ZOTU_87	CU921122.1.1360	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Thauera;uncultured bacterium
+ZOTU_88	EU194888.1.1417	Bacteria;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae;Taibaiella;Flavisolibacter sp. B32
+ZOTU_89	EU360289.1.1450	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter;uncultured Novosphingobium sp.
+ZOTU_90	JQ337769.1.1390	Bacteria;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae;Chryseolinea;uncultured bacterium
+ZOTU_91	FJ672348.1.1396	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Porphyromonadaceae;Proteiniphilum;uncultured bacterium
+ZOTU_92	JQ337440.1.1432	Bacteria;Verrucomicrobia;Spartobacteria;Chthoniobacterales;Xiphinematobacteraceae;Candidatus Xiphinematobacter;uncultured bacterium
+ZOTU_93	CEGC01000373.3585.5048	Bacte

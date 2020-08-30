@@ -11,6 +11,7 @@
 **命令行接口：**
 
     $ tsv-utils agg
+    
     Usage: tsv-utils agg [options] [label:text ...]
     Options:
       -k STR  the keys fields pattern: 1:2:3, default: [1];
@@ -37,7 +38,7 @@
 
 **示例演示：**
 
- 示例文件：C11-1.genes.txt  C11-2.genes.txt 
+**示例文件：** `C11-1.genes.txt  C11-2.genes.txt`
 
 该文件是Salmon（combine-lab.github.io/salmon/）对`RNA-seq` 数据的定量结果。
 

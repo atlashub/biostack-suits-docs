@@ -10,7 +10,8 @@
 
     $ tsv-utils abundance
     
-    Usage: tsv-utils abundance <matrix>
+    Usage: tsv-utils abundance <tsv>
+    
 
 ### 二、使用场景实例及其用法
 
