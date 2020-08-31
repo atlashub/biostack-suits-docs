@@ -1,0 +1,7 @@
+#SampleID	Description
+A-1	A
+A-2	A
+B-1	B
+B-2	B
+C-1	C
+C-2	C

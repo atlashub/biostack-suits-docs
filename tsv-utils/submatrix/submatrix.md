@@ -10,7 +10,17 @@
 
     $ tsv-utils submatrix
     
-    Usage:tsv-utils submatrix <matrix> <samples>
+    Usage:tsv-utils submatrix  [options]  <matrix> <samples>
+    
+    Options:
+      -d    Export distance matrix format.
+
+**可选参数：**
+
+```
+ -d		删除第一行第一列的表头
+```
+
 
 
 ### 二、使用场景实例及其用法
@@ -22,7 +32,7 @@
 
 **示例演示：**
 
-**示例文件：**  `,`
+**示例文件：**  `bray_curtis.txt`，`list`
 
     $ cat bray_curtis.txt
     bray_curtis     A-1     A-2     B-1     B-2     C-1     C-2
@@ -52,8 +62,7 @@
     B-1     0.986   0.976   0       0.134
     B-2     0.986   0.976   0.134   0
 
-
-使用 `-d` 参数, 可以去除`bray_curtis` 字符串
+**参数使用1：**使用 `-d` 参数, 可以去除`bray_curtis` 字符串
 
     $ tsv-utils  submatrix -d  bray_curtis.txt  list
             A-1     A-2     B-1     B-2

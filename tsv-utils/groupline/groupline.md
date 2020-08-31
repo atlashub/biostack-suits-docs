@@ -12,7 +12,8 @@
     
     Usage: tsv-utils groupline [options] <db> <text>
     
-    Options: -r  replace headline [default: add headline].
+    Options: 
+    -r  replace headline [default: add headline].
 
 **可选参数：**
 

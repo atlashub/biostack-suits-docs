@@ -4,7 +4,7 @@
 
 **功能描述：**
 
-`tsv-utils nfilter` 对数值表进行过滤行操作，通过指定某一列，将该列大于或者小于设定阈值的行过滤掉；
+`tsv-utils nfilter` 对数值表进行过滤行操作，通过指定某一列，将该列大于或者小于设定阈值的行过滤掉。
 
 **命令行接口：**
 
@@ -20,7 +20,7 @@
 **可选参数**
 
 
-        -f 指定   指定某一列用来与阈值进行比较，默认指定为第二列
+        -f 整数   指定某一列用来与阈值进行比较，默认指定为第二列
         -l 标识符 如果添加该参数则将过滤掉小于阈值的行，不添加则过滤掉大于阈值的行
 
 
@@ -45,38 +45,38 @@
 
 **运行命令：**
 
-打印出 `zotu_table_ann.txt` 中`A-1` 样本 ZOTU reads数少于`1000` 的行。
+打印出 `zotu_table_ann.txt` 中`C-2` 样本 ZOTU reads数少于`1000` 的行。
 
-    $ cut -f1,2,8 zotu_table_ann.txt  | tsv-utils  nfilter -f2  -  500  | head -n 10
-
-
-    #OTU ID A-1     taxonomy
-    ZOTU_1  0       d:Bacteria,p:"Proteobacteria",c:Epsilonproteobacteria,o:Campylobacterales,f:Campylobacteraceae,g:Arcobacter
-    ZOTU_2  223     d:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Halomonadaceae,g:Halomonas
-    ZOTU_3  0       d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Roseomonas
-    ZOTU_4  0       d:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae"
-    ZOTU_5  0       d:Bacteria,p:"Bacteroidetes"
-    ZOTU_6  1       d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Rhizobiaceae
-    ZOTU_7  0       d:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae"
-    ZOTU_8  0       d:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Alteromonadales,f:Alteromonadaceae,g:Alishewanella
-    ZOTU_9  0       d:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Flavobacterium
+    $ cut -f1,7,8 zotu_table_ann.txt  | tsv-utils  nfilter -f2  -  1000  | head -n 10
 
 
-打印出 `zotu_table_ann.txt` 中`A-1` 样本 ZOTU reads数少于`10000` 的行, 使用参数 `-l`;
+    #OTU ID C-2     taxonomy
+    ZOTU_2  69      d:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Oceanospirillales,f:Halomonadaceae,g:Halomonas
+    ZOTU_8  1       d:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Alteromonadales,f:Alteromonadaceae,g:Alishewanella
+    ZOTU_9  2       d:Bacteria,p:"Bacteroidetes",c:Flavobacteriia,o:"Flavobacteriales",f:Flavobacteriaceae,g:Flavobacterium
+    ZOTU_11 0       d:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Chromatiales
+    ZOTU_15 559     d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodobacterales,f:Rhodobacteraceae
+    ZOTU_16 0       d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales
+    ZOTU_17 0       d:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae
+    ZOTU_19 0       d:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Parafilimonas,s:Parafilimonas_terrae
+    ZOTU_20 11      d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales
 
-    $ cut -f1,2,8 zotu_table_ann.txt  | tsv-utils  nfilter  -l -f2  -  500  | head -n 10
+
+使用参数 `-l`,打印出 `zotu_table_ann.txt` 中`C-2` 样本 ZOTU reads数大于`1000` 的行。
+
+    $ cut -f1,7,8 zotu_table_ann.txt  | tsv-utils  nfilter -l  -f2 - 1000 | head -n 10
 
 
-    #OTU ID A-1     taxonomy
-    ZOTU_16 860     d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales
-    ZOTU_17 829     d:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae
-    ZOTU_19 779     d:Bacteria,p:"Bacteroidetes",c:Sphingobacteriia,o:"Sphingobacteriales",f:Chitinophagaceae,g:Parafilimonas,s:Parafilimonas_terrae
-    ZOTU_20 694     d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales
-    ZOTU_21 724     d:Bacteria,p:"Proteobacteria",c:Gammaproteobacteria,o:Xanthomonadales,f:Xanthomonadaceae
-    ZOTU_23 603     d:Bacteria,p:"Acidobacteria",c:Acidobacteria_Gp3,g:Gp3
-    ZOTU_24 550     d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Phyllobacteriaceae
-    ZOTU_26 607     d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Sphingomonadales,f:Erythrobacteraceae
-    ZOTU_28 550     d:Bacteria,p:"Actinobacteria",c:Actinobacteria,o:Actinomycetales,f:Nocardioidaceae,g:Aeromicrobium
+    #OTU ID C-2     taxonomy
+    ZOTU_1  3608    d:Bacteria,p:"Proteobacteria",c:Epsilonproteobacteria,o:Campylobacterales,f:Campylobacteraceae,g:Arcobacter
+    ZOTU_3  2021    d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhodospirillales,f:Acetobacteraceae,g:Roseomonas
+    ZOTU_4  2172    d:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae"
+    ZOTU_5  2143    d:Bacteria,p:"Bacteroidetes"
+    ZOTU_6  1938    d:Bacteria,p:"Proteobacteria",c:Alphaproteobacteria,o:Rhizobiales,f:Rhizobiaceae
+    ZOTU_7  1883    d:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae"
+    ZOTU_10 1650    d:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae"
+    ZOTU_12 1503    d:Bacteria,p:"Bacteroidetes",c:"Bacteroidia",o:"Bacteroidales",f:"Porphyromonadaceae",g:Petrimonas,s:Petrimonas_sulfuriphila
+    ZOTU_13 1513    d:Bacteria,p:"Proteobacteria",c:Deltaproteobacteria,o:Desulfuromonadales,f:Desulfuromonadaceae,g:Pelobacter,s:Pelobacter_seleniigenes
 
 
 本文材料为 **BASE** (**B**iostack **A**pplied bioinformatic **SE**ies ) 课程 **Linux Command Line Tools for Life Scientists** 材料， 版权归 **上海逻捷信息科技有限公司** 所有。

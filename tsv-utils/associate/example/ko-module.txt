@@ -1,0 +1,80 @@
+K10944	Ammonia monooxygenase
+K10945	Ammonia monooxygenase
+K10946	Ammonia monooxygenase
+K00926	Carbamate kinase
+K01948	Carbamoyl-phosphate synthase
+K01672	Carbonic anhydrase
+K01673	Carbonic anhydrase
+K01674	Carbonic anhydrase
+K01743	Carbonic anhydrase
+K18245	Carbonic anhydrase
+K18246	Carbonic anhydrase
+K01725	Cyanate lyase
+K00367	Ferredoxin-nitrate reductase
+K00366	Ferredoxin-nitrite reductase
+K01455	Formamidase
+K15877	Fungal nitric oxide reductase
+K00260	glutamate dehydrogenase
+K00261	glutamate dehydrogenase
+K00262	glutamate dehydrogenase
+K15371	glutamate dehydrogenase
+K00284	Glutamate synthase (ferredoxin)
+K00264	Glutamate synthase (NADH)
+K00265	Glutamate synthase (NADPH)
+K00266	Glutamate synthase (NADPH)
+K01915	Glutamine synthetase
+K20935	Hydrazine hydrolase
+K20932	Hydrazine synthase
+K20933	Hydrazine synthase
+K20934	Hydrazine synthase
+K10535	Hydroxylamine oxidoreductase
+K05601	Hydroxylamine reductase
+K15864	Hydroxylamine reductase
+K02575	Nitrate/Nitrite transporter
+K00360	Nitrate reductase
+K00372	Nitrate reductase
+K02567	Nitrate reductase (cytochrome)
+K02567	Nitrate reductase (cytochrome)
+K02568	Nitrate reductase (cytochrome)
+K02568	Nitrate reductase (cytochrome)
+K00362	Nitrate reductase (NADH)
+K00363	Nitrate reductase (NADH)
+K10534	Nitrate reductase (NAD(P)H)
+K15576	Nitrate transport system
+K15577	Nitrate transport system
+K15578	Nitrate transport system
+K15579	Nitrate transport system
+K02305	Nitric oxide reductase
+K04561	Nitric oxide reductase
+K01501	Nitrilase
+K00370	Nitrite oxidoreductase
+K00370	Nitrite oxidoreductase
+K00370	Nitrite oxidoreductase
+K00371	Nitrite oxidoreductase
+K00371	Nitrite oxidoreductase
+K00371	Nitrite oxidoreductase
+K00374	Nitrite oxidoreductase
+K00374	Nitrite oxidoreductase
+K03385	Nitrite reductase (cytochrome c-552)
+K15876	Nitrite reductase (cytochrome c-552)
+K17877	Nitrite reductase (NAD(P)H)
+K00368	Nitrite reductase (NO-forming)
+K00368	Nitrite reductase (NO-forming)
+K15864	Nitrite reductase (NO-forming)
+K15864	Nitrite reductase (NO-forming)
+K19823	Nitroalkane oxidase
+K00531	Nitrogenase
+K02586	Nitrogenase
+K02588	Nitrogenase
+K02591	Nitrogenase
+K22896	Nitrogenase
+K22897	Nitrogenase
+K22898	Nitrogenase
+K22899	Nitrogenase
+K00459	Nitronate monooxygenase
+K00376	Nitrous-oxide reductase
+K01427	Urease
+K01428	Urease
+K01429	Urease
+K01430	Urease
+K14048	Urease

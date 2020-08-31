@@ -34,7 +34,7 @@
 
 **示例文件：** `megablast.txt，SILVA_123_SSURef.txt` 
 
-    $ cat  blastn.txt | head -n6
+    $ cat  megablast.txt | head -n6
 
 
     ZOTU_1  JQ088343.1.1479 100.000 404     0       0       1       404     355     758     0.0     747

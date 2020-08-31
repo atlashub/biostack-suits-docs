@@ -9,16 +9,16 @@
 **命令行接口：**
 
     $ tsv-utils  reorder
-
+    
     Usage: tsv-utils reorder [options] <tsv> <list>
-
+    
     Options:
       -t INT Target in fields to reorder, default: [1]
 
 
 **可选参数：**
 
-    -t  整数      指定矩阵中需要排序的列；
+    -t  整数      指定矩阵中需要排序的列，默认为第一列；
 
 ### 二、使用场景实例及其用法
 
@@ -34,12 +34,13 @@
     A-1     0.0313  0.00669
     B-1     0.072   0.00502
 
-    $ cat list
+```
+$ cat list
+```
 
 
-    A-2
     A-1
-    B-1
+    A-2
     B-2
 
 **运行命令**

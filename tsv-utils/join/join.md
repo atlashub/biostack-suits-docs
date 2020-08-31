@@ -4,7 +4,7 @@
 
 **功能描述：**
 
-`tsv-utils join` 合并多个制表符文件，主键为第一列，其余列合并在一个文件的不同列；
+`tsv-utils join` 合并多个制表符文件，主键为第一列，其余列合并在一个文件的不同列。
 
 **命令行接口：**
 
@@ -42,7 +42,7 @@
     ZOTU_173        88
     ZOTU_201        58
 
-**运行命令：**， 缺失的数值使用 `0` 补全
+**运行命令：** 缺失的数值使用 `0` 补全
 
     $ tsv-utils join -p 0  A-1.zotu_table.txt  A-2.zotu_table.txt  B-1.zotu_table.txt  B-2.zotu_table.txt | head -n 6
 

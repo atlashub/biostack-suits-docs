@@ -13,13 +13,14 @@
     $ tsv-utils agg
     
     Usage: tsv-utils agg [options] [label:text ...]
+    
     Options:
       -k STR  the keys fields pattern: 1:2:3, default: [1];
       -t STR  the titles for keys: key_1:key_2:key_3, default: [catalog];
       -c INT  the target column default: [2];
       -p CHAR placehold for missing value: default ['0'];
+      -d STR  delimiter between same key, default: [\cA]
       -i      ignore the head line;
-      -v      print version number
 
 **可选参数：**
 
@@ -27,7 +28,8 @@
     -t 指定（组合） 列的表头，单列默认catalog，如果指定多列作为key，默认使用key_1， key_2 \          
        描述表头，可以显示指定. -k的个数要和-t的个数对应;
     -c 汇总目标列，默认使用第二列；
-    -p 占位符， 填充缺失数据
+    -p 字符， 填充缺失数据，默认为'0'
+    -d 字符串	相同键之间的分隔符，默认为'\cA'
     -i 忽略标题行
 
 ### 二、使用场景实例及其用法

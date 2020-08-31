@@ -9,18 +9,19 @@
 **命令行接口：**
 
     $ tsv-utils  rank
-
+    
     Usage: tsv-utils rank [options] <tsv>
-    Options: -r  INT top catalogs.
-             -m      merge remain to others catalog.
-             -e  STR extend specified string to Others catalog.
+    Options: 
+    -r  INT top catalogs.
+    -m      merge remain to others catalog.
+    -e  STR extend specified string to Others catalog.
 
 
 **可选参数：**
 
-    -r  整数 显示指定的行数;
-    -m       合并剩下的行到一起;
-    -e       指定合并分类名称；  
+    -r  整数 	   显示指定的行数;
+    -m       	合并剩下的行到一起;
+    -e  字符串   指定合并分类名称；  
 
 
 ### 二、使用场景实例及其用法

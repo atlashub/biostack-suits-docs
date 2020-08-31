@@ -8,9 +8,9 @@
 
 命令行接口：
 
-    $ tsv-utils subcolumn   
+    $ tsv-utils subcolumn
     
-    Usage:tsv-utils subcolumn <tsv> <id|list>
+    Usage:tsv-utils subcolumn [options] <tsv> <id|list>
     
     Options:
       -k       query using key id.

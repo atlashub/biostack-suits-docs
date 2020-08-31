@@ -4,14 +4,14 @@
 
 **功能描述：**
 
-`tsv-utils collapse` 将指定的多列元素合并为一列，并可以指定合并元素之间的分隔符；
+`tsv-utils collapse` 将指定的多列元素合并为一列，并可以指定合并元素之间的分隔符。
 
 **命令行接口：**
 
     $ tsv-utils collapse
     
     Usage: tsv-utils collapse [options] <tsv>
-
+    
     Options:
       -f  fields to collapse. Comma separated, ie: 1,2,3.
       -d  delim.
@@ -21,13 +21,13 @@
     -f   指定要合并连续的列，如1,2,3；
     -d   指定元素之间的分隔符；
 
-### 二、使用场景实例及其用法(更换使用用例)
+### 二、使用场景实例及其用法
 
 **示例演示**
 
 **示例文件：** `megablast.txt，SILVA_123_SSURef.txt` 
 
-    $ cat  blastn.txt | head -n6
+    $ cat  megablast.txt | head -n6
 
 
     ZOTU_1  JQ088343.1.1479 100.000 404     0       0       1       404     355     758     0.0     747

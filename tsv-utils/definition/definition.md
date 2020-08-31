@@ -4,7 +4,7 @@
 
 **功能描述：**
 
-`tsv-utils definition` 根据字典：`key/value` 对指定的文件列进行注释；
+`tsv-utils definition` 根据字典：`key/value` 对指定的文件列进行注释。
 
 `注意事情1`:  `key/value` 至选择2列，第一列为`key`，第二列为`value`，一对多的`key/value`关系的`value`进行合并，经将注释信息合并在指定列的后面，可指定分割符。
 
@@ -13,7 +13,7 @@
 **命令行接口：**
 
     $ tsv-utils  definition
-
+    
     Usage: tsv-utils definition [options] <db> <tab>
     Options:
       -c INT     target col for annotation, default: [1]
@@ -31,7 +31,7 @@
     -t  字符串 注释列的表头，默认为definition;
     -p  字符串 若不存在注释则用指定的字符填充，默认为'-';
 
-### 二、使用场景实例及其用法###
+### 二、使用场景实例及其用法
 
 **示例演示：**
 
