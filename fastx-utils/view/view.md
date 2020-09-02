@@ -42,12 +42,10 @@
     >AGE81073.1 hypothetical protein HD73_5496 [Bacillus thuringiensis serovar kurstaki str. HD73]
     MDKVISNEILQQFKDRMRLGDDEDANLRRILFASNKDLTRVCGNYDLNIDEVFKELVFERSRYVYNDALEYFDKNFLSQINSLSIGKALEAIKLDGD
 
-
 **运行命令：** 显示  `protein.faa` 文件信息。
 
-   $ fastx-utils view  protein.faa | head -n6
 
-
+    $ fastx-utils view  protein.faa | head -n6
     AGE80385.1
     AGE79558.1
     AGE81073.1

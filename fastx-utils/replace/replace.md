@@ -1,4 +1,4 @@
-# fastx-utils之截断序列：replace
+# fastx-utils之修改序列名称：replace
 
 ### 一、fastx-utils replace介绍
 
@@ -9,9 +9,9 @@
 **命令行接口：**
 
     $ fastx-utils  replace
-
+    
     Usage: fastx-utils replace [options] <db> <fasta>
-
+    
     Options:
       -r  remove unmapped sequence.
       -c  remove comment.

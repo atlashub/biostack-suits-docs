@@ -23,8 +23,9 @@
 
 **示例文件：** `SILVA_138_SSURef.fasta`
 
-
-​    $ cat  SILVA_138_SSURef.fasta  | head  -n4
+```
+$ cat  SILVA_138_SSURef.fasta  | head  -n4
+```
 
 
     >HM112333.1.1374 Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;uncultured gamma proteobacterium

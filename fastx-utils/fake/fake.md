@@ -9,15 +9,15 @@
 **命令行接口：**
 
     $ fastx-utils fake
-
+    
     Usage: fastx-utils fake [options] <fa/fq>
-
+    
     Options:
       -q CHAR FASTQ quality . default: [I]
 
 **可选参数：**
     
-    -q    fastq质量值对应的字符.
+    -q   字符	 fastq质量值对应的字符.
 
 
 ### 二、使用场景实例及其用法
@@ -27,7 +27,7 @@
 **示例文件：** `sequence.fastq`
 
     $ cat sequence.fasta | seqtk seq -l 60 |head -n 8
- 
+
 
     >HISEQ:483:HLJ2LBCXY:1:1111:14104:10730
     CCTATGGGATGCACCAGTGGGGAATATTGGACAATGGGCGAAAGCCTGATCCAGCCATGC
