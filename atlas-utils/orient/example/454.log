@@ -1,0 +1,14 @@
+usearch v11.0.667_i86linux32, 4.0Gb RAM (32.7Gb total), 40 cores
+usearch -usearch_global 454.fastq -db rdp_16s_v16_sp.fasta -threads 10 -id 0.5 -maxhits 1 -strand both -userfields query+qstrand -userout 454.txt -log 454.log 
+Started Fri Sep 11 02:23:22 2020
+00:01 62Mb    100.0% Reading rdp_16s_v16_sp.fasta
+00:01 28Mb    100.0% Masking (fastnucleo)
+00:02 29Mb    100.0% Word stats
+00:02 29Mb    100.0% Alloc rows
+00:03 100Mb   100.0% Build index
+Db load time 3 secs (3.00s)
+Search time 2 secs (2.00s)
+
+Finished Fri Sep 11 02:23:27 2020
+Elapsed time 00:05
+Max memory 236Mb

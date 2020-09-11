@@ -1,0 +1,11 @@
+usearch v11.0.667_i86linux32, 4.0Gb RAM (32.7Gb total), 40 cores
+usearch -search_oligodb 454.fastq -db primers.fa -userout 454.txt -strand both -maxdiffs 2 -userfields query+qstrand+target+qlo+qhi+ql+diffs+tlo+thi -log 454.log 
+Started Thu Sep 10 23:38:34 2020
+00:00 41Mb    100.0% Reading primers.fa
+00:00 7.1Mb   100.0% Masking (fastnucleo)
+Db load time 0 secs (0s)
+Search time 0 secs (0s)
+
+Finished Thu Sep 10 23:38:34 2020
+Elapsed time 00:00
+Max memory 126Mb
