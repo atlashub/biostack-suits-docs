@@ -62,10 +62,10 @@
              subsamples       Get target columns with headline match.
              partition        Split OTU table into specify number file.
 
-Licenced:
-(c) 2019-2020 - LEI ZHANG
-Logic Informatics Co.,Ltd.
-zhanglei@logicinformatics.com
+    Licenced:
+    (c) 2019-2020 - LEI ZHANG
+    Logic Informatics Co.,Ltd.
+    zhanglei@logicinformatics.com
 
 
 ### 三、主要子命令功能介绍

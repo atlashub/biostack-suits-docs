@@ -1,0 +1,6 @@
+A01050:204:HF7FGDSXY:4:1101:12943:1016	25457	root,Bacteria,Eremiobacterota,Eremiobacteria,UBP12,UBA5184,Palsa-1478,Palsa-1478 sp003140215	1,3,56,265,1390,3343,8109,25457
+A01050:204:HF7FGDSXY:4:1101:12337:1031	18331	root,Bacteria,Gemmatimonadota,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Fen-1231,Fen-1231 sp003171215	1,3,78,283,806,2237,5826,18331
+A01050:204:HF7FGDSXY:4:1101:16866:1047	8364	root,Bacteria,Actinobacteriota,Actinobacteria,Actinomycetales,Micrococcaceae,Pseudarthrobacter	1,3,9,171,559,2483,8364
+A01050:204:HF7FGDSXY:4:1101:22742:1047	23158	root,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Methylobacterium,Methylobacterium sp003173775	1,3,110,175,1021,1696,7507,23158
+A01050:204:HF7FGDSXY:4:1101:28664:1063	559	root,Bacteria,Actinobacteriota,Actinobacteria,Actinomycetales	1,3,9,171,559
+A01050:204:HF7FGDSXY:4:1101:20473:1094	25986	root,Bacteria,Actinobacteriota,Actinobacteria,Actinomycetales,Dermatophilaceae,Pedococcus,Pedococcus sp001426245	1,3,9,171,559,1919,8203,25986
